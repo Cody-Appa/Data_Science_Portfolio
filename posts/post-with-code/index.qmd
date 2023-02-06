@@ -8,8 +8,8 @@ date: 02/02/2023
 ---
 
 # Summary
-Using digital droplet PCR data we were able to quantify the ratio of the chromosomal origin and terminus of chlamydia on a population level. Using this data we can determine whether a population is actively in the cell cycle or not.
 
+Using digital droplet PCR data we were able to quantify the ratio of the chromosomal origin and terminus of chlamydia on a population level. Using this data we can determine whether a population is actively in the cell cycle or not.
 
 ```{python}
 import matplotlib.pyplot as plt
@@ -28,7 +28,9 @@ datadir = '/Users/codyappa/Documents/BCB504/BCB504Portfolio/posts/post-with-code
 ```{python}
 df = pd.read_csv('Sheet 2-Table 1.csv')
 ```
+
 ## My Data
+
 The data used here is counts from around 20k individual pcr reactions per timepoint isolated in lipid droplets. We then use probes that are specific to individual chromosomal regions within the origin or terminus to determine the number of each. Actively replicating chromosomes start a replication fork at the origin leading to a 2:1 origin to terminus ratio. Non-replicating chromosomes only have one origin.
 
 ```{python}
@@ -46,8 +48,11 @@ Attributes = pd.read_csv('Assignment2_description.csv')
 ```{python}
 Attributes
 ```
+
 ## Plot
-In order to properly visualize the ratios of three different treatments: Untreated, Induced, and Washout samples, I decided to use a violin plot. The violin plot allows for accurate visualization of ratios similar to a box and whisker plot, we then spaced out the individual treatments so that they would not overlap and cover eachother.
+
+In order to properly visualize the ratios of three different treatments: Untreated, Induced, and Washout samples, I decided to use a violin plot. The violin plot allows for accurate visualization of ratios similar to a box and whisker plot, we then spaced out the individual treatments so that they would not overlap and cover each other.
+
 ```{python}
 with plt.style.context('seaborn-white'):
     fig, ax = plt.subplots(ncols=1)
@@ -62,5 +67,7 @@ fig.set_size_inches(4, 4)
 ```{python}
 plt.show()
 ```
+
 # Conclusions
+
 We concluded from this plot that each treatment follows the same trend of starting off as dividing populations and then leaving the cell cycle after 32hpi. This indicates that the cells within the population are largely non replicators such as RBs or IBs.
