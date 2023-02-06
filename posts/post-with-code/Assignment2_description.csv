@@ -1,0 +1,9 @@
+﻿Attribute,Type,Description
+Hpi,Categorical,Hours post infection
+Treatment,Categorical,"Whether sample was untreated, induced for Euo, or induced and washout out at 32hpi"
+PyrG raw,Quantitative,PyrG+ means the PCR was positive for the terminus of the plasmid
+NqrA raw,Quantitative,NqrA+ means the PCR was positive for the origin of the plasmid
+Ratio,Quantitative,The ratio of Origins/Termini
+Dilution,Categorical,Dilution of the wells prior to readout
+PyrG copies/ul,Quantitative,PyrG numbers adjusted for dilution factor
+NqrA copies/ul,Quantitative,Nqra numbers adjusted for dilution factor

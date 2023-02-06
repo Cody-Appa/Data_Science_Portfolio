@@ -1,0 +1,12 @@
+---
+title: "Welcome To My Blog"
+author: "Cody Appa"
+date: "2023-01-30"
+categories: [news]
+---
+
+This blog is my portfolio for BCB504 and my first attempt at conquering the world of data visualization.
+
+![](Unt_32hpiBoth.jpg)
+
+Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
