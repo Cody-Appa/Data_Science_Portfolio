@@ -66,7 +66,11 @@ fig.set_size_inches(4, 4)
 
 ## Data Abstraction
 
-My hypothesis for this experiment was that the untreated, induced, and washout samples would all follow a similar trend as induction did not affect accumulation of non dividing cells. There are multiple action-target pairs that we can draw from this graph. - We wanted to identify features by Identifying the Ratios per biological replicate - After identifying the ratios we then wanted to Summarize the Trends - after summarizing the trends we could then Compare Similarity overtime, Discover Trends in the different treatments, and Derive Correlation between treatment and trends. - The most important action target pair, however is that we Enjoyed the Features!
+My hypothesis for this experiment was that the untreated, induced, and washout samples would all follow a similar trend as induction did not affect accumulation of non dividing cells. There are multiple action-target pairs that we can draw from this graph. 
+  - We wanted to identify features by Identifying the Ratios per biological replicate 
+  - After identifying the ratios we then wanted to Summarize the Trends 
+  - after summarizing the trends we could then Compare Similarity overtime, Discover Trends in the different treatments, and Derive Correlation between treatment and trends. 
+  - The most important action target pair, however is that we Enjoyed the Features!
 
 ```{python}
 plt.show()
