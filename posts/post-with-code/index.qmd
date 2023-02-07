@@ -31,7 +31,7 @@ df = pd.read_csv('Sheet 2-Table 1.csv')
 
 ## My Data
 
-The data used here is counts from around 20k individual pcr reactions per timepoint isolated in lipid droplets. We then use probes that are specific to individual chromosomal regions within the origin or terminus to determine the number of each. Actively replicating chromosomes start a replication fork at the origin leading to a 2:1 origin to terminus ratio. Non-replicating chromosomes only have one origin.
+The data used here is counts from around 20k individual PCR reactions per time point isolated in lipid droplets. We then use probes that are specific to individual chromosomal regions within the origin or terminus to determine the number of each. Actively replicating chromosomes start a replication fork at the origin leading to a 2:1 origin to terminus ratio. Non-replicating chromosomes only have one origin.
 
 ```{python}
 df
