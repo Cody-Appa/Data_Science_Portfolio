@@ -64,6 +64,8 @@ I made a heat map of the datasets which really doesn't show the correlation or a
 with plt.style.context('seaborn-white'):
     fig, ax = plt.subplots(ncols=1)
     sns.histplot(x=df['hpi'], y=df['pyrG copies/ul'], hue=df['Treatment'], data=df, ax=ax, linewidth=.9)
+    ax.set(ylabel='Cell Count')
+    ax.ticklabel_format(axis="y", style="sci", scilimits=(0,2))
 ```
 
 ```{python}
