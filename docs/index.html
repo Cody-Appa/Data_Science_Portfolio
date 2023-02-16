@@ -70,9 +70,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author','listing-subtitle','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -153,7 +153,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="news">news <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Assignment">Assignment <span class="quarto-category-count">(1)</span></div><div class="category" data-category="DataViz">DataViz <span class="quarto-category-count">(1)</span></div><div class="category" data-category="news">news <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
@@ -166,7 +166,45 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1675324800000" data-listing-file-modified-sort="1675979719293" data-listing-reading-time-sort="1.905">
+<div class="quarto-post image-right" data-index="0" data-categories="Assignment,DataViz" data-listing-date-sort="1676361600000" data-listing-file-modified-sort="1676533744070" data-listing-reading-time-sort="0.005">
+<div class="thumbnail">
+<p><a href="./posts/MarksChannels/index.html"> <img src="./posts/MarksChannels/sevendevils.jpg" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="./posts/MarksChannels/index.html">
+<h3 class="no-anchor listing-title">
+Assignment 4
+</h3>
+<div class="listing-subtitle">
+Marks and Channels
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Assignment'); return false;">
+Assignment
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('DataViz'); return false;">
+DataViz
+</div>
+</div>
+<a href="./posts/MarksChannels/index.html">
+<div class="listing-description">
+<p>a hopefully non atrocious attempt to delve into the importance of marks and channels</p>
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./posts/MarksChannels/index.html">
+<div class="listing-date">
+Feb 14, 2023
+</div>
+<div class="listing-author">
+Cody Appa
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1675324800000" data-listing-file-modified-sort="1676532585144" data-listing-reading-time-sort="1.9">
 <div class="thumbnail">
 <a href="./posts/post-with-code/index.html">
 <div class="thumbnail-image">
@@ -198,7 +236,7 @@ Cody Appa
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="news" data-listing-date-sort="1675065600000" data-listing-file-modified-sort="1675378175544" data-listing-reading-time-sort="0.2">
+<div class="quarto-post image-right" data-index="2" data-categories="news" data-listing-date-sort="1675065600000" data-listing-file-modified-sort="1675378175544" data-listing-reading-time-sort="0.2">
 <div class="thumbnail">
 <p><a href="./posts/welcome/index.html"> <img src="./posts/welcome/Unt_32hpiBoth.jpg" class="thumnail-image"> </a></p>
 </div>

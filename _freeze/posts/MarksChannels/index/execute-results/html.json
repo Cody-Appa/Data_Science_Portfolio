@@ -1,0 +1,11 @@
+{
+  "hash": "f1f4031e1d3ae56b1b154f7310209556",
+  "result": {
+    "markdown": "---\ntitle: Assignment 4\nsubtitle: Marks and Channels\nauthor: Cody Appa\nformat: html\ncode-fold: true\ncode-tools: true\ncategories:\n  - Assignment\n  - DataViz\ndate: 02/14/2023\nimage: sevendevils.jpg\ndescription: a hopefully non atrocious attempt to delve into the importance of marks and channels\n---\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

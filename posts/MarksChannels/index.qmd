@@ -1,0 +1,13 @@
+---
+title: "Assignment 4"
+subtitle: "Marks and Channels"
+author: "Cody Appa"
+format: html
+jupyter: python3
+code-fold: true
+code-tools: true
+categories: [Assignment, DataViz]
+date: 02/14/2023
+image: sevendevils.jpg
+description: "a hopefully non atrocious attempt to delve into the importance of marks and channels"
+---
