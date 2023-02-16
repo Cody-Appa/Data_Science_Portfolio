@@ -48,18 +48,16 @@ fig.set_size_inches(4, 4)
 plt.show()
 ```
 ## Figure 2 Marks/Channels
-I decided to homogenize the datasets on this one by removing the line channel, I then changed the color channel to the same. By changing these two channels the data becomes non-readable and gibberish. Though you can still see they follow a similar path....ish.
+I made a heat map of the datasets which really doesn't show the correlation or anything. You can see that as we get towards 48hpi they seem to follow the same ish pattern but really you can't get any correlations from this.
 
 ```{python}
 with plt.style.context('seaborn-white'):
     fig, ax = plt.subplots(ncols=1)
-    sns.pointplot(x=df['hpi'], y=df['pyrG copies/ul'], hue=df['Treatment'], data=df, errwidth=2, capsize=.1, linestyles='none', palette=('orange', 'orange'), dodge=True, ax=ax)
-    with plt.style.context('classic'):
-        ax.legend(loc='upper left', fontsize=10)
-        ax.set(ylabel='Cell Count')
-ax.ticklabel_format(axis="y", style="sci", scilimits=(0,2))
-fig.set_size_inches(4, 4)
+    sns.histplot(x=df['hpi'], y=df['pyrG copies/ul'], hue=df['Treatment'], data=df, ax=ax, linewidth=.9)
 ```
+
 ```{python}
 plt.show()
 ```
+
+
