@@ -1,8 +1,8 @@
 ---
 title: "BCB504 Portfolio"
 author: Cody Appa
-image: profile.jpg
 about:
+  image: profile.jpg
   template: trestles
   links: 
     - https://cody-appa.github.io/Data_Science_Portfolio/
