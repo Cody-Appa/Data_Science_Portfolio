@@ -2,10 +2,10 @@
 title: "BCB504 Portfolio"
 author: Cody Appa
 about:
-  image: profile.jpg
+  image: IMG_6261.JPG
   template: trestles
   links: 
-    - https://cody-appa.github.io/Data_Science_Portfolio/
+    - https://github.com/Cody-Appa
 ---
 
 Cody Appa is a graduate student at the University of Idaho working on his PhD in Molecular/Micro Biology and Biochemistry. He studies the obligate intra-cellular parasite *Chlamydia trachomatis*.

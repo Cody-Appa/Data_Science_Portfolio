@@ -8,6 +8,6 @@ code-fold: true
 code-tools: true
 categories: [Assignment, DataViz]
 date: 02/14/2023
-image: sevendevils.jpg
+image: IMG_7123 Small.jpeg
 description: "a hopefully non atrocious attempt to delve into the importance of marks and channels"
 ---
