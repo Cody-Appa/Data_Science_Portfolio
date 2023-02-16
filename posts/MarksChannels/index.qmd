@@ -11,3 +11,55 @@ date: 02/14/2023
 image: IMG_7123 Small.jpeg
 description: "a hopefully non atrocious attempt to delve into the importance of marks and channels"
 ---
+```{python}
+import matplotlib.pyplot as plt
+import matplotlib.ticker as ticker
+import numpy as np; np.random.seed(22)
+import seaborn as sns; sns.set(color_codes=True)
+import pandas as pd
+import math
+```
+
+```{python}
+datadir = '/Users/codyappa/Documents/GitHub/Data_Science_Portfolio/posts/MarksChannels/Sheet 3-Table 1'
+```
+
+```{python}
+df = pd.read_csv('Sheet 3-Table 1.csv')
+```
+## Figure 1
+The following figure shows chromosomal counts of untreated and induced samples of Euo. By using these counts we can determine that the overall replication rate of the two treatments is the same.
+
+## Marks/Channels
+I used points to show the individual timepoints and then lines to connect them and show the correlation between the two. I then used differing colors to indicate the different datasets. Length of the errorbar is to show diversion from the mean.
+
+```{python}
+with plt.style.context('seaborn-white'):
+    fig, ax = plt.subplots(ncols=1)
+    sns.pointplot(x=df['hpi'], y=df['pyrG copies/ul'], hue=df['Treatment'], data=df, errwidth=2, capsize=.1, linestyles='-', palette=('r', 'g'), dodge=True, ax=ax)
+    with plt.style.context('classic'):
+        ax.legend(loc='upper left', fontsize=10)
+        ax.set(ylabel='Cell Count')
+ax.ticklabel_format(axis="y", style="sci", scilimits=(0,2))
+fig.set_size_inches(4, 4)
+```
+
+```{python}
+plt.show()
+```
+## Figure 2 Marks/Channels
+I decided to homogenize the datasets on this one by removing the line channel, I then changed the color channel to the same. By changing these two channels the data becomes non-readable and gibberish. Though you can still see they follow a similar path....ish.
+
+```{python}
+with plt.style.context('seaborn-white'):
+    fig, ax = plt.subplots(ncols=1)
+    sns.pointplot(x=df['hpi'], y=df['pyrG copies/ul'], hue=df['Treatment'], data=df, errwidth=2, capsize=.1, linestyles='none', palette=('r', 'r'), dodge=True, ax=ax)
+    with plt.style.context('classic'):
+        ax.legend(loc='upper left', fontsize=10)
+        ax.set(ylabel='Cell Count')
+ax.ticklabel_format(axis="y", style="sci", scilimits=(0,2))
+fig.set_size_inches(4, 4)
+```
+```{python}
+plt.show()
+```

@@ -14,6 +14,20 @@
     "text": "This blog is my portfolio for BCB504 and my first attempt at conquering the world of data visualization.\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
+    "objectID": "posts/MarksChannels/index.html",
+    "href": "posts/MarksChannels/index.html",
+    "title": "Assignment 4",
+    "section": "",
+    "text": "Code\nimport matplotlib.pyplot as plt\nimport matplotlib.ticker as ticker\nimport numpy as np; np.random.seed(22)\nimport seaborn as sns; sns.set(color_codes=True)\nimport pandas as pd\nimport math"
+  },
+  {
+    "objectID": "posts/MarksChannels/index.html#cell-counts",
+    "href": "posts/MarksChannels/index.html#cell-counts",
+    "title": "Assignment 4",
+    "section": "Cell Counts",
+    "text": "Cell Counts\nThe following figure shows chromosomal counts of untreated and induced samples of Euo. By using these counts we can determine that the overall replication rate of the two treatments is the same.\n\n\nCode\nwith plt.style.context('seaborn-white'):\n    fig, ax = plt.subplots(ncols=1)\n    sns.pointplot(x=df['hpi'], y=df['pyrG copies/ul'], hue=df['Treatment'], data=df, errwidth=2, capsize=.1, linestyles='-', palette=('r', 'g'), dodge=True, ax=ax)\n    with plt.style.context('classic'):\n        ax.legend(loc='upper left', fontsize=10)\n        ax.set(ylabel='Cell Count')\nax.ticklabel_format(axis=\"y\", style=\"sci\", scilimits=(0,2))\nfig.set_size_inches(4, 4)\n\n\n\n\n\n\n\nCode\nplt.show()"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "BCB504 Portfolio",
@@ -33,5 +47,26 @@
     "title": "BCB504 Portfolio",
     "section": "Education",
     "text": "Education\nUniversity of Idaho, Moscow Idaho | Graduate Student in MMBB. 2021-present\nUniversity of Idaho, Moscow Idaho | B.A. in Biological Sciences. 2015-2019"
+  },
+  {
+    "objectID": "posts/MarksChannels/index.html#figure-1",
+    "href": "posts/MarksChannels/index.html#figure-1",
+    "title": "Assignment 4",
+    "section": "Figure 1",
+    "text": "Figure 1\nThe following figure shows chromosomal counts of untreated and induced samples of Euo. By using these counts we can determine that the overall replication rate of the two treatments is the same."
+  },
+  {
+    "objectID": "posts/MarksChannels/index.html#markschannels",
+    "href": "posts/MarksChannels/index.html#markschannels",
+    "title": "Assignment 4",
+    "section": "Marks/Channels",
+    "text": "Marks/Channels\nI used points to show the individual timepoints and then lines to connect them and show the correlation between the two. I then used differing colors to indicate the different datasets. Length of the errorbar is to show diversion from the mean.\n\n\nCode\nwith plt.style.context('seaborn-white'):\n    fig, ax = plt.subplots(ncols=1)\n    sns.pointplot(x=df['hpi'], y=df['pyrG copies/ul'], hue=df['Treatment'], data=df, errwidth=2, capsize=.1, linestyles='-', palette=('r', 'g'), dodge=True, ax=ax)\n    with plt.style.context('classic'):\n        ax.legend(loc='upper left', fontsize=10)\n        ax.set(ylabel='Cell Count')\nax.ticklabel_format(axis=\"y\", style=\"sci\", scilimits=(0,2))\nfig.set_size_inches(4, 4)\n\n\n\n\n\n\n\nCode\nplt.show()"
+  },
+  {
+    "objectID": "posts/MarksChannels/index.html#figure-2-markschannels",
+    "href": "posts/MarksChannels/index.html#figure-2-markschannels",
+    "title": "Assignment 4",
+    "section": "Figure 2 Marks/Channels",
+    "text": "Figure 2 Marks/Channels\nI decided to homogenize the datasets on this one by removing the line channel, I then changed the color channel to the same. By changing these two channels the data becomes non-readable and gibberish. Though you can still see they follow a similar path….ish.\n\n\nCode\nwith plt.style.context('seaborn-white'):\n    fig, ax = plt.subplots(ncols=1)\n    sns.pointplot(x=df['hpi'], y=df['pyrG copies/ul'], hue=df['Treatment'], data=df, errwidth=2, capsize=.1, linestyles='none', palette=('r', 'r'), dodge=True, ax=ax)\n    with plt.style.context('classic'):\n        ax.legend(loc='upper left', fontsize=10)\n        ax.set(ylabel='Cell Count')\nax.ticklabel_format(axis=\"y\", style=\"sci\", scilimits=(0,2))\nfig.set_size_inches(4, 4)\n\n\n\n\n\n\n\nCode\nplt.show()"
   }
 ]
