@@ -36,7 +36,7 @@ I used points to show the individual timepoints and then lines to connect them a
 ```{python}
 with plt.style.context('seaborn-white'):
     fig, ax = plt.subplots(ncols=1)
-    sns.pointplot(x=df['hpi'], y=df['pyrG copies/ul'], hue=df['Treatment'], data=df, errwidth=2, capsize=.1, linestyles='-', palette=('r', 'g'), dodge=True, ax=ax)
+    sns.pointplot(x=df['hpi'], y=df['pyrG copies/ul'], hue=df['Treatment'], data=df, errwidth=2, capsize=.1, linestyles='-', palette=('orange', 'b'), dodge=True, ax=ax)
     with plt.style.context('classic'):
         ax.legend(loc='upper left', fontsize=10)
         ax.set(ylabel='Cell Count')
@@ -53,7 +53,7 @@ I decided to homogenize the datasets on this one by removing the line channel, I
 ```{python}
 with plt.style.context('seaborn-white'):
     fig, ax = plt.subplots(ncols=1)
-    sns.pointplot(x=df['hpi'], y=df['pyrG copies/ul'], hue=df['Treatment'], data=df, errwidth=2, capsize=.1, linestyles='none', palette=('r', 'r'), dodge=True, ax=ax)
+    sns.pointplot(x=df['hpi'], y=df['pyrG copies/ul'], hue=df['Treatment'], data=df, errwidth=2, capsize=.1, linestyles='none', palette=('orange', 'orange'), dodge=True, ax=ax)
     with plt.style.context('classic'):
         ax.legend(loc='upper left', fontsize=10)
         ax.set(ylabel='Cell Count')
