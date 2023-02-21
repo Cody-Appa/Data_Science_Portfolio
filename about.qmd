@@ -1,5 +1,5 @@
 ---
-title: "BCB504 Portfolio"
+title: "About Me"
 author: Cody Appa
 about:
   image: IMG_6261.JPG

@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
 website:
-  title: "BCB504 Portfolio"
+  title: "Chlamydia Codys Portfolio"
   navbar:
     right:
       - about.qmd

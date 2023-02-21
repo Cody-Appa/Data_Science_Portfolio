@@ -1,5 +1,5 @@
 ---
-title: "BCB504 Portfolio"
+title: "The Cody Code"
 listing:
   contents: posts
   sort: "date desc"
