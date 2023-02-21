@@ -546,17 +546,25 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <span id="cb8-70"><a href="#cb8-70" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb8-71"><a href="#cb8-71" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>Separability: the first dataset was easily separated by color and connecting lines. The second dataset, however, has a lot of overlap which makes it hard to be able to distinguish individual datapoints or any correlation as you look at it. you can just kinda see the colors vaguely mash together in the same areas.</span>
 <span id="cb8-72"><a href="#cb8-72" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb8-75"><a href="#cb8-75" aria-hidden="true" tabindex="-1"></a><span class="in">```{python}</span></span>
-<span id="cb8-76"><a href="#cb8-76" aria-hidden="true" tabindex="-1"></a><span class="cf">with</span> plt.style.context(<span class="st">'seaborn-white'</span>):</span>
-<span id="cb8-77"><a href="#cb8-77" aria-hidden="true" tabindex="-1"></a>    fig, ax <span class="op">=</span> plt.subplots(ncols<span class="op">=</span><span class="dv">1</span>)</span>
-<span id="cb8-78"><a href="#cb8-78" aria-hidden="true" tabindex="-1"></a>    sns.histplot(x<span class="op">=</span>df[<span class="st">'hpi'</span>], y<span class="op">=</span>df[<span class="st">'pyrG copies/ul'</span>], hue<span class="op">=</span>df[<span class="st">'Treatment'</span>], data<span class="op">=</span>df, ax<span class="op">=</span>ax, linewidth<span class="op">=</span><span class="fl">.9</span>)</span>
-<span id="cb8-79"><a href="#cb8-79" aria-hidden="true" tabindex="-1"></a>    ax.<span class="bu">set</span>(ylabel<span class="op">=</span><span class="st">'Cell Count'</span>)</span>
-<span id="cb8-80"><a href="#cb8-80" aria-hidden="true" tabindex="-1"></a>    ax.ticklabel_format(axis<span class="op">=</span><span class="st">"y"</span>, style<span class="op">=</span><span class="st">"sci"</span>, scilimits<span class="op">=</span>(<span class="dv">0</span>,<span class="dv">2</span>))</span>
-<span id="cb8-81"><a href="#cb8-81" aria-hidden="true" tabindex="-1"></a><span class="in">```</span></span>
-<span id="cb8-82"><a href="#cb8-82" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb8-85"><a href="#cb8-85" aria-hidden="true" tabindex="-1"></a><span class="in">```{python}</span></span>
-<span id="cb8-86"><a href="#cb8-86" aria-hidden="true" tabindex="-1"></a>plt.show()</span>
-<span id="cb8-87"><a href="#cb8-87" aria-hidden="true" tabindex="-1"></a><span class="in">```</span></span>
+<span id="cb8-73"><a href="#cb8-73" aria-hidden="true" tabindex="-1"></a><span class="fu">## Marks/Channels Utilized</span></span>
+<span id="cb8-74"><a href="#cb8-74" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-75"><a href="#cb8-75" aria-hidden="true" tabindex="-1"></a>However poorly they were implemented, there are many somewhat clashing marks and channels attempted to be used here in this figure.</span>
+<span id="cb8-76"><a href="#cb8-76" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-77"><a href="#cb8-77" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>Marks: I would make the argument that each individual box is a point, they do not differ in area and there are no lines connecting the data.</span>
+<span id="cb8-78"><a href="#cb8-78" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-79"><a href="#cb8-79" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>Channels: the main channels in use here are positioning, color, and saturation. While these generally are very good channels to use for visualization, the way they mesh in this figure does not allow for easy understanding. While the spatial positioning allows one to see a general trend upwards and saturation allows us to see points of higher density, it isn't clear as to what it is conveying. Opposed to figure 1 which gives easy to see points with error bars, showing us how the two differing treatments follow the same trend figure 2 makes it much harder to glean that relationship.</span>
+<span id="cb8-80"><a href="#cb8-80" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-83"><a href="#cb8-83" aria-hidden="true" tabindex="-1"></a><span class="in">```{python}</span></span>
+<span id="cb8-84"><a href="#cb8-84" aria-hidden="true" tabindex="-1"></a><span class="cf">with</span> plt.style.context(<span class="st">'seaborn-white'</span>):</span>
+<span id="cb8-85"><a href="#cb8-85" aria-hidden="true" tabindex="-1"></a>    fig, ax <span class="op">=</span> plt.subplots(ncols<span class="op">=</span><span class="dv">1</span>)</span>
+<span id="cb8-86"><a href="#cb8-86" aria-hidden="true" tabindex="-1"></a>    sns.histplot(x<span class="op">=</span>df[<span class="st">'hpi'</span>], y<span class="op">=</span>df[<span class="st">'pyrG copies/ul'</span>], hue<span class="op">=</span>df[<span class="st">'Treatment'</span>], data<span class="op">=</span>df, ax<span class="op">=</span>ax, linewidth<span class="op">=</span><span class="fl">.9</span>)</span>
+<span id="cb8-87"><a href="#cb8-87" aria-hidden="true" tabindex="-1"></a>    ax.<span class="bu">set</span>(ylabel<span class="op">=</span><span class="st">'Cell Count'</span>)</span>
+<span id="cb8-88"><a href="#cb8-88" aria-hidden="true" tabindex="-1"></a>    ax.ticklabel_format(axis<span class="op">=</span><span class="st">"y"</span>, style<span class="op">=</span><span class="st">"sci"</span>, scilimits<span class="op">=</span>(<span class="dv">0</span>,<span class="dv">2</span>))</span>
+<span id="cb8-89"><a href="#cb8-89" aria-hidden="true" tabindex="-1"></a><span class="in">```</span></span>
+<span id="cb8-90"><a href="#cb8-90" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-93"><a href="#cb8-93" aria-hidden="true" tabindex="-1"></a><span class="in">```{python}</span></span>
+<span id="cb8-94"><a href="#cb8-94" aria-hidden="true" tabindex="-1"></a>plt.show()</span>
+<span id="cb8-95"><a href="#cb8-95" aria-hidden="true" tabindex="-1"></a><span class="in">```</span></span>
 </code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div></div></div></div></div>
 </div> <!-- /content -->

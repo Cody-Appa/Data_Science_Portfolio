@@ -60,6 +60,14 @@ I made a heat map of the datasets which really doesn't show the correlation or a
 
 -   Separability: the first dataset was easily separated by color and connecting lines. The second dataset, however, has a lot of overlap which makes it hard to be able to distinguish individual datapoints or any correlation as you look at it. you can just kinda see the colors vaguely mash together in the same areas.
 
+## Marks/Channels Utilized
+
+However poorly they were implemented, there are many somewhat clashing marks and channels attempted to be used here in this figure.
+
+-   Marks: I would make the argument that each individual box is a point, they do not differ in area and there are no lines connecting the data.
+
+-   Channels: the main channels in use here are positioning, color, and saturation. While these generally are very good channels to use for visualization, the way they mesh in this figure does not allow for easy understanding. While the spatial positioning allows one to see a general trend upwards and saturation allows us to see points of higher density, it isn't clear as to what it is conveying. Opposed to figure 1 which gives easy to see points with error bars, showing us how the two differing treatments follow the same trend figure 2 makes it much harder to glean that relationship.
+
 ```{python}
 with plt.style.context('seaborn-white'):
     fig, ax = plt.subplots(ncols=1)
