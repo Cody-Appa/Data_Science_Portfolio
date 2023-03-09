@@ -60,7 +60,14 @@
     "href": "posts/HockeyData/index.html#simple-bar-chart",
     "title": "ASSIGNMENT 5",
     "section": "SIMPLE BAR CHART",
-    "text": "SIMPLE BAR CHART\nOne of the best ways to deal with overplotting is to use our keys to SEPARATE and ORDER our data. Let’s do that now. I’ll stick with the summarized data for the 2018 draft year for now.\n\n\nCode\nggplot(drafttot2018, aes(x = name, y=totgames))+\n  geom_col()\n\n\n\n\n\nEpic. We now have a bar (column, really) chart with the key being player name, and the attribute being the total number of games played. We’ve SEPARATED the data using the spatial x-axis position channel, and aligned to that axis as well. But this visualization clearly sucks. You need to make it better by:\n\nAdding a visual channel indicating draft round.\nFixing the order of the x axis.\nMaking a caption and better axis labels.\nFixing the values of the x axis labels so they aren’t such a mess."
+    "text": "SIMPLE BAR CHART\nOne of the best ways to deal with overplotting is to use our keys to SEPARATE and ORDER our data. Let’s do that now. I’ll stick with the summarized data for the 2018 draft year for now.\n\n\nCode\nggplot(drafttot2018, aes(x = name, y=totgames))+\n  geom_col()\n\n\n\n\n\n\n\nCode\nggplot(drafttot2018, aes(x = round, y=totgames, fill = name))+\n  geom_col()+\n  theme(legend.position = \"none\")+\n  labs(title=\"Games Played vs. Draft Round\",x=\"Draft Round\", y = \"Games Played\")+\n  labs(caption = \"Amount of games played total vs draft round for 2018. Color indicates individual players to help with overplotting\")+\n  theme(plot.caption = element_text(hjust=.5))"
+  },
+  {
+    "objectID": "posts/HockeyData/index.html#pseudo-stacked-bar",
+    "href": "posts/HockeyData/index.html#pseudo-stacked-bar",
+    "title": "ASSIGNMENT 5",
+    "section": "Pseudo Stacked Bar?",
+    "text": "Pseudo Stacked Bar?\nI basically just changed the bar graph x axis to draft round and then made the player name a channel in the bar graph to show individuals better and assist with overplotting. It’s kinda similar to the stacked bar you did but with different channels representing different things. I also got rid of the legend because it made it unreadable with color indicating player name the legend was larger than the graph."
   },
   {
     "objectID": "posts/HockeyData/index.html#stacked-bar",

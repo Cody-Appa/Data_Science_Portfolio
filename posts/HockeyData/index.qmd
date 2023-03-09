@@ -161,13 +161,18 @@ ggplot(drafttot2018, aes(x = name, y=totgames))+
   geom_col()
 
 ```
+```{r}
+ggplot(drafttot2018, aes(x = round, y=totgames, fill = name))+
+  geom_col()+
+  theme(legend.position = "none")+
+  labs(title="Games Played vs. Draft Round",x="Draft Round", y = "Games Played")+
+  labs(caption = "Amount of games played total vs draft round for 2018. Color indicates individual players to help with overplotting")+
+  theme(plot.caption = element_text(hjust=.5))
 
-Epic. We now have a bar (column, really) chart with the key being player `name`, and the attribute being the total number of games played. We've SEPARATED the data using the spatial x-axis position channel, and aligned to that axis as well. But this visualization clearly sucks. You need to make it better by:
+```
 
-1.  Adding a visual channel indicating draft round.
-2.  Fixing the order of the x axis.
-3.  Making a caption and better axis labels.
-4.  Fixing the values of the x axis labels so they aren't such a mess.
+## Pseudo Stacked Bar?
+I basically just changed the bar graph x axis to draft round and then made the player name a channel in the bar graph to show individuals better and assist with overplotting. It's kinda similar to the stacked bar you did but with different channels representing different things. I also got rid of the legend because it made it unreadable with color indicating player name the legend was larger than the graph.
 
 ## STACKED BAR?
 
