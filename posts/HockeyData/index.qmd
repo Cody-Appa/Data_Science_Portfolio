@@ -124,11 +124,19 @@ ggplot(drafttot2018, aes(x=overall, y=totgames))+
 
 ```
 
-For this figure, address the following:
+```{r}
 
-1.  We are trying to address the notion of trading a pick from round 1 for picks from round 2 and 3. Add visual channels to this plot that will help us make that decision.
-2.  Create a caption and better axis labels for this figure.
-3.  What if we wanted to use more than just the 2018 draft class?
+ggplot(drafttot2018, aes(x=overall, y=totgames))+
+  geom_line(color= "red")+
+  geom_point()+
+  labs(title="Games Played vs. Draft Round",x="Overall Pick", y = "Games Played")+
+  labs(caption = "The trend of overall NHL draft picks plotted against how many games they played, the lineplot supposedly helps show a downward trend from top draft picks to middle draft picks.")+
+  theme(plot.caption = element_text(hjust=.5))
+
+
+```
+## Attempted Fix
+As the title says it was an attempt, I honestly don't know if it makes the visualization better but I changed the scatterplot to a line plot in order to connect the dots on all of those and show the general trend downwards with a scary red line. However, those outliers seem to make it look less scary than i intended and I couldn't get a standard deviation cloud around the line to work or anything due to not really knowing ggplot.
 
 ## SCATTERPLOT SUMMARY
 
