@@ -107,8 +107,6 @@ ggplot(drafttot2018, aes(x=round, y=totgames,))+
   labs(title="Games Played vs. Draft Round",x="Draft Round", y = "Games Played")+
   labs(caption = "A visualization demonatrating the distribution of how useful a player is based on which round they are drafted in.")+
   theme(plot.caption = element_text(hjust=.5))
-
-
 ```
 ## Plot Fix
 For the expanded scatterplot a boxplot seems to work better. It adds the addition of line length as a channel which (in my opinion), assists in visualizing what is going on with the overplotting. As well as that I think the large box in round one shrinking quickly by round 3 is a heavy indicator that round 1 is the most important by far. Axis labels, title, and caption added to assist.
@@ -171,8 +169,21 @@ ggplot(drafttot2018, aes(x = round, y=totgames, fill = name))+
 
 ```
 
+
 ## Pseudo Stacked Bar?
 I basically just changed the bar graph x axis to draft round and then made the player name a channel in the bar graph to show individuals better and assist with overplotting. It's kinda similar to the stacked bar you did but with different channels representing different things. I also got rid of the legend because it made it unreadable with color indicating player name the legend was larger than the graph.
+
+```{r}
+ggplot(NHLDraft, aes(x = overall, y=NHLgames))+
+  geom_smooth()+
+  theme(legend.position = "none")+
+  labs(title="Games Played vs. Draft Round",x="Draft Round", y = "Games Played")+
+  labs(caption = "Amount of games played for the 2022 draft pool")+
+  theme(plot.caption = element_text(hjust=.5))
+
+```
+## 2022 Draft
+I tried the same thing with the 2022 draft and again it separates things out better than the point plot and makes it seem more significant but the lack of players playing in the NHL still limits this figure.
 
 ## STACKED BAR?
 
@@ -181,7 +192,7 @@ Stacked bar charts use two keys and one value. Can we leverage this idiom? Perha
 The idea here is that we might be able to get a sense of the temporal pattern of NHL games after a player is drafted. Do first round picks join the NHL earlier? Do they stay in the NHL longer? That kind of thing.
 
 ```{r}
-ggplot(draft2018, aes(x = postdraft, y=NHLgames, fill=as.factor(round)))+
+ggplot(NHLDraft, aes(x = postdraft, y=NHLgames, fill=(as.factor(round))))+
   geom_col(position = "stack")
 
 ```
@@ -213,6 +224,9 @@ Obviously this isn't great, but can you state why? Write a little critique of th
 
 1.  Considers a player who played hundreds of games over their first five years vs a player who played one game in five years.
 2.  Evaluates the relative value of a second round pick and a third round pick.
+
+## Critique:
+The Pie chart is basically just losing information, in regards to the first question it is basically just showing the relative proportion of players that just played a game. It doesn't take into account first round picks that played hundreds vs a third round pick who played 1 game, or even a first round pick who played one game then hurt themselves. It could be a better figure if instead of counting the 80 players who played a game, it was counting the amount of games played by each round picks. This graph skews it to make it seem like if you took a second and a third round pick it would equal a first round pick. Which isn't the case on other figures.
 
 Now let's change this to account for the various years post draft:
 
