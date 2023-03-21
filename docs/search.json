@@ -67,21 +67,35 @@
     "href": "posts/HockeyData/index.html#pseudo-stacked-bar",
     "title": "ASSIGNMENT 5",
     "section": "Pseudo Stacked Bar?",
-    "text": "Pseudo Stacked Bar?\nI basically just changed the bar graph x axis to draft round and then made the player name a channel in the bar graph to show individuals better and assist with overplotting. It’s kinda similar to the stacked bar you did but with different channels representing different things. I also got rid of the legend because it made it unreadable with color indicating player name the legend was larger than the graph."
+    "text": "Pseudo Stacked Bar?\nI basically just changed the bar graph x axis to draft round and then made the player name a channel in the bar graph to show individuals better and assist with overplotting. It’s kinda similar to the stacked bar you did but with different channels representing different things. I also got rid of the legend because it made it unreadable with color indicating player name the legend was larger than the graph.\n\n\nCode\nggplot(NHLDraft, aes(x = overall, y=NHLgames))+\n  geom_smooth()+\n  theme(legend.position = \"none\")+\n  labs(title=\"Games Played vs. Draft Round\",x=\"Draft Round\", y = \"Games Played\")+\n  labs(caption = \"Amount of games played for the 2022 draft pool\")+\n  theme(plot.caption = element_text(hjust=.5))\n\n\n`geom_smooth()` using method = 'gam' and formula = 'y ~ s(x, bs = \"cs\")'"
   },
   {
-    "objectID": "posts/HockeyData/index.html#stacked-bar",
-    "href": "posts/HockeyData/index.html#stacked-bar",
+    "objectID": "posts/HockeyData/index.html#line-graph",
+    "href": "posts/HockeyData/index.html#line-graph",
     "title": "ASSIGNMENT 5",
-    "section": "STACKED BAR?",
-    "text": "STACKED BAR?\nStacked bar charts use two keys and one value. Can we leverage this idiom? Perhaps if we used both round and postdraft as our keys and NHLgames as our value…\nThe idea here is that we might be able to get a sense of the temporal pattern of NHL games after a player is drafted. Do first round picks join the NHL earlier? Do they stay in the NHL longer? That kind of thing.\n\n\nCode\nggplot(draft2018, aes(x = postdraft, y=NHLgames, fill=as.factor(round)))+\n  geom_col(position = \"stack\")\n\n\n\n\n\nThis seems like it has some potential, but it definitely needs some work (by you):\n\nYou know the drill by now. Caption! Labels!\nImprove the color palette.\nDo we really only want data from the 2018 draft class?\nConsider the order of rounds within the stack (glyph). Which round is most important? Change the order within the glyphs to reflect this."
+    "section": "Line graph",
+    "text": "Line graph\nI Think a smooth line graph with error cloud shows at a different angle what I’m trying to explain but still doesn’t really get the full picture across at total games for all the players.\n\n\nCode\nggplot(NHLDraft, aes(x = postdraft, y=NHLgames, fill=(as.factor(round))))+\n  geom_col(position = \"stack\")+\n  labs(color = \"Legend\")+\n  labs(fill = \"Draft Round\")+\n  labs(caption = \"NHL games years post draft total by round picked\")+\n  theme(plot.caption = element_text(hjust=.5))"
+  },
+  {
+    "objectID": "posts/HockeyData/index.html#overlapping-bar",
+    "href": "posts/HockeyData/index.html#overlapping-bar",
+    "title": "ASSIGNMENT 5",
+    "section": "Overlapping Bar",
+    "text": "Overlapping Bar\nI think this graph lays it out in a visually pleasing way as well as getting the message across. There are issues like the round one being in the back when you want the most important to the front. But I do think to a non data scientist seeing this they could pretty easily see that round 1 players are superior to all the other draft picks combined for each year which is valuable."
   },
   {
     "objectID": "posts/HockeyData/index.html#pie-charts-normalized-bar-charts",
     "href": "posts/HockeyData/index.html#pie-charts-normalized-bar-charts",
     "title": "ASSIGNMENT 5",
     "section": "PIE CHARTS / NORMALIZED BAR CHARTS",
-    "text": "PIE CHARTS / NORMALIZED BAR CHARTS\nWe all know that Pie Charts are rarely a good choice, but let’s look at how to make one here. I’ll eliminate all the players drafted in 2018 who never played an NHL game, leaving us 80 players drafted in that year who made “THE SHOW”. Let’s look at how those 80 players were drafted:\n\n\nCode\nplayedNHL2018 <- drafttot2018%>%\n  filter(totgames>0)\n\nggplot(playedNHL2018, aes(x = \"\", fill = factor(round))) +\n  geom_bar(width = 1) +\n  coord_polar(theta = \"y\")\n\n\n\n\n\nObviously this isn’t great, but can you state why? Write a little critique of this visualizaiton that:\n\nConsiders a player who played hundreds of games over their first five years vs a player who played one game in five years.\nEvaluates the relative value of a second round pick and a third round pick.\n\nNow let’s change this to account for the various years post draft:\n\n\nCode\nseasonplayedNHL2018 <- draft2018%>%\n  filter(NHLgames>0)\n\n\nggplot(seasonplayedNHL2018, aes(x = \"\", fill = factor(round))) +\n  geom_bar(width = 1) +\n  coord_polar(theta = \"y\")+\n  facet_wrap(~postdraft)\n\n\n\n\n\nSeems like there is something to work with here, but let’s compare this to a normalized bar chart:\n\n\nCode\nggplot(draft2018, aes(x = postdraft, y=NHLgames, fill=as.factor(round)))+\n  geom_col(position = \"fill\")\n\n\nWarning: Removed 218 rows containing missing values (`geom_col()`).\n\n\n\n\n\nCan you work with this to make it a useful visualization for your friend, Cassandra Canuck?"
+    "text": "PIE CHARTS / NORMALIZED BAR CHARTS\nWe all know that Pie Charts are rarely a good choice, but let’s look at how to make one here. I’ll eliminate all the players drafted in 2018 who never played an NHL game, leaving us 80 players drafted in that year who made “THE SHOW”. Let’s look at how those 80 players were drafted:\n\n\nCode\nplayedNHL2018 <- drafttot2018%>%\n  filter(totgames>0)\n\nggplot(playedNHL2018, aes(x = \"\", fill = factor(round))) +\n  geom_bar(width = 1) +\n  coord_polar(theta = \"y\")\n\n\n\n\n\nObviously this isn’t great, but can you state why? Write a little critique of this visualizaiton that:\n\nConsiders a player who played hundreds of games over their first five years vs a player who played one game in five years.\nEvaluates the relative value of a second round pick and a third round pick."
+  },
+  {
+    "objectID": "posts/HockeyData/index.html#critique",
+    "href": "posts/HockeyData/index.html#critique",
+    "title": "ASSIGNMENT 5",
+    "section": "Critique:",
+    "text": "Critique:\nThe Pie chart is basically just losing information, in regards to the first question it is basically just showing the relative proportion of players that just played a game. It doesn’t take into account first round picks that played hundreds vs a third round pick who played 1 game, or even a first round pick who played one game then hurt themselves. It could be a better figure if instead of counting the 80 players who played a game, it was counting the amount of games played by each round picks. This graph skews it to make it seem like if you took a second and a third round pick it would equal a first round pick. Which isn’t the case on other figures.\nNow let’s change this to account for the various years post draft:\n\n\nCode\nseasonplayedNHL2018 <- draft2018%>%\n  filter(NHLgames>0)\n\n\nggplot(seasonplayedNHL2018, aes(x = \"\", fill = factor(round))) +\n  geom_bar(width = 1) +\n  coord_polar(theta = \"y\")+\n  facet_wrap(~postdraft)\n\n\n\n\n\nSeems like there is something to work with here, but let’s compare this to a normalized bar chart:\n\n\nCode\nggplot(draft2018, aes(x = postdraft, y=NHLgames, fill=as.factor(round)))+\n  geom_col(position = \"fill\")\n\n\nWarning: Removed 218 rows containing missing values (`geom_col()`).\n\n\n\n\n\nCan you work with this to make it a useful visualization for your friend, Cassandra Canuck?"
   },
   {
     "objectID": "posts/HockeyData/index.html#heatmap",
