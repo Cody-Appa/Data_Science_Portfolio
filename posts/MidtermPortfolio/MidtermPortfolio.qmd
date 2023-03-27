@@ -62,7 +62,7 @@ It's easy to see in this situation that there are classes that are far better as
 ```{r}
 ggplot(DPSsheet, aes(x=Fight.Type, y=DPS, fill = Class)) +
   geom_violin()+
-  labs(title = "Top DPS by class per Boss", caption = "Overall dps for the top 10 of every boss in the raid") +
+  labs(title = "Top DPS by class per Fight Type", caption = "Which dps is best based on the encounter type") +
   theme(plot.caption = element_text(hjust = .5)) +
   theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
   scale_y_continuous(labels = scientific_format())+
@@ -75,7 +75,7 @@ I wanted to show the discrepency of AOE versus single target here and show that 
 ```{r}
 ggplot(DPSsheet, aes(x=Fight.Type, y=DPS, color = Class)) +
   geom_point()+
-  labs(title = "Top DPS by class per Boss", caption = "Overall dps for the top 10 of every boss in the raid") +
+  labs(title = "Top DPS by class per Fight Type", caption = "Which classes are best based on the encounter type") +
   theme(plot.caption = element_text(hjust = .5)) +
   theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
   scale_y_continuous(labels = scientific_format())+
@@ -87,11 +87,21 @@ I think the pointplot is really getting to the...point...about which classes are
 ```{r}
 ggplot(DPSsheet, aes(x=Fight.Type, y=Rank, fill = Class)) +
   geom_col()+
-  labs(title = "Top DPS by class per Boss", caption = "Overall dps for the top 10 of every boss in the raid") +
+  labs(title = "Rankings Per Fight Type", caption = "DPS rankings per boss fight type") +
   theme(plot.caption = element_text(hjust = .5)) +
   theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
-  scale_y_continuous(labels = scientific_format())+
   scale_fill_manual(values = c("red", "#B01AAB", "orange", "#219864", "green", "#51CDCD", "#51CD92", "grey", "yellow", "blue", "purple", "brown"), drop = FALSE)
 ```
 ## Stacked Bar for rank
 This might show it the best for which classes have the best time in which areas. You can clearly see hunters in the lead in both single target and aoe which is why they are a large outlier. As well as mages being good at single target and mixed fights. Druid may be an outlier in AOE situations but have zero single target which is why they aren't as imbalanced.
+
+```{r}
+ggplot(DPSsheet, aes(x=Class, y=Rank, fill = Fight.Type)) +
+  geom_col()+
+  labs(title = "Which DPS is Best in Each Situation", caption = "Ranking density per fight type") +
+  theme(plot.caption = element_text(hjust = .5)) +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
+  scale_fill_manual(values = c("red", "#B01AAB", "orange", "#219864", "green", "#51CDCD", "#51CD92", "grey", "yellow", "blue", "purple", "brown"), drop = FALSE)
+```
+## Fill by fight type
+Here really shows the differences in class ranking based off of fight type. It gives a really good idea at who is good at what. Again as you can see hunter is good at everything and mage is a good single target as well as mixed blaster. but if you want specialized AOE or Single target there are lots of options!
