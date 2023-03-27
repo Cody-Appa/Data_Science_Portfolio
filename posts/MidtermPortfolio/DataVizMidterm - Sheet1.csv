@@ -1,0 +1,81 @@
+Class,DPS,Boss,Rank,Fight Type
+Priest,167658.3,Eranog,1,Single Target
+Mage,162326.3,Eranog,2,Single Target
+Mage,160170.7,Eranog,3,Single Target
+Death Knight,156711.6,Eranog,4,Single Target
+Mage,151049.7,Eranog,5,Single Target
+Mage,150391.2,Eranog,6,Single Target
+Warlock,149931.8,Eranog,7,Single Target
+Mage,149895.8,Eranog,8,Single Target
+Evoker,149099.3,Eranog,9,Single Target
+Death Knight,149035.6,Eranog,10,Single Target
+Hunter,108185.6,Terros,1,Single Target
+Hunter,107625.1,Terros,2,Single Target
+Hunter,106494.2,Terros,3,Single Target
+Hunter,105174.3,Terros,4,Single Target
+Hunter,104508.5,Terros,5,Single Target
+Hunter,104395.7,Terros,6,Single Target
+Hunter,103013.3,Terros,7,Single Target
+Hunter,102951.5,Terros,8,Single Target
+Hunter,102853.2,Terros,9,Single Target
+Hunter,102744.6,Terros,10,Single Target
+Hunter,254163.8,Primal Council,1,AOE
+Druid,254102.3,Primal Council,2,AOE
+Hunter,253490.8,Primal Council,3,AOE
+Druid,253375.9,Primal Council,4,AOE
+Druid,252488.8,Primal Council,5,AOE
+Druid,250566.7,Primal Council,6,AOE
+Hunter,247566.9,Primal Council,7,AOE
+Hunter,247307.6,Primal Council,8,AOE
+Priest,244429.5,Primal Council,9,AOE
+Hunter,244157.9,Primal Council,10,AOE
+Warrior,103367.4,Sennarth,1,Mixed
+Mage,103348.1,Sennarth,2,Mixed
+Mage,103099.7,Sennarth,3,Mixed
+Mage,102807.3,Sennarth,4,Mixed
+Hunter,102515.5,Sennarth,5,Mixed
+Warrior,102301.6,Sennarth,6,Mixed
+Hunter,102181.6,Sennarth,7,Mixed
+Warrior,101735.3,Sennarth,8,Mixed
+Mage,101723.5,Sennarth,9,Mixed
+Mage,101662.5,Sennarth,10,Mixed
+Demon Hunter,114794.6,Dathea,1,Mixed
+Rogue,113246.7,Dathea,2,Mixed
+Druid,112846.7,Dathea,3,Mixed
+Monk,111558.7,Dathea,4,Mixed
+Warrior,111178.3,Dathea,5,Mixed
+Mage,111151.6,Dathea,6,Mixed
+Monk,111041.1,Dathea,7,Mixed
+Priest,110889.7,Dathea,8,Mixed
+Mage,109847.8,Dathea,9,Mixed
+Monk,109553,Dathea,10,Mixed
+Rogue,136572,Kurog,1,Single Target
+Monk,136376.7,Kurog,2,Single Target
+Mage,132804.7,Kurog,3,Single Target
+Warrior,132451.9,Kurog,4,Single Target
+Shaman,132450.7,Kurog,5,Single Target
+Death Knight,131966.6,Kurog,6,Single Target
+Demon Hunter,131217.5,Kurog,7,Single Target
+Mage,131167.6,Kurog,8,Single Target
+Rogue,130909.5,Kurog,9,Single Target
+Demon Hunter,130292.3,Kurog,10,Single Target
+Druid,137102.7,Diurna,1,Mixed
+Shaman,136258.1,Diurna,2,Mixed
+Priest,136105.5,Diurna,3,Mixed
+Demon Hunter,135735.6,Diurna,4,Mixed
+Monk,135094,Diurna,5,Mixed
+Demon Hunter,134225.3,Diurna,6,Mixed
+Hunter,134205.5,Diurna,7,Mixed
+Priest,133585,Diurna,8,Mixed
+Druid,133345.4,Diurna,9,Mixed
+Rogue,132943.7,Diurna,10,Mixed
+Evoker,116580.5,Raszageth,1,Single Target
+Evoker,112263.3,Raszageth,2,Single Target
+Warlock,110894.1,Raszageth,3,Single Target
+Rogue,109770.7,Raszageth,4,Single Target
+Warlock,108056.3,Raszageth,5,Single Target
+Warlock,107516.1,Raszageth,6,Single Target
+Demon Hunter,107130.9,Raszageth,7,Single Target
+Hunter,106987.5,Raszageth,8,Single Target
+Rogue,106947.1,Raszageth,9,Single Target
+Rogue,106719.4,Raszageth,10,Single Target
