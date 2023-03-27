@@ -135,37 +135,37 @@
   {
     "objectID": "posts/MidtermPortfolio/MidtermPortfolio.html",
     "href": "posts/MidtermPortfolio/MidtermPortfolio.html",
-    "title": "ASSIGNMENT 5",
+    "title": "Midterm Portfolio",
     "section": "",
     "text": "This project takes the top 10 dps from the game World of Warcraft from the online log database for every boss fight in the raid. I then classified the bosses by whether they were AOE, Single target, or a mix. This projects goal is to analyze all of the classes in the game by the top 10 of every fight and determine which specs are good at what in the game.\n\n\nCode\nlibrary(tidyverse)\n\n\n── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──\n✔ ggplot2 3.4.0      ✔ purrr   1.0.1 \n✔ tibble  3.1.8      ✔ dplyr   1.0.10\n✔ tidyr   1.2.1      ✔ stringr 1.5.0 \n✔ readr   2.1.3      ✔ forcats 0.5.2 \n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\n\n\nCode\nlibrary(dplyr)\nlibrary(ggplot2)\nlibrary(readxl)\n\nDPSsheet<-read.csv(\"DataVizMidterm - Sheet1.csv\")\n\n\n\n\nCode\nlibrary(scales)\n\n\n\nAttaching package: 'scales'\n\n\nThe following object is masked from 'package:purrr':\n\n    discard\n\n\nThe following object is masked from 'package:readr':\n\n    col_factor\n\n\nCode\nggplot(DPSsheet, aes(x=Class, y=DPS)) +\n  geom_point() +\n  labs(title = \"Top DPS by class\", caption = \"Overall dps for the top 10 of every boss in the raid\") +\n  theme(plot.caption = element_text(hjust = .5)) +\n  theme(axis.text.x = element_text(angle = 45, hjust = 1)) +\n  scale_y_continuous(labels = scientific_format())"
   },
   {
     "objectID": "posts/MidtermPortfolio/MidtermPortfolio.html#point-plot",
     "href": "posts/MidtermPortfolio/MidtermPortfolio.html#point-plot",
-    "title": "ASSIGNMENT 5",
+    "title": "Midterm Portfolio",
     "section": "Point plot",
     "text": "Point plot\nA point plot shows the general gist of what’s going on if I just graph them overall. You can get an idea that most specs are pretty balanced but there are some outliers here for specific events. You can’t really determine much from here because all of the bossfights are combined.\n\n\nCode\nDPSsheet$Class <- factor(DPSsheet$Class)\n\nggplot(DPSsheet, aes(x=Boss, y=DPS, color = Class)) +\n  geom_point()+\n  labs(title = \"Top DPS by class per Boss\", caption = \"Overall dps for the top 10 of every boss in the raid\") +\n  theme(plot.caption = element_text(hjust = .5)) +\n  theme(axis.text.x = element_text(angle = 45, hjust = 1)) +\n  scale_y_continuous(labels = scientific_format())+\n  scale_color_manual(values = c(\"red\", \"#B01AAB\", \"orange\", \"#219864\", \"green\", \"#51CDCD\", \"#51CD92\", \"grey\", \"yellow\", \"blue\", \"purple\", \"brown\"), drop = FALSE)"
   },
   {
     "objectID": "posts/MidtermPortfolio/MidtermPortfolio.html#different-plotting",
     "href": "posts/MidtermPortfolio/MidtermPortfolio.html#different-plotting",
-    "title": "ASSIGNMENT 5",
+    "title": "Midterm Portfolio",
     "section": "Different Plotting",
     "text": "Different Plotting\nI tried adding color and specifying by the bossfight in order to show which dps was best per boss. It gets the message across better as to who is doing well and shoes outliers such as druid on primal council but there still is a lot of overlap here.\n\n\nCode\nggplot(DPSsheet, aes(x = Class, y=DPS, fill = Boss))+\n  geom_col(position = \"stack\")+\n  labs(title = \"Top DPS by Class\", caption = \"How each DPS stacks up with eachother...excuse my pun\") +\n  theme(axis.text.x = element_text(angle = 45, hjust = 1))+\n  theme(plot.caption = element_text(hjust = .5))"
   },
   {
     "objectID": "posts/MidtermPortfolio/MidtermPortfolio.html#stacked-bar",
     "href": "posts/MidtermPortfolio/MidtermPortfolio.html#stacked-bar",
-    "title": "ASSIGNMENT 5",
+    "title": "Midterm Portfolio",
     "section": "Stacked Bar",
     "text": "Stacked Bar\nIt’s easy to see in this situation that there are classes that are far better as a whole than others and you can begin to see a bit more of a division in the class balance when it comes to say, evokers versus shaman.\n\n\nCode\nggplot(DPSsheet, aes(x=Fight.Type, y=DPS, fill = Class)) +\n  geom_violin()+\n  labs(title = \"Top DPS by class per Boss\", caption = \"Overall dps for the top 10 of every boss in the raid\") +\n  theme(plot.caption = element_text(hjust = .5)) +\n  theme(axis.text.x = element_text(angle = 45, hjust = 1)) +\n  scale_y_continuous(labels = scientific_format())+\n  scale_fill_manual(values = c(\"red\", \"#B01AAB\", \"orange\", \"#219864\", \"green\", \"#51CDCD\", \"#51CD92\", \"grey\", \"yellow\", \"blue\", \"purple\", \"brown\"), drop = FALSE)\n\n\nWarning: Groups with fewer than two data points have been dropped.\nGroups with fewer than two data points have been dropped.\nGroups with fewer than two data points have been dropped.\nGroups with fewer than two data points have been dropped.\nGroups with fewer than two data points have been dropped.\nGroups with fewer than two data points have been dropped."
   },
   {
     "objectID": "posts/MidtermPortfolio/MidtermPortfolio.html#violins-away",
     "href": "posts/MidtermPortfolio/MidtermPortfolio.html#violins-away",
-    "title": "ASSIGNMENT 5",
+    "title": "Midterm Portfolio",
     "section": "Violins Away",
-    "text": "Violins Away\nI wanted to show the discrepency of AOE versus single target here and show that some classes dominated but a violin plot might not be the play here."
+    "text": "Violins Away\nI wanted to show the discrepency of AOE versus single target here and show that some classes dominated but a violin plot might not be the play here.\n\n\nCode\nggplot(DPSsheet, aes(x=Fight.Type, y=DPS, color = Class)) +\n  geom_point()+\n  labs(title = \"Top DPS by class per Boss\", caption = \"Overall dps for the top 10 of every boss in the raid\") +\n  theme(plot.caption = element_text(hjust = .5)) +\n  theme(axis.text.x = element_text(angle = 45, hjust = 1)) +\n  scale_y_continuous(labels = scientific_format())+\n  scale_color_manual(values = c(\"red\", \"#B01AAB\", \"orange\", \"#219864\", \"green\", \"#51CDCD\", \"#51CD92\", \"grey\", \"yellow\", \"blue\", \"purple\", \"brown\"), drop = FALSE)"
   },
   {
     "objectID": "posts/MarksChannels/index.html",
@@ -200,7 +200,7 @@
     "href": "index.html",
     "title": "The Cody Code",
     "section": "",
-    "text": "ASSIGNMENT 5\n\n\nHockey Data Visualization\n\n\n\n\nAssignment\n\n\nDataViz\n\n\nTables\n\n\nScatterplot\n\n\nBarplot\n\n\nPiechart\n\n\n\n\nWhy first round draft picks are superior beings\n\n\n\n\n\n\nJul 7, 2023\n\n\nCody Appa\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMidterm Portfolio\n\n\nDPS Analysis\n\n\nAnalysis of Wow dps by class and fight\n\n\n\n\n\n\nJul 7, 2023\n\n\nCody Appa\n\n\n\n\n\n\n  \n\n\n\n\nAssignment 4\n\n\nMarks and Channels\n\n\n\n\nAssignment\n\n\nDataViz\n\n\n\n\na hopefully non atrocious attempt to delve into the importance of marks and channels\n\n\n\n\n\n\nFeb 14, 2023\n\n\nCody Appa\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAssignment 3\n\n\n\n\n\n\n\n\n\n\n\n\nFeb 2, 2023\n\n\nCody Appa\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJan 30, 2023\n\n\nCody Appa\n\n\n\n\n\n\nNo matching items"
+    "text": "Midterm Portfolio\n\n\nDPS Analysis\n\n\nAnalysis of Wow dps by class and fight\n\n\n\n\n\n\nMar 25, 2023\n\n\nCody Appa\n\n\n\n\n\n\n  \n\n\n\n\nASSIGNMENT 5\n\n\nHockey Data Visualization\n\n\n\n\nAssignment\n\n\nDataViz\n\n\nTables\n\n\nScatterplot\n\n\nBarplot\n\n\nPiechart\n\n\n\n\nWhy first round draft picks are superior beings\n\n\n\n\n\n\nFeb 27, 2023\n\n\nCody Appa\n\n\n\n\n\n\n  \n\n\n\n\nAssignment 4\n\n\nMarks and Channels\n\n\n\n\nAssignment\n\n\nDataViz\n\n\n\n\na hopefully non atrocious attempt to delve into the importance of marks and channels\n\n\n\n\n\n\nFeb 14, 2023\n\n\nCody Appa\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAssignment 3\n\n\n\n\n\n\n\n\n\n\n\n\nFeb 2, 2023\n\n\nCody Appa\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJan 30, 2023\n\n\nCody Appa\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -215,5 +215,19 @@
     "title": "About Me",
     "section": "Education",
     "text": "Education\nUniversity of Idaho, Moscow Idaho | Graduate Student in MMBB. 2021-present\nUniversity of Idaho, Moscow Idaho | B.S. in Biological Sciences. 2015-2019"
+  },
+  {
+    "objectID": "posts/MidtermPortfolio/MidtermPortfolio.html#tried-and-true",
+    "href": "posts/MidtermPortfolio/MidtermPortfolio.html#tried-and-true",
+    "title": "Midterm Portfolio",
+    "section": "Tried and True",
+    "text": "Tried and True\nI think the pointplot is really getting to the…point…about which classes are really good at aoe and single target. it shows there is a vast discrepency in AOE classes but when it comes to single target they are generally similar.\n\n\nCode\nggplot(DPSsheet, aes(x=Fight.Type, y=Rank, fill = Class)) +\n  geom_col()+\n  labs(title = \"Top DPS by class per Boss\", caption = \"Overall dps for the top 10 of every boss in the raid\") +\n  theme(plot.caption = element_text(hjust = .5)) +\n  theme(axis.text.x = element_text(angle = 45, hjust = 1)) +\n  scale_y_continuous(labels = scientific_format())+\n  scale_fill_manual(values = c(\"red\", \"#B01AAB\", \"orange\", \"#219864\", \"green\", \"#51CDCD\", \"#51CD92\", \"grey\", \"yellow\", \"blue\", \"purple\", \"brown\"), drop = FALSE)"
+  },
+  {
+    "objectID": "posts/MidtermPortfolio/MidtermPortfolio.html#stacked-bar-for-rank",
+    "href": "posts/MidtermPortfolio/MidtermPortfolio.html#stacked-bar-for-rank",
+    "title": "Midterm Portfolio",
+    "section": "Stacked Bar for rank",
+    "text": "Stacked Bar for rank\nThis might show it the best for which classes have the best time in which areas. You can clearly see hunters in the lead in both single target and aoe which is why they are a large outlier. As well as mages being good at single target and mixed fights. Druid may be an outlier in AOE situations but have zero single target which is why they aren’t as imbalanced."
   }
 ]

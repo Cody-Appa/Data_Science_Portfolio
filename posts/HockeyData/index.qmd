@@ -2,7 +2,7 @@
 title: "ASSIGNMENT 5"
 subtitle: "Hockey Data Visualization"
 author: "Cody Appa"
-date: "07/07/2023"
+date: "02/27/2023"
 categories: [Assignment, DataViz, Tables, Scatterplot, Barplot, Piechart]
 image: "IMG_4466.PNG"
 code-fold: true
