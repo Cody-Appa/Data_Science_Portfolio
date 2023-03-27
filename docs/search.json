@@ -182,6 +182,13 @@
     "text": "Stacked Bar for rank\nThis might show it the best for which classes have the best time in which areas. You can clearly see hunters in the lead in both single target and aoe which is why they are a large outlier. As well as mages being good at single target and mixed fights. Druid may be an outlier in AOE situations but have zero single target which is why they aren’t as imbalanced.\n\n\nCode\nggplot(DPSsheet, aes(x=Class, y=Rank, fill = Fight.Type)) +\n  geom_col()+\n  labs(title = \"Which DPS is Best in Each Situation\", caption = \"Ranking density per fight type\") +\n  theme(plot.caption = element_text(hjust = .5)) +\n  theme(axis.text.x = element_text(angle = 45, hjust = 1)) +\n  scale_fill_manual(values = c(\"red\", \"#B01AAB\", \"orange\", \"#219864\", \"green\", \"#51CDCD\", \"#51CD92\", \"grey\", \"yellow\", \"blue\", \"purple\", \"brown\"), drop = FALSE)"
   },
   {
+    "objectID": "posts/MidtermPortfolio/MidtermPortfolio.html#fill-by-fight-type",
+    "href": "posts/MidtermPortfolio/MidtermPortfolio.html#fill-by-fight-type",
+    "title": "Midterm Portfolio",
+    "section": "Fill by fight type",
+    "text": "Fill by fight type\nHere really shows the differences in class ranking based off of fight type. It gives a really good idea at who is good at what. Again as you can see hunter is good at everything and mage is a good single target as well as mixed blaster. but if you want specialized AOE or Single target there are lots of options!"
+  },
+  {
     "objectID": "posts/MarksChannels/index.html",
     "href": "posts/MarksChannels/index.html",
     "title": "Assignment 4",
@@ -229,12 +236,5 @@
     "title": "About Me",
     "section": "Education",
     "text": "Education\nUniversity of Idaho, Moscow Idaho | Graduate Student in MMBB. 2021-present\nUniversity of Idaho, Moscow Idaho | B.S. in Biological Sciences. 2015-2019"
-  },
-  {
-    "objectID": "posts/MidtermPortfolio/MidtermPortfolio.html#fill-by-fight-type",
-    "href": "posts/MidtermPortfolio/MidtermPortfolio.html#fill-by-fight-type",
-    "title": "Midterm Portfolio",
-    "section": "Fill by fight type",
-    "text": "Fill by fight type\nHere really shows the differences in class ranking based off of fight type. It gives a really good idea at who is good at what. Again as you can see hunter is good at everything and mage is a good single target as well as mixed blaster. but if you want specialized AOE or Single target there are lots of options!"
   }
 ]
