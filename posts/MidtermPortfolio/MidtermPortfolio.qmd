@@ -49,11 +49,11 @@ ggplot(DPSsheet, aes(x=Class, y=Appearance, fill = Fight.Type)) +
 This graph shows the number of times each class appears in the top 10 of each boss fight in AOE heavy boss encounters.
 ```{r}
 DPSsheet_AOE <- subset(DPSsheet, Fight.Type == "AOE")
-ggplot(DPSsheet_AOE, aes(x = Class, y = Appearance, fill = Fight.Type)) +
+ggplot(DPSsheet_AOE, aes(x = reorder(Class, -Appearance, FUN = sum), y = Appearance, fill = Fight.Type)) +
   geom_col() +
   labs(title = "Which DPS is Best in AOE Situations",
        caption = "Times each class appears in the top 10 ranking in AOE fights",
-       y = "Number of Times in Top 10") +
+       y = "Number of Times in Top 10", x="Class") +
   theme(plot.caption = element_text(hjust = .5)) +
   theme(legend.position = "none")+
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
@@ -68,7 +68,7 @@ ggplot(DPSsheet_AOE, aes(x = reorder(Class, -Appearance, FUN = sum), y = Appeara
   geom_col(fill = "#709BE1") +
   labs(title = "Which DPS is Best in Single Target Situations",
        caption = "Times each class appears in the top 10 ranking in Single Target fights",
-       y = "Number of Times in Top 10") +
+       y = "Number of Times in Top 10", x = "Class") +
   theme(plot.caption = element_text(hjust = .5)) +
   theme(legend.position = "none")+
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
@@ -80,11 +80,11 @@ This graph shows the number of times each class appears in the top 10 of each bo
 ```{r}
 DPSsheet_AOE <- subset(DPSsheet, Fight.Type == "Mixed")
 
-ggplot(DPSsheet_AOE, aes(x = Class, y = Appearance, fill = Fight.Type)) +
+ggplot(DPSsheet_AOE, aes(x = reorder(Class, -Appearance, FUN = sum), y = Appearance, fill = Fight.Type)) +
   geom_col(fill = "#54D16C") +
   labs(title = "Which DPS is Best in Mixed Situations",
        caption = "Times each class appears in the top 10 ranking in mixed single target and AOE fights",
-       y = "Number of Times in Top 10") +
+       y = "Number of Times in Top 10", x = "Class") +
   theme(plot.caption = element_text(hjust = .5)) +
   theme(legend.position = "none")+
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
