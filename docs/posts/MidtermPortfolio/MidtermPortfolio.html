@@ -233,9 +233,9 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <div class="cell">
 <details>
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="fu">ggplot</span>(DPSsheet, <span class="fu">aes</span>(<span class="at">x=</span>Class, <span class="at">y=</span>Appearance, <span class="at">fill =</span> Fight.Type)) <span class="sc">+</span></span>
+<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="fu">ggplot</span>(DPSsheet, <span class="fu">aes</span>(<span class="at">x =</span> <span class="fu">reorder</span>(Class, <span class="sc">-</span>Appearance, <span class="at">FUN =</span> sum), <span class="at">y=</span>Appearance, <span class="at">fill =</span> Fight.Type)) <span class="sc">+</span></span>
 <span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_col</span>()<span class="sc">+</span></span>
-<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">labs</span>(<span class="at">title =</span> <span class="st">"Which DPS is Best in Each Situation"</span>, <span class="at">caption =</span> <span class="st">"Times each class appears in the top 10 ranking per fight type"</span>, <span class="at">y=</span><span class="st">"Number of Times in Top 10"</span>) <span class="sc">+</span></span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">labs</span>(<span class="at">title =</span> <span class="st">"Which DPS is Best in Each Situation"</span>, <span class="at">caption =</span> <span class="st">"Times each class appears in the top 10 ranking per fight type"</span>, <span class="at">y=</span><span class="st">"Number of Times in Top 10"</span>, <span class="at">x =</span><span class="st">"Class"</span>) <span class="sc">+</span></span>
 <span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme</span>(<span class="at">plot.caption =</span> <span class="fu">element_text</span>(<span class="at">hjust =</span> .<span class="dv">5</span>)) <span class="sc">+</span></span>
 <span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme</span>(<span class="at">axis.text.x =</span> <span class="fu">element_text</span>(<span class="at">angle =</span> <span class="dv">45</span>, <span class="at">hjust =</span> <span class="dv">1</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
@@ -258,20 +258,21 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 </div>
 </div>
 </section>
-<section id="mixed-fight-rankings" class="level2">
-<h2 class="anchored" data-anchor-id="mixed-fight-rankings">Mixed Fight Rankings</h2>
-<p>This graph shows the number of times each class appears in the top 10 of each bossfight in mixed AOE and single target boss encounters.</p>
+<section id="aoe-fight-rankings" class="level2">
+<h2 class="anchored" data-anchor-id="aoe-fight-rankings">AOE Fight Rankings</h2>
+<p>This graph shows the number of times each class appears in the top 10 of each boss fight in AOE heavy boss encounters.</p>
 <div class="cell">
 <details>
 <summary>Code</summary>
 <div class="sourceCode cell-code" id="cb4"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a>DPSsheet_AOE <span class="ot">&lt;-</span> <span class="fu">subset</span>(DPSsheet, Fight.Type <span class="sc">==</span> <span class="st">"AOE"</span>)</span>
-<span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a><span class="fu">ggplot</span>(DPSsheet_AOE, <span class="fu">aes</span>(<span class="at">x =</span> Class, <span class="at">y =</span> Appearance, <span class="at">fill =</span> Fight.Type)) <span class="sc">+</span></span>
+<span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a><span class="fu">ggplot</span>(DPSsheet_AOE, <span class="fu">aes</span>(<span class="at">x =</span> <span class="fu">reorder</span>(Class, <span class="sc">-</span>Appearance, <span class="at">FUN =</span> sum), <span class="at">y =</span> Appearance, <span class="at">fill =</span> Fight.Type)) <span class="sc">+</span></span>
 <span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_col</span>() <span class="sc">+</span></span>
 <span id="cb4-4"><a href="#cb4-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">labs</span>(<span class="at">title =</span> <span class="st">"Which DPS is Best in AOE Situations"</span>,</span>
 <span id="cb4-5"><a href="#cb4-5" aria-hidden="true" tabindex="-1"></a>       <span class="at">caption =</span> <span class="st">"Times each class appears in the top 10 ranking in AOE fights"</span>,</span>
-<span id="cb4-6"><a href="#cb4-6" aria-hidden="true" tabindex="-1"></a>       <span class="at">y =</span> <span class="st">"Number of Times in Top 10"</span>) <span class="sc">+</span></span>
+<span id="cb4-6"><a href="#cb4-6" aria-hidden="true" tabindex="-1"></a>       <span class="at">y =</span> <span class="st">"Number of Times in Top 10"</span>, <span class="at">x=</span><span class="st">"Class"</span>) <span class="sc">+</span></span>
 <span id="cb4-7"><a href="#cb4-7" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme</span>(<span class="at">plot.caption =</span> <span class="fu">element_text</span>(<span class="at">hjust =</span> .<span class="dv">5</span>)) <span class="sc">+</span></span>
-<span id="cb4-8"><a href="#cb4-8" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme</span>(<span class="at">axis.text.x =</span> <span class="fu">element_text</span>(<span class="at">angle =</span> <span class="dv">45</span>, <span class="at">hjust =</span> <span class="dv">1</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb4-8"><a href="#cb4-8" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme</span>(<span class="at">legend.position =</span> <span class="st">"none"</span>)<span class="sc">+</span></span>
+<span id="cb4-9"><a href="#cb4-9" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme</span>(<span class="at">axis.text.x =</span> <span class="fu">element_text</span>(<span class="at">angle =</span> <span class="dv">45</span>, <span class="at">hjust =</span> <span class="dv">1</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output-display">
 <p><img src="MidtermPortfolio_files/figure-html/unnamed-chunk-4-1.png" class="img-fluid" width="672"></p>
@@ -290,35 +291,41 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <span id="cb5-4"><a href="#cb5-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_col</span>(<span class="at">fill =</span> <span class="st">"#709BE1"</span>) <span class="sc">+</span></span>
 <span id="cb5-5"><a href="#cb5-5" aria-hidden="true" tabindex="-1"></a>  <span class="fu">labs</span>(<span class="at">title =</span> <span class="st">"Which DPS is Best in Single Target Situations"</span>,</span>
 <span id="cb5-6"><a href="#cb5-6" aria-hidden="true" tabindex="-1"></a>       <span class="at">caption =</span> <span class="st">"Times each class appears in the top 10 ranking in Single Target fights"</span>,</span>
-<span id="cb5-7"><a href="#cb5-7" aria-hidden="true" tabindex="-1"></a>       <span class="at">y =</span> <span class="st">"Number of Times in Top 10"</span>) <span class="sc">+</span></span>
+<span id="cb5-7"><a href="#cb5-7" aria-hidden="true" tabindex="-1"></a>       <span class="at">y =</span> <span class="st">"Number of Times in Top 10"</span>, <span class="at">x =</span> <span class="st">"Class"</span>) <span class="sc">+</span></span>
 <span id="cb5-8"><a href="#cb5-8" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme</span>(<span class="at">plot.caption =</span> <span class="fu">element_text</span>(<span class="at">hjust =</span> .<span class="dv">5</span>)) <span class="sc">+</span></span>
-<span id="cb5-9"><a href="#cb5-9" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme</span>(<span class="at">axis.text.x =</span> <span class="fu">element_text</span>(<span class="at">angle =</span> <span class="dv">45</span>, <span class="at">hjust =</span> <span class="dv">1</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb5-9"><a href="#cb5-9" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme</span>(<span class="at">legend.position =</span> <span class="st">"none"</span>)<span class="sc">+</span></span>
+<span id="cb5-10"><a href="#cb5-10" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme</span>(<span class="at">axis.text.x =</span> <span class="fu">element_text</span>(<span class="at">angle =</span> <span class="dv">45</span>, <span class="at">hjust =</span> <span class="dv">1</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output-display">
 <p><img src="MidtermPortfolio_files/figure-html/unnamed-chunk-5-1.png" class="img-fluid" width="672"></p>
 </div>
 </div>
 </section>
-<section id="mixed-fight-rankings-1" class="level2">
-<h2 class="anchored" data-anchor-id="mixed-fight-rankings-1">Mixed Fight Rankings</h2>
+<section id="mixed-fight-rankings" class="level2">
+<h2 class="anchored" data-anchor-id="mixed-fight-rankings">Mixed Fight Rankings</h2>
 <p>This graph shows the number of times each class appears in the top 10 of each bossfight in mixed AOE and single target boss encounters.</p>
 <div class="cell">
 <details>
 <summary>Code</summary>
 <div class="sourceCode cell-code" id="cb6"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a>DPSsheet_AOE <span class="ot">&lt;-</span> <span class="fu">subset</span>(DPSsheet, Fight.Type <span class="sc">==</span> <span class="st">"Mixed"</span>)</span>
 <span id="cb6-2"><a href="#cb6-2" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb6-3"><a href="#cb6-3" aria-hidden="true" tabindex="-1"></a><span class="fu">ggplot</span>(DPSsheet_AOE, <span class="fu">aes</span>(<span class="at">x =</span> Class, <span class="at">y =</span> Appearance, <span class="at">fill =</span> Fight.Type)) <span class="sc">+</span></span>
+<span id="cb6-3"><a href="#cb6-3" aria-hidden="true" tabindex="-1"></a><span class="fu">ggplot</span>(DPSsheet_AOE, <span class="fu">aes</span>(<span class="at">x =</span> <span class="fu">reorder</span>(Class, <span class="sc">-</span>Appearance, <span class="at">FUN =</span> sum), <span class="at">y =</span> Appearance, <span class="at">fill =</span> Fight.Type)) <span class="sc">+</span></span>
 <span id="cb6-4"><a href="#cb6-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_col</span>(<span class="at">fill =</span> <span class="st">"#54D16C"</span>) <span class="sc">+</span></span>
 <span id="cb6-5"><a href="#cb6-5" aria-hidden="true" tabindex="-1"></a>  <span class="fu">labs</span>(<span class="at">title =</span> <span class="st">"Which DPS is Best in Mixed Situations"</span>,</span>
 <span id="cb6-6"><a href="#cb6-6" aria-hidden="true" tabindex="-1"></a>       <span class="at">caption =</span> <span class="st">"Times each class appears in the top 10 ranking in mixed single target and AOE fights"</span>,</span>
-<span id="cb6-7"><a href="#cb6-7" aria-hidden="true" tabindex="-1"></a>       <span class="at">y =</span> <span class="st">"Number of Times in Top 10"</span>) <span class="sc">+</span></span>
+<span id="cb6-7"><a href="#cb6-7" aria-hidden="true" tabindex="-1"></a>       <span class="at">y =</span> <span class="st">"Number of Times in Top 10"</span>, <span class="at">x =</span> <span class="st">"Class"</span>) <span class="sc">+</span></span>
 <span id="cb6-8"><a href="#cb6-8" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme</span>(<span class="at">plot.caption =</span> <span class="fu">element_text</span>(<span class="at">hjust =</span> .<span class="dv">5</span>)) <span class="sc">+</span></span>
-<span id="cb6-9"><a href="#cb6-9" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme</span>(<span class="at">axis.text.x =</span> <span class="fu">element_text</span>(<span class="at">angle =</span> <span class="dv">45</span>, <span class="at">hjust =</span> <span class="dv">1</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb6-9"><a href="#cb6-9" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme</span>(<span class="at">legend.position =</span> <span class="st">"none"</span>)<span class="sc">+</span></span>
+<span id="cb6-10"><a href="#cb6-10" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme</span>(<span class="at">axis.text.x =</span> <span class="fu">element_text</span>(<span class="at">angle =</span> <span class="dv">45</span>, <span class="at">hjust =</span> <span class="dv">1</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output-display">
 <p><img src="MidtermPortfolio_files/figure-html/unnamed-chunk-6-1.png" class="img-fluid" width="672"></p>
 </div>
 </div>
+</section>
+<section id="dps-per-boss-by-class" class="level2">
+<h2 class="anchored" data-anchor-id="dps-per-boss-by-class">DPS Per Boss by Class</h2>
+<p>For if you either aren’t sure what fight type a boss is, or if you want to see which classes excel at specific boss fights I included the DPS values for each class per bossfight.</p>
 <div class="cell">
 <details>
 <summary>Code</summary>
@@ -560,9 +567,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <span id="cb8-32"><a href="#cb8-32" aria-hidden="true" tabindex="-1"></a>This graph visualizes the number of times each class appears in the top 10 for every encounter type in the raid. Use this, as well as the graphs below to decide which types of DPS class to bring to each encounter.</span>
 <span id="cb8-33"><a href="#cb8-33" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb8-36"><a href="#cb8-36" aria-hidden="true" tabindex="-1"></a><span class="in">```{r}</span></span>
-<span id="cb8-37"><a href="#cb8-37" aria-hidden="true" tabindex="-1"></a><span class="fu">ggplot</span>(DPSsheet, <span class="fu">aes</span>(<span class="at">x=</span>Class, <span class="at">y=</span>Appearance, <span class="at">fill =</span> Fight.Type)) <span class="sc">+</span></span>
+<span id="cb8-37"><a href="#cb8-37" aria-hidden="true" tabindex="-1"></a><span class="fu">ggplot</span>(DPSsheet, <span class="fu">aes</span>(<span class="at">x =</span> <span class="fu">reorder</span>(Class, <span class="sc">-</span>Appearance, <span class="at">FUN =</span> sum), <span class="at">y=</span>Appearance, <span class="at">fill =</span> Fight.Type)) <span class="sc">+</span></span>
 <span id="cb8-38"><a href="#cb8-38" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_col</span>()<span class="sc">+</span></span>
-<span id="cb8-39"><a href="#cb8-39" aria-hidden="true" tabindex="-1"></a>  <span class="fu">labs</span>(<span class="at">title =</span> <span class="st">"Which DPS is Best in Each Situation"</span>, <span class="at">caption =</span> <span class="st">"Times each class appears in the top 10 ranking per fight type"</span>, <span class="at">y=</span><span class="st">"Number of Times in Top 10"</span>) <span class="sc">+</span></span>
+<span id="cb8-39"><a href="#cb8-39" aria-hidden="true" tabindex="-1"></a>  <span class="fu">labs</span>(<span class="at">title =</span> <span class="st">"Which DPS is Best in Each Situation"</span>, <span class="at">caption =</span> <span class="st">"Times each class appears in the top 10 ranking per fight type"</span>, <span class="at">y=</span><span class="st">"Number of Times in Top 10"</span>, <span class="at">x =</span><span class="st">"Class"</span>) <span class="sc">+</span></span>
 <span id="cb8-40"><a href="#cb8-40" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme</span>(<span class="at">plot.caption =</span> <span class="fu">element_text</span>(<span class="at">hjust =</span> .<span class="dv">5</span>)) <span class="sc">+</span></span>
 <span id="cb8-41"><a href="#cb8-41" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme</span>(<span class="at">axis.text.x =</span> <span class="fu">element_text</span>(<span class="at">angle =</span> <span class="dv">45</span>, <span class="at">hjust =</span> <span class="dv">1</span>))</span>
 <span id="cb8-42"><a href="#cb8-42" aria-hidden="true" tabindex="-1"></a><span class="in">```</span></span>
