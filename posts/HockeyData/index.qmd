@@ -284,6 +284,7 @@ ggplot(round1, aes(y = reorder(name, overall), x = postdraft, fill = NHLgames)) 
   scale_fill_gradient(low = "blue", high = "red")
 
 ```
+
 ## OTHER STUFF TO CONSIDER
 
 1.  Do these visualizations change as a function of player position?
