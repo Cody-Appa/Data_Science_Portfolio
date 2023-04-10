@@ -147,11 +147,11 @@
     "text": "Top 10 ranking by Fight Type\nThis graph visualizes the number of times each class appears in the top 10 for every encounter type in the raid. Use this, as well as the graphs below to decide which types of DPS class to bring to each encounter.\n\n\nCode\nggplot(DPSsheet, aes(x = reorder(Class, -Appearance, FUN = sum), y=Appearance, fill = Fight.Type)) +\n  geom_col()+\n  labs(title = \"Which DPS is Best in Each Situation\", caption = \"Times each class appears in the top 10 ranking per fight type\", y=\"Number of Times in Top 10\", x =\"Class\") +\n  theme(plot.caption = element_text(hjust = .5)) +\n  theme(axis.text.x = element_text(angle = 45, hjust = 1))\n\n\n\n\n\n\n\nCode\nggplot(DPSsheet, aes(x=Class, y=Appearance, fill = Fight.Type)) +\n  geom_col()+\n  labs(title = \"Which DPS is Best in Each Situation\", caption = \"Times each class appears in the top 10 ranking per fight type\", y=\"Number of Times in Top 10\") +\n  theme(plot.caption = element_text(hjust = .5)) +\n  theme(axis.text.x = element_text(angle = 45, hjust = 1))+\n  facet_wrap(~Fight.Type)"
   },
   {
-    "objectID": "posts/MidtermPortfolio/MidtermPortfolio.html#mixed-fight-rankings",
-    "href": "posts/MidtermPortfolio/MidtermPortfolio.html#mixed-fight-rankings",
+    "objectID": "posts/MidtermPortfolio/MidtermPortfolio.html#aoe-fight-rankings",
+    "href": "posts/MidtermPortfolio/MidtermPortfolio.html#aoe-fight-rankings",
     "title": "Midterm Portfolio",
-    "section": "Mixed Fight Rankings",
-    "text": "Mixed Fight Rankings\nThis graph shows the number of times each class appears in the top 10 of each bossfight in mixed AOE and single target boss encounters.\n\n\nCode\nDPSsheet_AOE <- subset(DPSsheet, Fight.Type == \"Mixed\")\n\nggplot(DPSsheet_AOE, aes(x = reorder(Class, -Appearance, FUN = sum), y = Appearance, fill = Fight.Type)) +\n  geom_col(fill = \"#54D16C\") +\n  labs(title = \"Which DPS is Best in Mixed Situations\",\n       caption = \"Times each class appears in the top 10 ranking in mixed single target and AOE fights\",\n       y = \"Number of Times in Top 10\", x = \"Class\") +\n  theme(plot.caption = element_text(hjust = .5)) +\n  theme(legend.position = \"none\")+\n  theme(axis.text.x = element_text(angle = 45, hjust = 1))"
+    "section": "AOE Fight Rankings",
+    "text": "AOE Fight Rankings\nThis graph shows the number of times each class appears in the top 10 of each boss fight in AOE heavy boss encounters.\n\n\nCode\nDPSsheet_AOE <- subset(DPSsheet, Fight.Type == \"AOE\")\nggplot(DPSsheet_AOE, aes(x = reorder(Class, -Appearance, FUN = sum), y = Appearance, fill = Fight.Type)) +\n  geom_col() +\n  labs(title = \"Which DPS is Best in AOE Situations\",\n       caption = \"Times each class appears in the top 10 ranking in AOE fights\",\n       y = \"Number of Times in Top 10\", x=\"Class\") +\n  theme(plot.caption = element_text(hjust = .5)) +\n  theme(legend.position = \"none\")+\n  theme(axis.text.x = element_text(angle = 45, hjust = 1))"
   },
   {
     "objectID": "posts/MidtermPortfolio/MidtermPortfolio.html#single-target-rankings",
@@ -161,11 +161,18 @@
     "text": "Single Target Rankings\nThis graph shows the number of times each class appears in the top 10 of each bossfight in mixed AOE and single target boss encounters.\n\n\nCode\nDPSsheet_AOE <- subset(DPSsheet, Fight.Type == \"Single Target\")\n\nggplot(DPSsheet_AOE, aes(x = reorder(Class, -Appearance, FUN = sum), y = Appearance, fill = Fight.Type)) +\n  geom_col(fill = \"#709BE1\") +\n  labs(title = \"Which DPS is Best in Single Target Situations\",\n       caption = \"Times each class appears in the top 10 ranking in Single Target fights\",\n       y = \"Number of Times in Top 10\", x = \"Class\") +\n  theme(plot.caption = element_text(hjust = .5)) +\n  theme(legend.position = \"none\")+\n  theme(axis.text.x = element_text(angle = 45, hjust = 1))"
   },
   {
-    "objectID": "posts/MidtermPortfolio/MidtermPortfolio.html#mixed-fight-rankings-1",
-    "href": "posts/MidtermPortfolio/MidtermPortfolio.html#mixed-fight-rankings-1",
+    "objectID": "posts/MidtermPortfolio/MidtermPortfolio.html#mixed-fight-rankings",
+    "href": "posts/MidtermPortfolio/MidtermPortfolio.html#mixed-fight-rankings",
     "title": "Midterm Portfolio",
     "section": "Mixed Fight Rankings",
-    "text": "Mixed Fight Rankings\nThis graph shows the number of times each class appears in the top 10 of each bossfight in mixed AOE and single target boss encounters.\n\n\nCode\nDPSsheet_AOE <- subset(DPSsheet, Fight.Type == \"Mixed\")\n\nggplot(DPSsheet_AOE, aes(x = Class, y = Appearance, fill = Fight.Type)) +\n  geom_col(fill = \"#54D16C\") +\n  labs(title = \"Which DPS is Best in Mixed Situations\",\n       caption = \"Times each class appears in the top 10 ranking in mixed single target and AOE fights\",\n       y = \"Number of Times in Top 10\") +\n  theme(plot.caption = element_text(hjust = .5)) +\n  theme(axis.text.x = element_text(angle = 45, hjust = 1))\n\n\n\n\n\n\n\nCode\nggplot(DPSsheet, aes(x = Class, y=DPS, fill =Class))+\n  geom_col(position = \"stack\")+\n  labs(title = \"Top DPS by Class\", caption = \"DPS per class facetted by boss\") +\n  theme(axis.text.x = element_text(angle = 45, hjust = 1),\n        axis.text.x.bottom = element_blank())+ \n  theme(plot.caption = element_text(hjust = .5))+\n  scale_y_continuous(labels = scientific_format())+\n  facet_wrap(~Boss)+\n  theme(axis.title.x = element_blank())+\n  scale_fill_manual(values = c(\"red\", \"#B01AAB\", \"orange\", \"#219864\", \"green\", \"#51CDCD\", \"#51CD92\", \"grey\", \"yellow\", \"blue\", \"purple\", \"brown\"), drop = FALSE)"
+    "text": "Mixed Fight Rankings\nThis graph shows the number of times each class appears in the top 10 of each bossfight in mixed AOE and single target boss encounters.\n\n\nCode\nDPSsheet_AOE <- subset(DPSsheet, Fight.Type == \"Mixed\")\n\nggplot(DPSsheet_AOE, aes(x = reorder(Class, -Appearance, FUN = sum), y = Appearance, fill = Fight.Type)) +\n  geom_col(fill = \"#54D16C\") +\n  labs(title = \"Which DPS is Best in Mixed Situations\",\n       caption = \"Times each class appears in the top 10 ranking in mixed single target and AOE fights\",\n       y = \"Number of Times in Top 10\", x = \"Class\") +\n  theme(plot.caption = element_text(hjust = .5)) +\n  theme(legend.position = \"none\")+\n  theme(axis.text.x = element_text(angle = 45, hjust = 1))"
+  },
+  {
+    "objectID": "posts/MidtermPortfolio/MidtermPortfolio.html#dps-per-boss-by-class",
+    "href": "posts/MidtermPortfolio/MidtermPortfolio.html#dps-per-boss-by-class",
+    "title": "Midterm Portfolio",
+    "section": "DPS Per Boss by Class",
+    "text": "DPS Per Boss by Class\nFor if you either aren’t sure what fight type a boss is, or if you want to see which classes excel at specific boss fights I included the DPS values for each class per bossfight.\n\n\nCode\nggplot(DPSsheet, aes(x = Class, y=DPS, fill =Class))+\n  geom_col(position = \"stack\")+\n  labs(title = \"Top DPS by Class\", caption = \"DPS per class facetted by boss\") +\n  theme(axis.text.x = element_text(angle = 45, hjust = 1),\n        axis.text.x.bottom = element_blank())+ \n  theme(plot.caption = element_text(hjust = .5))+\n  scale_y_continuous(labels = scientific_format())+\n  facet_wrap(~Boss)+\n  theme(axis.title.x = element_blank())+\n  scale_fill_manual(values = c(\"red\", \"#B01AAB\", \"orange\", \"#219864\", \"green\", \"#51CDCD\", \"#51CD92\", \"grey\", \"yellow\", \"blue\", \"purple\", \"brown\"), drop = FALSE)"
   },
   {
     "objectID": "posts/MarksChannels/index.html",
@@ -215,19 +222,5 @@
     "title": "About Me",
     "section": "Education",
     "text": "Education\nUniversity of Idaho, Moscow Idaho | Graduate Student in MMBB. 2021-present\nUniversity of Idaho, Moscow Idaho | B.S. in Biological Sciences. 2015-2019"
-  },
-  {
-    "objectID": "posts/MidtermPortfolio/MidtermPortfolio.html#aoe-fight-rankings",
-    "href": "posts/MidtermPortfolio/MidtermPortfolio.html#aoe-fight-rankings",
-    "title": "Midterm Portfolio",
-    "section": "AOE Fight Rankings",
-    "text": "AOE Fight Rankings\nThis graph shows the number of times each class appears in the top 10 of each boss fight in AOE heavy boss encounters.\n\n\nCode\nDPSsheet_AOE <- subset(DPSsheet, Fight.Type == \"AOE\")\nggplot(DPSsheet_AOE, aes(x = reorder(Class, -Appearance, FUN = sum), y = Appearance, fill = Fight.Type)) +\n  geom_col() +\n  labs(title = \"Which DPS is Best in AOE Situations\",\n       caption = \"Times each class appears in the top 10 ranking in AOE fights\",\n       y = \"Number of Times in Top 10\", x=\"Class\") +\n  theme(plot.caption = element_text(hjust = .5)) +\n  theme(legend.position = \"none\")+\n  theme(axis.text.x = element_text(angle = 45, hjust = 1))"
-  },
-  {
-    "objectID": "posts/MidtermPortfolio/MidtermPortfolio.html#dps-per-boss-by-class",
-    "href": "posts/MidtermPortfolio/MidtermPortfolio.html#dps-per-boss-by-class",
-    "title": "Midterm Portfolio",
-    "section": "DPS Per Boss by Class",
-    "text": "DPS Per Boss by Class\nFor if you either aren’t sure what fight type a boss is, or if you want to see which classes excel at specific boss fights I included the DPS values for each class per bossfight.\n\n\nCode\nggplot(DPSsheet, aes(x = Class, y=DPS, fill =Class))+\n  geom_col(position = \"stack\")+\n  labs(title = \"Top DPS by Class\", caption = \"DPS per class facetted by boss\") +\n  theme(axis.text.x = element_text(angle = 45, hjust = 1),\n        axis.text.x.bottom = element_blank())+ \n  theme(plot.caption = element_text(hjust = .5))+\n  scale_y_continuous(labels = scientific_format())+\n  facet_wrap(~Boss)+\n  theme(axis.title.x = element_blank())+\n  scale_fill_manual(values = c(\"red\", \"#B01AAB\", \"orange\", \"#219864\", \"green\", \"#51CDCD\", \"#51CD92\", \"grey\", \"yellow\", \"blue\", \"purple\", \"brown\"), drop = FALSE)"
   }
 ]
