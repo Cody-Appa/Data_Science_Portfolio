@@ -24,10 +24,9 @@ library(scales)
 DPSsheet<-read.csv("DataVizMidterm - Sheet1.csv")
 ```
 
-
-
 ## Top 10 ranking by Fight Type
-This graph visualizes the number of times each class appears in the top 10 for every encounter type in the raid. Use this, as well as the graphs below to decide which types of DPS class to bring to each encounter.
+
+This graph visualizes the number of times each class appears in the top 10 for every encounter type in the raid. Use this, as well as the graphs below to decide which types of DPS class to bring to each encounter. The graph has been faceted into the different fight types and enlarged for your convenience.
 
 ```{r}
 ggplot(DPSsheet, aes(x = reorder(Class, -Appearance, FUN = sum), y=Appearance, fill = Fight.Type)) +
@@ -45,8 +44,11 @@ ggplot(DPSsheet, aes(x=Class, y=Appearance, fill = Fight.Type)) +
   theme(axis.text.x = element_text(angle = 45, hjust = 1))+
   facet_wrap(~Fight.Type)
 ```
+
 ## AOE Fight Rankings
+
 This graph shows the number of times each class appears in the top 10 of each boss fight in AOE heavy boss encounters.
+
 ```{r}
 DPSsheet_AOE <- subset(DPSsheet, Fight.Type == "AOE")
 ggplot(DPSsheet_AOE, aes(x = reorder(Class, -Appearance, FUN = sum), y = Appearance, fill = Fight.Type)) +
@@ -58,7 +60,9 @@ ggplot(DPSsheet_AOE, aes(x = reorder(Class, -Appearance, FUN = sum), y = Appeara
   theme(legend.position = "none")+
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 ```
+
 ## Single Target Rankings
+
 This graph shows the number of times each class appears in the top 10 of each bossfight in mixed AOE and single target boss encounters.
 
 ```{r}
@@ -74,7 +78,9 @@ ggplot(DPSsheet_AOE, aes(x = reorder(Class, -Appearance, FUN = sum), y = Appeara
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 
 ```
+
 ## Mixed Fight Rankings
+
 This graph shows the number of times each class appears in the top 10 of each bossfight in mixed AOE and single target boss encounters.
 
 ```{r}
@@ -89,8 +95,10 @@ ggplot(DPSsheet_AOE, aes(x = reorder(Class, -Appearance, FUN = sum), y = Appeara
   theme(legend.position = "none")+
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 ```
+
 ## DPS Per Boss by Class
-For if you either aren't sure what fight type a boss is, or if you want to see which classes excel at specific boss fights I included the DPS values for each class per bossfight.
+
+For if you either aren't sure what fight type a boss is, or if you want to see which classes excel at specific boss fights I included the DPS values for each class per boss fight.
 
 ```{r}
 ggplot(DPSsheet, aes(x = Class, y=DPS, fill =Class))+
@@ -105,5 +113,3 @@ ggplot(DPSsheet, aes(x = Class, y=DPS, fill =Class))+
   scale_fill_manual(values = c("red", "#B01AAB", "orange", "#219864", "green", "#51CDCD", "#51CD92", "grey", "yellow", "blue", "purple", "brown"), drop = FALSE)
 
 ```
-
-
