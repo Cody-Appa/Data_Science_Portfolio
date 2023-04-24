@@ -9,9 +9,13 @@ code-tools: true
 description: "Analysis of Wow dps by class and fight"
 ---
 
-## DPS Analysis
+## Preamble
 
-This project takes the top 10 dps from the game World of Warcraft from the online log database for every boss fight in the raid. I then classified the bosses by whether they were AOE, Single target, or a mix. This projects goal is to analyze all of the classes in the game by the top 10 of every fight and determine which specs are good at what in the game.
+This project takes the top 10 damage per second (DPS) from the game World of Warcraft from the online log database for every boss fight in the raid. I then classified the bosses by whether they were area of effect (AOE), Single target, or a mix of both. This projects goal is to analyze all of the classes in the game by the top 10 of every fight and determine which classes do the most damage on which fights/fight styles in the game.
+
+## Data
+
+Data was acquired from the Warcraftlogs website https://www.warcraftlogs.com/ using the boss rankings for each boss fight. Warcraftlogs is used by all top guilds and most casual players to compare their DPS rankings to eachother and break down individual performances. I took this data from the top 10 rankings (parses) for each boss in the patch of 10.0.2 so data may be dated.
 
 ```{r}
 suppressPackageStartupMessages(library(tidyverse))
@@ -22,28 +26,26 @@ library(ggplot2)
 library(readxl)
 library(scales)
 DPSsheet<-read.csv("DataVizMidterm - Sheet1.csv")
+MidtermDictionary<-read_excel("MidtermSheet.xlsx")
+knitr::kable(MidtermDictionary)
 ```
+
+## Visualizations
+
+To help best determine which classes do the most damage on the basis of fight type, I created a stacked bar for each class based on how many times they show up in the top 10 ranking for each type (AOE, Single target, or mixed). I then broke that graph up into each type for easier visualization. Lastly I did a facet of each boss to show number of times each class hit top 10 by boss.
 
 ## Top 10 ranking by Fight Type
 
-This graph visualizes the number of times each class appears in the top 10 for every encounter type in the raid. Use this, as well as the graphs below to decide which types of DPS class to bring to each encounter. The graph has been faceted into the different fight types and enlarged for your convenience.
+This graph visualizes the number of times each class appears in the top 10 for every encounter type in the raid. Use this, as well as the graphs below to decide which types of DPS class to bring to each encounter. The graph has been further broken down into each different fight type for convenience.
 
 ```{r}
 ggplot(DPSsheet, aes(x = reorder(Class, -Appearance, FUN = sum), y=Appearance, fill = Fight.Type)) +
   geom_col()+
-  labs(title = "Which DPS is Best in Each Situation", caption = "Times each class appears in the top 10 ranking per fight type", y="Number of Times in Top 10", x ="Class") +
+  labs(title = "Number of Times in Top 10 per Fight Type", caption = "Figure 1: How often each class appears in the top 10 ranking per fight type", y="Number of Times in Top 10", x ="Class") +
   theme(plot.caption = element_text(hjust = .5)) +
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 ```
 
-```{r}
-ggplot(DPSsheet, aes(x=Class, y=Appearance, fill = Fight.Type)) +
-  geom_col()+
-  labs(title = "Which DPS is Best in Each Situation", caption = "Times each class appears in the top 10 ranking per fight type", y="Number of Times in Top 10") +
-  theme(plot.caption = element_text(hjust = .5)) +
-  theme(axis.text.x = element_text(angle = 45, hjust = 1))+
-  facet_wrap(~Fight.Type)
-```
 
 ## AOE Fight Rankings
 
@@ -51,14 +53,19 @@ This graph shows the number of times each class appears in the top 10 of each bo
 
 ```{r}
 DPSsheet_AOE <- subset(DPSsheet, Fight.Type == "AOE")
-ggplot(DPSsheet_AOE, aes(x = reorder(Class, -Appearance, FUN = sum), y = Appearance, fill = Fight.Type)) +
+DPSsheet_AOE$Appearance[is.na(DPSsheet_AOE$Appearance)] <- 0
+
+class_names <- unique(DPSsheet$Class)
+ggplot(DPSsheet_AOE, aes(x = reorder(Class, -Appearance), y = Appearance, fill = Fight.Type)) +
   geom_col() +
-  labs(title = "Which DPS is Best in AOE Situations",
-       caption = "Times each class appears in the top 10 ranking in AOE fights",
+  labs(title = "Which Class is Best in AOE Situations",
+       caption = "Figure 2: Times each class appears in the top 10 ranking in AOE fights",
        y = "Number of Times in Top 10", x="Class") +
   theme(plot.caption = element_text(hjust = .5)) +
   theme(legend.position = "none")+
-  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+  theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
+  scale_x_discrete(limits = class_names)
+
 ```
 
 ## Single Target Rankings
@@ -93,7 +100,8 @@ ggplot(DPSsheet_AOE, aes(x = reorder(Class, -Appearance, FUN = sum), y = Appeara
        y = "Number of Times in Top 10", x = "Class") +
   theme(plot.caption = element_text(hjust = .5)) +
   theme(legend.position = "none")+
-  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))+
+  scale_x_discrete(limits = class_names)
 ```
 
 ## DPS Per Boss by Class
