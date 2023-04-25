@@ -52,19 +52,19 @@ ggplot(DPSsheet, aes(x = reorder(Class, -Appearance, FUN = sum), y=Appearance, f
 This graph shows the number of times each class appears in the top 10 of each boss fight in AOE heavy boss encounters.
 
 ```{r}
-DPSsheet_AOE <- subset(DPSsheet, Fight.Type == "AOE")
-DPSsheet_AOE$Appearance[is.na(DPSsheet_AOE$Appearance)] <- 0
 
-class_names <- unique(DPSsheet$Class)
-ggplot(DPSsheet_AOE, aes(x = reorder(Class, -Appearance), y = Appearance, fill = Fight.Type)) +
+test<-as.data.frame(table(DPSsheet$Class, DPSsheet$Fight.Type))  
+
+ggplot(test%>%
+         filter(Var2 == "AOE"), aes(x = reorder(Var1, -Freq), y = Freq, fill = Var2)) +
   geom_col() +
   labs(title = "Which Class is Best in AOE Situations",
        caption = "Figure 2: Times each class appears in the top 10 ranking in AOE fights",
        y = "Number of Times in Top 10", x="Class") +
   theme(plot.caption = element_text(hjust = .5)) +
   theme(legend.position = "none")+
-  theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
-  scale_x_discrete(limits = class_names)
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))+
+  ylim(0,11)
 
 ```
 
@@ -73,16 +73,16 @@ ggplot(DPSsheet_AOE, aes(x = reorder(Class, -Appearance), y = Appearance, fill =
 This graph shows the number of times each class appears in the top 10 of each bossfight in mixed AOE and single target boss encounters.
 
 ```{r}
-DPSsheet_AOE <- subset(DPSsheet, Fight.Type == "Single Target")
-
-ggplot(DPSsheet_AOE, aes(x = reorder(Class, -Appearance, FUN = sum), y = Appearance, fill = Fight.Type)) +
+ggplot(test%>%
+         filter(Var2 == "Single Target"), aes(x = reorder(Var1, -Freq), y = Freq, fill = Var2)) +
   geom_col(fill = "#709BE1") +
   labs(title = "Which Class is Best in Single Target Situations",
        caption = "Figure 3: Times each class appears in the top 10 ranking in Single Target fights",
        y = "Number of Times in Top 10", x = "Class") +
   theme(plot.caption = element_text(hjust = .5)) +
   theme(legend.position = "none")+
-  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))+
+  ylim(0,11)
 
 ```
 
@@ -91,9 +91,8 @@ ggplot(DPSsheet_AOE, aes(x = reorder(Class, -Appearance, FUN = sum), y = Appeara
 This graph shows the number of times each class appears in the top 10 of each bossfight in mixed AOE and single target boss encounters.
 
 ```{r}
-DPSsheet_AOE <- subset(DPSsheet, Fight.Type == "Mixed")
-
-ggplot(DPSsheet_AOE, aes(x = reorder(Class, -Appearance, FUN = sum), y = Appearance, fill = Fight.Type)) +
+ggplot(test%>%
+         filter(Var2 == "Mixed"), aes(x = reorder(Var1, -Freq), y = Freq, fill = Var2)) +
   geom_col(fill = "#54D16C") +
   labs(title = "Which Class is Best in Mixed Situations",
        caption = "Figure 4: Times each class appears in the top 10 ranking in mixed single target and AOE fights",
@@ -101,7 +100,8 @@ ggplot(DPSsheet_AOE, aes(x = reorder(Class, -Appearance, FUN = sum), y = Appeara
   theme(plot.caption = element_text(hjust = .5)) +
   theme(legend.position = "none")+
   theme(axis.text.x = element_text(angle = 45, hjust = 1))+
-  scale_x_discrete(limits = class_names)
+  ylim(0,11)
+
 ```
 
 ## DPS Per Boss by Class
