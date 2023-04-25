@@ -46,7 +46,6 @@ ggplot(DPSsheet, aes(x = reorder(Class, -Appearance, FUN = sum), y=Appearance, f
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 ```
 
-
 ## AOE Fight Rankings
 
 This graph shows the number of times each class appears in the top 10 of each boss fight in AOE heavy boss encounters.
@@ -106,7 +105,7 @@ ggplot(test%>%
 
 ## DPS Per Boss by Class
 
-For if you either aren't sure what fight type a boss is, or if you want to see which classes excel at specific boss fights I included the DPS values for each class per boss fight.
+For if you either aren't sure what fight type a boss is, or if you want to see which classes excel at specific boss fights I included the DPS values for each class per boss fight. Disclaimer: this graph was made using total damage values and therefor is only accurate in showing the total amount of dps by specific classes for those fights. This is not an average!!
 
 ```{r}
 ggplot(DPSsheet, aes(x = Class, y=DPS, fill =Class))+
@@ -120,6 +119,7 @@ ggplot(DPSsheet, aes(x = Class, y=DPS, fill =Class))+
   scale_fill_manual(values = c("red", "#B01AAB", "orange", "#219864", "green", "#51CDCD", "#51CD92", "grey", "yellow", "blue", "purple", "brown"), drop = FALSE)
 
 ```
+
 ## Conclusion
 
 The goal of this project was to determine the best classes in WoW as of patch 10.0.2 for raiding based on each boss and the fight type. The conclusion I came to is that Hunter and Mage are the two best classes in the game as of this patch in terms of pure damage numbers. If you want more pure single target then use a mage, and if you want more AOE then use a hunter. Other classes are not totally useless, however, as if you want more specialized and diverse groups their are classes you can take situationally i.e rogue or warlock for pure single target or druid for AOE.
