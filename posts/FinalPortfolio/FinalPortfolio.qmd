@@ -3,6 +3,7 @@ title: "Final Portfolio"
 subtitle: "STI Analysis"
 author: "Cody Appa"
 date: "05/04/2023"
+image: "chlamydia_1.jpeg"
 code-fold: true
 code-tools: true
 ---
@@ -12,6 +13,8 @@ code-tools: true
 This project aims to allow the user to interactively look at infection rates of the most prevalent STI's: Chlamydia, Gonorrhea, and Syphilis. By using this portfolio you will be able to mouse over a map of the united states for each infection and visualize data from the CDC on infection rates per county.
 
 ## Data
+
+Data was gathered from the CDC website at https://www.cdc.gov/std/statistics/2021/tables.htm.
 
 ```{r}
 suppressPackageStartupMessages(library(tidyverse))
@@ -186,4 +189,4 @@ girafe(code = print(gg))
 
 ## Conclusion
 
-Chlamydia has the highest rate of infection out of the three STI's, though gonorrhea follows a similar pattern of infection rate by county. Syphilis, the lowest infection rate of the three seems to have a few hot spots but it's hard to say if there is a pattern.
+Chlamydia has the highest rate of infection out of the three STI's, though gonorrhea follows a similar pattern of infection rate by county. Syphilis, the lowest infection rate of the three seems to have a few hot spots but it's hard to say if there is a pattern. One interesting thing to note is Todd County, South Dakota. The reporting seems suspicious in that county as Chlamydia and Gonorrhea infection rate is the same and syphilis is 10x the next highest county.
