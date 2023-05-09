@@ -51,7 +51,7 @@ library(dplyr)
 library(ggiraph)
 
 data <- read.csv("Chlamydia - Rates of Reported Cases by County United States 2021 .csv", header = TRUE)
-data$Rate <- as.numeric(data$Rate, na.rm = TRUE)
+data$Rate <- as.numeric(gsub(",", "", data$Rate), na.rm = TRUE)
 
 invisible(suppressWarnings({
   us_counties <- tigris::counties(cb = TRUE, resolution = "20m", year = 2020, class = "sf", progress = FALSE)
@@ -72,7 +72,7 @@ us_counties_data_contiguous <- us_counties_data %>%
     !(STATEFP %in% c("02", "15", "60", "66", "69", "72", "78"))
   )
 
-my_colors <- c('blue', 'purple', 'red', 'orange', 'yellow')
+my_colors <- c('blue', 'red', 'orange', 'yellow')
 
 
 gg <- ggplot() +
@@ -97,7 +97,7 @@ library(dplyr)
 library(ggiraph)
 
 data2 <- read.csv("Gonorrhea - Rates of Reported Cases by County United States 2021 .csv", header = TRUE)
-data2$Rate <- as.numeric(data2$Rate, na.rm = TRUE)
+data2$Rate <- as.numeric(gsub(",", "", data2$Rate), na.rm = TRUE)
 
 invisible(suppressWarnings({
   us_counties <- tigris::counties(cb = TRUE, resolution = "20m", year = 2020, class = "sf", progress = FALSE)
@@ -117,7 +117,7 @@ us_counties_data_contiguous <- us_counties_data %>%
     !(STATEFP %in% c("02", "15", "60", "66", "69", "72", "78"))
   )
 
-my_colors <- c('blue', 'purple', 'red', 'orange', 'yellow')
+my_colors <- c('blue', 'red', 'orange', 'yellow')
 
 
 gg <- ggplot() +
@@ -144,7 +144,7 @@ library(dplyr)
 library(ggiraph)
 
 data3 <- read.csv("Primary and Secondary Syphilis - Rates of Reported Cases by County United States 2021 .csv", header = TRUE)
-data3$Rate <- as.numeric(data3$Rate, na.rm = TRUE)
+data3$Rate <- as.numeric(gsub(",", "", data3$Rate), na.rm = TRUE)
 
 invisible(suppressWarnings({
   us_counties <- tigris::counties(cb = TRUE, resolution = "20m", year = 2020, class = "sf", progress = FALSE)
@@ -164,7 +164,7 @@ us_counties_data_contiguous <- us_counties_data %>%
     !(STATEFP %in% c("02", "15", "60", "66", "69", "72", "78"))
   )
 
-my_colors <- c('blue', 'purple', 'red', 'orange', 'yellow')
+my_colors <- c('blue', 'red', 'orange', 'yellow')
 
 
 gg <- ggplot() +
