@@ -50,8 +50,9 @@ data <- read.csv("Chlamydia - Rates of Reported Cases by County United States 20
 data$Rate <- as.numeric(data$Rate)
 
 invisible({
-  us_counties <- tigris::counties(cb = TRUE, resolution = "20m", year = 2020, class = "sf")
+  us_counties <- tigris::counties(cb = TRUE, resolution = "20m", year = 2020, class = "sf", progress = FALSE)
 })
+
 
 
 us_counties_contiguous <- us_counties %>% 
@@ -95,8 +96,9 @@ data2 <- read.csv("Gonorrhea - Rates of Reported Cases by County United States 2
 data2$Rate <- as.numeric(data2$Rate)
 
 invisible({
-  us_counties <- tigris::counties(cb = TRUE, resolution = "20m", year = 2020, class = "sf")
+  us_counties <- tigris::counties(cb = TRUE, resolution = "20m", year = 2020, class = "sf", progress = FALSE)
 })
+
 
 us_counties_contiguous <- us_counties %>% 
   filter(
@@ -141,8 +143,9 @@ data3 <- read.csv("Primary and Secondary Syphilis - Rates of Reported Cases by C
 data3$Rate <- as.numeric(data3$Rate)
 
 invisible({
-  us_counties <- tigris::counties(cb = TRUE, resolution = "20m", year = 2020, class = "sf")
+  us_counties <- tigris::counties(cb = TRUE, resolution = "20m", year = 2020, class = "sf", progress = FALSE)
 })
+
 
 us_counties_contiguous <- us_counties %>% 
   filter(
