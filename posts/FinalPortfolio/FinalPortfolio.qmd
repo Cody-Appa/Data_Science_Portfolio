@@ -76,9 +76,9 @@ my_colors <- c('blue', 'red', 'orange', 'yellow')
 
 
 gg <- ggplot() +
-  geom_sf_interactive(data = us_counties_data_contiguous, aes(fill = Rate, tooltip = paste(NAMELSAD, "<br>", "Rate:", Rate)), color = "grey", size = 0.1) +
+geom_sf_interactive(data = us_counties_data_contiguous, aes(fill = Rate, tooltip = paste(NAMELSAD, "<br>", STATE_NAME, "<br>", "Rate:", Rate)), color = "grey", size = 0.1) +
   scale_fill_gradientn(colors = my_colors, na.value = "grey70", name = "Rate") + 
-  labs(title = "Chlamydia Infection Rate by County 2021", caption = "Total infection rate by chlamydia by county") +
+  labs(title = "Chlamydia Infection Rate by County 2021", caption = "Figure 1: Total infection rate of chlamydia by county") +
   theme_minimal() +
   theme(axis.text = element_blank(),
         axis.title = element_blank(),
@@ -121,9 +121,9 @@ my_colors <- c('blue', 'red', 'orange', 'yellow')
 
 
 gg <- ggplot() +
-  geom_sf_interactive(data = us_counties_data_contiguous, aes(fill = Rate, tooltip = paste(NAMELSAD, "<br>", "Rate:", Rate)), color = "grey", size = 0.1) +
+geom_sf_interactive(data = us_counties_data_contiguous, aes(fill = Rate, tooltip = paste(NAMELSAD, "<br>", STATE_NAME, "<br>", "Rate:", Rate)), color = "grey", size = 0.1) +
   scale_fill_gradientn(colors = my_colors, na.value = "grey70", name = "Rate") + 
-  labs(title = "Gonorrhea Infection Rate by County 2021", caption = "Total infection rate by gonorrhea by county") +
+  labs(title = "Gonorrhea Infection Rate by County 2021", caption = "Figure 2: Total infection rate of gonorrhea by county") +
   theme_minimal() +
   theme(axis.text = element_blank(),
         axis.title = element_blank(),
@@ -168,9 +168,9 @@ my_colors <- c('blue', 'red', 'orange', 'yellow')
 
 
 gg <- ggplot() +
-  geom_sf_interactive(data = us_counties_data_contiguous, aes(fill = Rate, tooltip = paste(NAMELSAD, "<br>", "Rate:", Rate)), color = "grey", size = 0.1) +
+  geom_sf_interactive(data = us_counties_data_contiguous, aes(fill = Rate, tooltip = paste(NAMELSAD, "<br>", STATE_NAME, "<br>", "Rate:", Rate)), color = "grey", size = 0.1) +
   scale_fill_gradientn(colors = my_colors, na.value = "grey70", name = "Rate") + 
-  labs(title = "Primary and Secondary Syphilis Infection Rate by County 2021", caption = "Total infection rate by primary and secondary Syphilis by county") +
+  labs(title = "Primary and Secondary Syphilis Infection Rate by County 2021", caption = "Figure 3: Total infection rate of primary and secondary Syphilis by county") +
   theme_minimal() +
   theme(axis.text = element_blank(),
         axis.title = element_blank(),
