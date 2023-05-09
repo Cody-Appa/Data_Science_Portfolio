@@ -1,0 +1,195 @@
+---
+title: "Final Portfolio"
+subtitle: "STI Analysis"
+author: "Cody Appa"
+date: "05/04/2023"
+code-fold: true
+code-tools: true
+---
+
+
+## Preamble
+
+This project aims to allow the user to interactively look at infection rates of the most prevalent STI's: Chlamydia, Gonorrhea, and Syphilis. By using this portfolio you will be able to mouse over a map of the united states for each infection and visualize data from the CDC on infection rates per county.
+
+## Data
+
+
+```{r}
+suppressPackageStartupMessages(library(tidyverse))
+suppressPackageStartupMessages(library(scales))
+suppressPackageStartupMessages(library(rnaturalearthdata))
+suppressPackageStartupMessages(library(rnaturalearth))
+suppressPackageStartupMessages(library(sf))
+suppressPackageStartupMessages(library(tigris))
+library(tidyverse)
+library(dplyr)
+library(ggplot2)
+library(readxl)
+library(scales)
+library(rnaturalearth)
+library(rnaturalearthdata)
+library(sf)
+library(tigris)
+
+suppressPackageStartupMessages(library(tigris))
+
+#STIDictionary<-read_excel("STISheet.xlsx")
+#knitr::kable(STIDictionary)
+```
+
+```{r}
+data <- read.csv("Chlamydia - Rates of Reported Cases by County United States 2021 .csv")
+```
+
+
+## Visualizations
+
+Each of these visualizations is an interactive, spatial, heat-map of the United States. By mousing over individual counties it will show you the county name and infection rate.
+
+
+```{r}
+library(sf)
+library(ggplot2)
+library(dplyr)
+library(ggiraph)
+
+data <- read.csv("Chlamydia - Rates of Reported Cases by County United States 2021 .csv", header = TRUE)
+data$Rate <- as.numeric(data$Rate)
+
+invisible(suppressWarnings({
+  us_counties <- tigris::counties(cb = TRUE, resolution = "20m", year = 2020, class = "sf", progress = FALSE)
+}))
+
+
+
+us_counties_contiguous <- us_counties %>% 
+  filter(
+    !(STATEFP %in% c("02", "15", "60", "66", "69", "72", "78"))
+  )
+
+us_counties_data <- left_join(us_counties, data, by = c("NAMELSAD" = "County"), relationship = "many-to-many")
+us_counties_data$Rate <- as.numeric(us_counties_data$Rate)
+
+us_counties_data_contiguous <- us_counties_data %>% 
+  filter(
+    !(STATEFP %in% c("02", "15", "60", "66", "69", "72", "78"))
+  )
+
+my_colors <- c('blue', 'purple', 'red', 'orange', 'yellow')
+
+
+gg <- ggplot() +
+  geom_sf_interactive(data = us_counties_data_contiguous, aes(fill = Rate, tooltip = paste(NAMELSAD, "<br>", "Rate:", Rate)), color = "grey", size = 0.1) +
+  scale_fill_gradientn(colors = my_colors, na.value = "grey70", name = "Rate") + 
+  labs(title = "Chlamydia Infection Rate by County 2021", caption = "Total infection rate by chlamydia by county") +
+  theme_minimal() +
+  theme(axis.text = element_blank(),
+        axis.title = element_blank(),
+        axis.ticks = element_blank(),
+        panel.grid = element_blank(),
+        plot.caption = element_text(hjust = .5, size = 8, margin = margin(t = 10, r = 10)))
+
+
+ggiraph(code = print(gg))
+```
+
+```{r}
+library(sf)
+library(ggplot2)
+library(dplyr)
+library(ggiraph)
+
+data2 <- read.csv("Gonorrhea - Rates of Reported Cases by County United States 2021 .csv", header = TRUE)
+data2$Rate <- as.numeric(data2$Rate)
+
+invisible(suppressWarnings({
+  us_counties <- tigris::counties(cb = TRUE, resolution = "20m", year = 2020, class = "sf", progress = FALSE)
+}))
+
+
+us_counties_contiguous <- us_counties %>% 
+  filter(
+    !(STATEFP %in% c("02", "15", "60", "66", "69", "72", "78"))
+  )
+
+us_counties_data <- left_join(us_counties, data2, by = c("NAMELSAD" = "County"), relationship = "many-to-many")
+us_counties_data$Rate <- as.numeric(us_counties_data$Rate)
+
+us_counties_data_contiguous <- us_counties_data %>% 
+  filter(
+    !(STATEFP %in% c("02", "15", "60", "66", "69", "72", "78"))
+  )
+
+my_colors <- c('blue', 'purple', 'red', 'orange', 'yellow')
+
+
+gg <- ggplot() +
+  geom_sf_interactive(data = us_counties_data_contiguous, aes(fill = Rate, tooltip = paste(NAMELSAD, "<br>", "Rate:", Rate)), color = "grey", size = 0.1) +
+  scale_fill_gradientn(colors = my_colors, na.value = "grey70", name = "Rate") + 
+  labs(title = "Gonorrhea Infection Rate by County 2021", caption = "Total infection rate by gonorrhea by county") +
+  theme_minimal() +
+  theme(axis.text = element_blank(),
+        axis.title = element_blank(),
+        axis.ticks = element_blank(),
+        panel.grid = element_blank(),
+        plot.caption = element_text(hjust = .5, size = 8, margin = margin(t = 10, r = 10)))
+
+
+ggiraph(code = print(gg))
+
+
+```
+
+```{r}
+library(sf)
+library(ggplot2)
+library(dplyr)
+library(ggiraph)
+
+data3 <- read.csv("Primary and Secondary Syphilis - Rates of Reported Cases by County United States 2021 .csv", header = TRUE)
+data3$Rate <- as.numeric(data3$Rate)
+
+invisible(suppressWarnings({
+  us_counties <- tigris::counties(cb = TRUE, resolution = "20m", year = 2020, class = "sf", progress = FALSE)
+}))
+
+
+us_counties_contiguous <- us_counties %>% 
+  filter(
+    !(STATEFP %in% c("02", "15", "60", "66", "69", "72", "78"))
+  )
+
+us_counties_data <- left_join(us_counties, data3, by = c("NAMELSAD" = "County"), relationship = "many-to-many")
+us_counties_data$Rate <- as.numeric(us_counties_data$Rate)
+
+us_counties_data_contiguous <- us_counties_data %>% 
+  filter(
+    !(STATEFP %in% c("02", "15", "60", "66", "69", "72", "78"))
+  )
+
+my_colors <- c('blue', 'purple', 'red', 'orange', 'yellow')
+
+
+gg <- ggplot() +
+  geom_sf_interactive(data = us_counties_data_contiguous, aes(fill = Rate, tooltip = paste(NAMELSAD, "<br>", "Rate:", Rate)), color = "grey", size = 0.1) +
+  scale_fill_gradientn(colors = my_colors, na.value = "grey70", name = "Rate") + 
+  labs(title = "Primary and Secondary Syphilis Infection Rate by County 2021", caption = "Total infection rate by primary and secondary Syphilis by county") +
+  theme_minimal() +
+  theme(axis.text = element_blank(),
+        axis.title = element_blank(),
+        axis.ticks = element_blank(),
+        panel.grid = element_blank(),
+        plot.caption = element_text(hjust = .5, size = 8, margin = margin(t = 10, r = 10)))
+
+
+ggiraph(code = print(gg))
+
+
+```
+
+
+## Conclusion
+
+Chlamydia has the highest rate of infection out of the three STI's, though gonorrhea follows a similar pattern of infection rate by county. Syphilis, the lowest infection rate of the three seems to have a few hot spots but it's hard to say if there is a pattern.
+
