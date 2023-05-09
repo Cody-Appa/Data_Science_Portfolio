@@ -1,0 +1,3144 @@
+﻿STD,Year,State,County,State FIPS,County FIPS,Rate,Rate Category
+Chlamydia,2021,Alabama,Autauga County,01,001,577,"490–3,468"
+Chlamydia,2021,Alabama,Baldwin County,01,003,318,306–489
+Chlamydia,2021,Alabama,Barbour County,01,005,729,"490–3,468"
+Chlamydia,2021,Alabama,Bibb County,01,007,663,"490–3,468"
+Chlamydia,2021,Alabama,Blount County,01,009,318,306–489
+Chlamydia,2021,Alabama,Bullock County,01,011,824,"490–3,468"
+Chlamydia,2021,Alabama,Butler County,01,013,"1,091","490–3,468"
+Chlamydia,2021,Alabama,Calhoun County,01,015,545,"490–3,468"
+Chlamydia,2021,Alabama,Chambers County,01,017,646,"490–3,468"
+Chlamydia,2021,Alabama,Cherokee County,01,019,276,209–305
+Chlamydia,2021,Alabama,Chilton County,01,021,331,306–489
+Chlamydia,2021,Alabama,Choctaw County,01,023,367,306–489
+Chlamydia,2021,Alabama,Clarke County,01,025,725,"490–3,468"
+Chlamydia,2021,Alabama,Clay County,01,027,423,306–489
+Chlamydia,2021,Alabama,Cleburne County,01,029,252,209–305
+Chlamydia,2021,Alabama,Coffee County,01,031,578,"490–3,468"
+Chlamydia,2021,Alabama,Colbert County,01,033,517,"490–3,468"
+Chlamydia,2021,Alabama,Conecuh County,01,035,556,"490–3,468"
+Chlamydia,2021,Alabama,Coosa County,01,037,852,"490–3,468"
+Chlamydia,2021,Alabama,Covington County,01,039,474,306–489
+Chlamydia,2021,Alabama,Crenshaw County,01,041,825,"490–3,468"
+Chlamydia,2021,Alabama,Cullman County,01,043,236,209–305
+Chlamydia,2021,Alabama,Dale County,01,045,620,"490–3,468"
+Chlamydia,2021,Alabama,Dallas County,01,047,867,"490–3,468"
+Chlamydia,2021,Alabama,DeKalb County,01,049,260,209–305
+Chlamydia,2021,Alabama,Elmore County,01,051,557,"490–3,468"
+Chlamydia,2021,Alabama,Escambia County,01,053,608,"490–3,468"
+Chlamydia,2021,Alabama,Etowah County,01,055,469,306–489
+Chlamydia,2021,Alabama,Fayette County,01,057,353,306–489
+Chlamydia,2021,Alabama,Franklin County,01,059,315,306–489
+Chlamydia,2021,Alabama,Geneva County,01,061,468,306–489
+Chlamydia,2021,Alabama,Greene County,01,063,"1,075","490–3,468"
+Chlamydia,2021,Alabama,Hale County,01,065,"1,295","490–3,468"
+Chlamydia,2021,Alabama,Henry County,01,067,756,"490–3,468"
+Chlamydia,2021,Alabama,Houston County,01,069,681,"490–3,468"
+Chlamydia,2021,Alabama,Jackson County,01,071,265,209–305
+Chlamydia,2021,Alabama,Jefferson County,01,073,873,"490–3,468"
+Chlamydia,2021,Alabama,Lamar County,01,075,409,306–489
+Chlamydia,2021,Alabama,Lauderdale County,01,077,463,306–489
+Chlamydia,2021,Alabama,Lawrence County,01,079,305,209–305
+Chlamydia,2021,Alabama,Lee County,01,081,494,"490–3,468"
+Chlamydia,2021,Alabama,Limestone County,01,083,297,209–305
+Chlamydia,2021,Alabama,Lowndes County,01,085,963,"490–3,468"
+Chlamydia,2021,Alabama,Macon County,01,087,921,"490–3,468"
+Chlamydia,2021,Alabama,Madison County,01,089,602,"490–3,468"
+Chlamydia,2021,Alabama,Marengo County,01,091,658,"490–3,468"
+Chlamydia,2021,Alabama,Marion County,01,093,246,209–305
+Chlamydia,2021,Alabama,Marshall County,01,095,339,306–489
+Chlamydia,2021,Alabama,Mobile County,01,097,735,"490–3,468"
+Chlamydia,2021,Alabama,Monroe County,01,099,662,"490–3,468"
+Chlamydia,2021,Alabama,Montgomery County,01,101,"1,061","490–3,468"
+Chlamydia,2021,Alabama,Morgan County,01,103,475,306–489
+Chlamydia,2021,Alabama,Perry County,01,105,790,"490–3,468"
+Chlamydia,2021,Alabama,Pickens County,01,107,521,"490–3,468"
+Chlamydia,2021,Alabama,Pike County,01,109,900,"490–3,468"
+Chlamydia,2021,Alabama,Randolph County,01,111,541,"490–3,468"
+Chlamydia,2021,Alabama,Russell County,01,113,688,"490–3,468"
+Chlamydia,2021,Alabama,St. Clair County,01,115,285,209–305
+Chlamydia,2021,Alabama,Shelby County,01,117,263,209–305
+Chlamydia,2021,Alabama,Sumter County,01,119,666,"490–3,468"
+Chlamydia,2021,Alabama,Talladega County,01,121,619,"490–3,468"
+Chlamydia,2021,Alabama,Tallapoosa County,01,123,517,"490–3,468"
+Chlamydia,2021,Alabama,Tuscaloosa County,01,125,779,"490–3,468"
+Chlamydia,2021,Alabama,Walker County,01,127,359,306–489
+Chlamydia,2021,Alabama,Washington County,01,129,449,306–489
+Chlamydia,2021,Alabama,Wilcox County,01,131,795,"490–3,468"
+Chlamydia,2021,Alabama,Winston County,01,133,169,1–208
+Chlamydia,2021,Alaska,Aleutians East Borough,02,013,147,1–208
+Chlamydia,2021,Alaska,Aleutians West Census Area,02,016,217,209–305
+Chlamydia,2021,Alaska,Anchorage Municipality,02,020,870,"490–3,468"
+Chlamydia,2021,Alaska,Bethel Census Area,02,050,"2,786","490–3,468"
+Chlamydia,2021,Alaska,Bristol Bay Borough,02,060,119,1–208
+Chlamydia,2021,Alaska,Chugach Census Area,02,063,158,1–208
+Chlamydia,2021,Alaska,Copper River Census Area,02,066,608,"490–3,468"
+Chlamydia,2021,Alaska,Denali Borough,02,068,126,1–208
+Chlamydia,2021,Alaska,Dillingham Census Area,02,070,733,"490–3,468"
+Chlamydia,2021,Alaska,Fairbanks North Star Borough,02,090,918,"490–3,468"
+Chlamydia,2021,Alaska,Haines Borough,02,100,48,1–208
+Chlamydia,2021,Alaska,Hoonah-Angoon Census Area,02,105,429,306–489
+Chlamydia,2021,Alaska,Juneau City and Borough,02,110,310,306–489
+Chlamydia,2021,Alaska,Kenai Peninsula Borough,02,122,336,306–489
+Chlamydia,2021,Alaska,Ketchikan Gateway Borough,02,130,254,209–305
+Chlamydia,2021,Alaska,Kodiak Island Borough,02,150,250,209–305
+Chlamydia,2021,Alaska,Kusilvak Census Area,02,158,"3,098","490–3,468"
+Chlamydia,2021,Alaska,Lake and Peninsula Borough,02,164,636,"490–3,468"
+Chlamydia,2021,Alaska,Matanuska-Susitna Borough,02,170,366,306–489
+Chlamydia,2021,Alaska,Nome Census Area,02,180,"2,058","490–3,468"
+Chlamydia,2021,Alaska,North Slope Borough,02,185,793,"490–3,468"
+Chlamydia,2021,Alaska,Northwest Arctic Borough,02,188,"2,063","490–3,468"
+Chlamydia,2021,Alaska,Petersburg Borough,02,195,0,0
+Chlamydia,2021,Alaska,Prince of Wales-Hyder Census Area,02,198,0,0
+Chlamydia,2021,Alaska,Sitka City and Borough,02,220,178,1–208
+Chlamydia,2021,Alaska,Skagway Municipality,02,230,0,0
+Chlamydia,2021,Alaska,Southeast Fairbanks Census Area,02,240,172,1–208
+Chlamydia,2021,Alaska,Wrangell City and Borough,02,275,49,1–208
+Chlamydia,2021,Alaska,Yakutat City and Borough,02,282,142,1–208
+Chlamydia,2021,Alaska,Yukon-Koyukuk Census Area,02,290,"1,024","490–3,468"
+Chlamydia,2021,Arizona,Apache County,04,001,785,"490–3,468"
+Chlamydia,2021,Arizona,Cochise County,04,003,320,306–489
+Chlamydia,2021,Arizona,Coconino County,04,005,638,"490–3,468"
+Chlamydia,2021,Arizona,Gila County,04,007,308,306–489
+Chlamydia,2021,Arizona,Graham County,04,009,374,306–489
+Chlamydia,2021,Arizona,Greenlee County,04,011,404,306–489
+Chlamydia,2021,Arizona,La Paz County,04,012,323,306–489
+Chlamydia,2021,Arizona,Maricopa County,04,013,635,"490–3,468"
+Chlamydia,2021,Arizona,Mohave County,04,015,224,209–305
+Chlamydia,2021,Arizona,Navajo County,04,017,613,"490–3,468"
+Chlamydia,2021,Arizona,Pima County,04,019,568,"490–3,468"
+Chlamydia,2021,Arizona,Pinal County,04,021,396,306–489
+Chlamydia,2021,Arizona,Santa Cruz County,04,023,399,306–489
+Chlamydia,2021,Arizona,Yavapai County,04,025,197,1–208
+Chlamydia,2021,Arizona,Yuma County,04,027,553,"490–3,468"
+Chlamydia,2021,Arkansas,Arkansas County,05,001,676,"490–3,468"
+Chlamydia,2021,Arkansas,Ashley County,05,003,519,"490–3,468"
+Chlamydia,2021,Arkansas,Baxter County,05,005,185,1–208
+Chlamydia,2021,Arkansas,Benton County,05,007,328,306–489
+Chlamydia,2021,Arkansas,Boone County,05,009,336,306–489
+Chlamydia,2021,Arkansas,Bradley County,05,011,749,"490–3,468"
+Chlamydia,2021,Arkansas,Calhoun County,05,013,485,306–489
+Chlamydia,2021,Arkansas,Carroll County,05,015,239,209–305
+Chlamydia,2021,Arkansas,Chicot County,05,017,669,"490–3,468"
+Chlamydia,2021,Arkansas,Clark County,05,019,689,"490–3,468"
+Chlamydia,2021,Arkansas,Clay County,05,021,321,306–489
+Chlamydia,2021,Arkansas,Cleburne County,05,023,236,209–305
+Chlamydia,2021,Arkansas,Cleveland County,05,025,532,"490–3,468"
+Chlamydia,2021,Arkansas,Columbia County,05,027,917,"490–3,468"
+Chlamydia,2021,Arkansas,Conway County,05,029,537,"490–3,468"
+Chlamydia,2021,Arkansas,Craighead County,05,031,802,"490–3,468"
+Chlamydia,2021,Arkansas,Crawford County,05,033,290,209–305
+Chlamydia,2021,Arkansas,Crittenden County,05,035,"1,292","490–3,468"
+Chlamydia,2021,Arkansas,Cross County,05,037,576,"490–3,468"
+Chlamydia,2021,Arkansas,Dallas County,05,039,"1,015","490–3,468"
+Chlamydia,2021,Arkansas,Desha County,05,041,604,"490–3,468"
+Chlamydia,2021,Arkansas,Drew County,05,043,532,"490–3,468"
+Chlamydia,2021,Arkansas,Faulkner County,05,045,554,"490–3,468"
+Chlamydia,2021,Arkansas,Franklin County,05,047,227,209–305
+Chlamydia,2021,Arkansas,Fulton County,05,049,148,1–208
+Chlamydia,2021,Arkansas,Garland County,05,051,445,306–489
+Chlamydia,2021,Arkansas,Grant County,05,053,238,209–305
+Chlamydia,2021,Arkansas,Greene County,05,055,430,306–489
+Chlamydia,2021,Arkansas,Hempstead County,05,057,889,"490–3,468"
+Chlamydia,2021,Arkansas,Hot Spring County,05,059,459,306–489
+Chlamydia,2021,Arkansas,Howard County,05,061,795,"490–3,468"
+Chlamydia,2021,Arkansas,Independence County,05,063,408,306–489
+Chlamydia,2021,Arkansas,Izard County,05,065,252,209–305
+Chlamydia,2021,Arkansas,Jackson County,05,067,779,"490–3,468"
+Chlamydia,2021,Arkansas,Jefferson County,05,069,"1,268","490–3,468"
+Chlamydia,2021,Arkansas,Johnson County,05,071,344,306–489
+Chlamydia,2021,Arkansas,Lafayette County,05,073,698,"490–3,468"
+Chlamydia,2021,Arkansas,Lawrence County,05,075,344,306–489
+Chlamydia,2021,Arkansas,Lee County,05,077,905,"490–3,468"
+Chlamydia,2021,Arkansas,Lincoln County,05,079,338,306–489
+Chlamydia,2021,Arkansas,Little River County,05,081,695,"490–3,468"
+Chlamydia,2021,Arkansas,Logan County,05,083,354,306–489
+Chlamydia,2021,Arkansas,Lonoke County,05,085,379,306–489
+Chlamydia,2021,Arkansas,Madison County,05,087,153,1–208
+Chlamydia,2021,Arkansas,Marion County,05,089,236,209–305
+Chlamydia,2021,Arkansas,Miller County,05,091,870,"490–3,468"
+Chlamydia,2021,Arkansas,Mississippi County,05,093,"1,102","490–3,468"
+Chlamydia,2021,Arkansas,Monroe County,05,095,"1,077","490–3,468"
+Chlamydia,2021,Arkansas,Montgomery County,05,097,197,1–208
+Chlamydia,2021,Arkansas,Nevada County,05,099,770,"490–3,468"
+Chlamydia,2021,Arkansas,Newton County,05,101,139,1–208
+Chlamydia,2021,Arkansas,Ouachita County,05,103,852,"490–3,468"
+Chlamydia,2021,Arkansas,Perry County,05,105,291,209–305
+Chlamydia,2021,Arkansas,Phillips County,05,107,"1,283","490–3,468"
+Chlamydia,2021,Arkansas,Pike County,05,109,298,209–305
+Chlamydia,2021,Arkansas,Poinsett County,05,111,662,"490–3,468"
+Chlamydia,2021,Arkansas,Polk County,05,113,217,209–305
+Chlamydia,2021,Arkansas,Pope County,05,115,354,306–489
+Chlamydia,2021,Arkansas,Prairie County,05,117,479,306–489
+Chlamydia,2021,Arkansas,Pulaski County,05,119,988,"490–3,468"
+Chlamydia,2021,Arkansas,Randolph County,05,121,413,306–489
+Chlamydia,2021,Arkansas,St. Francis County,05,123,"1,025","490–3,468"
+Chlamydia,2021,Arkansas,Saline County,05,125,348,306–489
+Chlamydia,2021,Arkansas,Scott County,05,127,143,1–208
+Chlamydia,2021,Arkansas,Searcy County,05,129,254,209–305
+Chlamydia,2021,Arkansas,Sebastian County,05,131,532,"490–3,468"
+Chlamydia,2021,Arkansas,Sevier County,05,133,367,306–489
+Chlamydia,2021,Arkansas,Sharp County,05,135,238,209–305
+Chlamydia,2021,Arkansas,Stone County,05,137,160,1–208
+Chlamydia,2021,Arkansas,Union County,05,139,777,"490–3,468"
+Chlamydia,2021,Arkansas,Van Buren County,05,141,172,1–208
+Chlamydia,2021,Arkansas,Washington County,05,143,675,"490–3,468"
+Chlamydia,2021,Arkansas,White County,05,145,448,306–489
+Chlamydia,2021,Arkansas,Woodruff County,05,147,654,"490–3,468"
+Chlamydia,2021,Arkansas,Yell County,05,149,362,306–489
+Chlamydia,2021,California,Alameda County,06,001,452,306–489
+Chlamydia,2021,California,Alpine County,06,003,162,1–208
+Chlamydia,2021,California,Amador County,06,005,158,1–208
+Chlamydia,2021,California,Butte County,06,007,494,"490–3,468"
+Chlamydia,2021,California,Calaveras County,06,009,26,1–208
+Chlamydia,2021,California,Colusa County,06,011,260,209–305
+Chlamydia,2021,California,Contra Costa County,06,013,424,306–489
+Chlamydia,2021,California,Del Norte County,06,015,242,209–305
+Chlamydia,2021,California,El Dorado County,06,017,186,1–208
+Chlamydia,2021,California,Fresno County,06,019,637,"490–3,468"
+Chlamydia,2021,California,Glenn County,06,021,198,1–208
+Chlamydia,2021,California,Humboldt County,06,023,351,306–489
+Chlamydia,2021,California,Imperial County,06,025,470,306–489
+Chlamydia,2021,California,Inyo County,06,027,290,209–305
+Chlamydia,2021,California,Kern County,06,029,651,"490–3,468"
+Chlamydia,2021,California,Kings County,06,031,671,"490–3,468"
+Chlamydia,2021,California,Lake County,06,033,350,306–489
+Chlamydia,2021,California,Lassen County,06,035,100,1–208
+Chlamydia,2021,California,Los Angeles County,06,037,580,"490–3,468"
+Chlamydia,2021,California,Madera County,06,039,544,"490–3,468"
+Chlamydia,2021,California,Marin County,06,041,230,209–305
+Chlamydia,2021,California,Mariposa County,06,043,157,1–208
+Chlamydia,2021,California,Mendocino County,06,045,407,306–489
+Chlamydia,2021,California,Merced County,06,047,384,306–489
+Chlamydia,2021,California,Modoc County,06,049,335,306–489
+Chlamydia,2021,California,Mono County,06,051,294,209–305
+Chlamydia,2021,California,Monterey County,06,053,503,"490–3,468"
+Chlamydia,2021,California,Napa County,06,055,357,306–489
+Chlamydia,2021,California,Nevada County,06,057,176,1–208
+Chlamydia,2021,California,Orange County,06,059,373,306–489
+Chlamydia,2021,California,Placer County,06,061,207,1–208
+Chlamydia,2021,California,Plumas County,06,063,191,1–208
+Chlamydia,2021,California,Riverside County,06,065,488,306–489
+Chlamydia,2021,California,Sacramento County,06,067,481,306–489
+Chlamydia,2021,California,San Benito County,06,069,219,209–305
+Chlamydia,2021,California,San Bernardino County,06,071,580,"490–3,468"
+Chlamydia,2021,California,San Diego County,06,073,552,"490–3,468"
+Chlamydia,2021,California,San Francisco County,06,075,791,"490–3,468"
+Chlamydia,2021,California,San Joaquin County,06,077,535,"490–3,468"
+Chlamydia,2021,California,San Luis Obispo County,06,079,344,306–489
+Chlamydia,2021,California,San Mateo County,06,081,318,306–489
+Chlamydia,2021,California,Santa Barbara County,06,083,317,306–489
+Chlamydia,2021,California,Santa Clara County,06,085,268,209–305
+Chlamydia,2021,California,Santa Cruz County,06,087,319,306–489
+Chlamydia,2021,California,Shasta County,06,089,290,209–305
+Chlamydia,2021,California,Sierra County,06,091,0,0
+Chlamydia,2021,California,Siskiyou County,06,093,224,209–305
+Chlamydia,2021,California,Solano County,06,095,524,"490–3,468"
+Chlamydia,2021,California,Sonoma County,06,097,332,306–489
+Chlamydia,2021,California,Stanislaus County,06,099,434,306–489
+Chlamydia,2021,California,Sutter County,06,101,213,209–305
+Chlamydia,2021,California,Tehama County,06,103,305,209–305
+Chlamydia,2021,California,Trinity County,06,105,75,1–208
+Chlamydia,2021,California,Tulare County,06,107,612,"490–3,468"
+Chlamydia,2021,California,Tuolumne County,06,109,186,1–208
+Chlamydia,2021,California,Ventura County,06,111,370,306–489
+Chlamydia,2021,California,Yolo County,06,113,409,306–489
+Chlamydia,2021,California,Yuba County,06,115,399,306–489
+Chlamydia,2021,Colorado,Adams County,08,001,558,"490–3,468"
+Chlamydia,2021,Colorado,Alamosa County,08,003,616,"490–3,468"
+Chlamydia,2021,Colorado,Arapahoe County,08,005,563,"490–3,468"
+Chlamydia,2021,Colorado,Archuleta County,08,007,73,1–208
+Chlamydia,2021,Colorado,Baca County,08,009,142,1–208
+Chlamydia,2021,Colorado,Bent County,08,011,313,306–489
+Chlamydia,2021,Colorado,Boulder County,08,013,356,306–489
+Chlamydia,2021,Colorado,Broomfield County,08,014,256,209–305
+Chlamydia,2021,Colorado,Chaffee County,08,015,110,1–208
+Chlamydia,2021,Colorado,Cheyenne County,08,017,176,1–208
+Chlamydia,2021,Colorado,Clear Creek County,08,019,201,1–208
+Chlamydia,2021,Colorado,Conejos County,08,021,355,306–489
+Chlamydia,2021,Colorado,Costilla County,08,023,469,306–489
+Chlamydia,2021,Colorado,Crowley County,08,025,233,209–305
+Chlamydia,2021,Colorado,Custer County,08,027,40,1–208
+Chlamydia,2021,Colorado,Delta County,08,029,259,209–305
+Chlamydia,2021,Colorado,Denver County,08,031,933,"490–3,468"
+Chlamydia,2021,Colorado,Dolores County,08,033,42,1–208
+Chlamydia,2021,Colorado,Douglas County,08,035,198,1–208
+Chlamydia,2021,Colorado,Eagle County,08,037,314,306–489
+Chlamydia,2021,Colorado,Elbert County,08,039,118,1–208
+Chlamydia,2021,Colorado,El Paso County,08,041,486,306–489
+Chlamydia,2021,Colorado,Fremont County,08,043,244,209–305
+Chlamydia,2021,Colorado,Garfield County,08,045,335,306–489
+Chlamydia,2021,Colorado,Gilpin County,08,047,85,1–208
+Chlamydia,2021,Colorado,Grand County,08,049,214,209–305
+Chlamydia,2021,Colorado,Gunnison County,08,051,226,209–305
+Chlamydia,2021,Colorado,Hinsdale County,08,053,0,0
+Chlamydia,2021,Colorado,Huerfano County,08,055,260,209–305
+Chlamydia,2021,Colorado,Jackson County,08,057,73,1–208
+Chlamydia,2021,Colorado,Jefferson County,08,059,261,209–305
+Chlamydia,2021,Colorado,Kiowa County,08,061,69,1–208
+Chlamydia,2021,Colorado,Kit Carson County,08,063,144,1–208
+Chlamydia,2021,Colorado,Lake County,08,065,351,306–489
+Chlamydia,2021,Colorado,La Plata County,08,067,297,209–305
+Chlamydia,2021,Colorado,Larimer County,08,069,327,306–489
+Chlamydia,2021,Colorado,Las Animas County,08,071,383,306–489
+Chlamydia,2021,Colorado,Lincoln County,08,073,193,1–208
+Chlamydia,2021,Colorado,Logan County,08,075,326,306–489
+Chlamydia,2021,Colorado,Mesa County,08,077,351,306–489
+Chlamydia,2021,Colorado,Mineral County,08,079,108,1–208
+Chlamydia,2021,Colorado,Moffat County,08,081,296,209–305
+Chlamydia,2021,Colorado,Montezuma County,08,083,294,209–305
+Chlamydia,2021,Colorado,Montrose County,08,085,278,209–305
+Chlamydia,2021,Colorado,Morgan County,08,087,445,306–489
+Chlamydia,2021,Colorado,Otero County,08,089,355,306–489
+Chlamydia,2021,Colorado,Ouray County,08,091,179,1–208
+Chlamydia,2021,Colorado,Park County,08,093,90,1–208
+Chlamydia,2021,Colorado,Phillips County,08,095,310,306–489
+Chlamydia,2021,Colorado,Pitkin County,08,097,213,209–305
+Chlamydia,2021,Colorado,Prowers County,08,099,634,"490–3,468"
+Chlamydia,2021,Colorado,Pueblo County,08,101,575,"490–3,468"
+Chlamydia,2021,Colorado,Rio Blanco County,08,103,124,1–208
+Chlamydia,2021,Colorado,Rio Grande County,08,105,412,306–489
+Chlamydia,2021,Colorado,Routt County,08,107,211,209–305
+Chlamydia,2021,Colorado,Saguache County,08,109,232,209–305
+Chlamydia,2021,Colorado,San Juan County,08,111,546,"490–3,468"
+Chlamydia,2021,Colorado,San Miguel County,08,113,136,1–208
+Chlamydia,2021,Colorado,Sedgwick County,08,115,43,1–208
+Chlamydia,2021,Colorado,Summit County,08,117,301,209–305
+Chlamydia,2021,Colorado,Teller County,08,119,136,1–208
+Chlamydia,2021,Colorado,Washington County,08,121,62,1–208
+Chlamydia,2021,Colorado,Weld County,08,123,421,306–489
+Chlamydia,2021,Colorado,Yuma County,08,125,221,209–305
+Chlamydia,2021,Connecticut,Fairfield County,09,001,354,306–489
+Chlamydia,2021,Connecticut,Hartford County,09,003,509,"490–3,468"
+Chlamydia,2021,Connecticut,Litchfield County,09,005,191,1–208
+Chlamydia,2021,Connecticut,Middlesex County,09,007,267,209–305
+Chlamydia,2021,Connecticut,New Haven County,09,009,511,"490–3,468"
+Chlamydia,2021,Connecticut,New London County,09,011,321,306–489
+Chlamydia,2021,Connecticut,Tolland County,09,013,200,1–208
+Chlamydia,2021,Connecticut,Windham County,09,015,211,209–305
+Chlamydia,2021,Delaware,Kent County,10,001,574,"490–3,468"
+Chlamydia,2021,Delaware,New Castle County,10,003,511,"490–3,468"
+Chlamydia,2021,Delaware,Sussex County,10,005,363,306–489
+Chlamydia,2021,District of Columbia,District of Columbia,11,001,"1,038","490–3,468"
+Chlamydia,2021,Florida,Alachua County,12,001,928,"490–3,468"
+Chlamydia,2021,Florida,Baker County,12,003,418,306–489
+Chlamydia,2021,Florida,Bay County,12,005,458,306–489
+Chlamydia,2021,Florida,Bradford County,12,007,420,306–489
+Chlamydia,2021,Florida,Brevard County,12,009,314,306–489
+Chlamydia,2021,Florida,Broward County,12,011,525,"490–3,468"
+Chlamydia,2021,Florida,Calhoun County,12,013,345,306–489
+Chlamydia,2021,Florida,Charlotte County,12,015,168,1–208
+Chlamydia,2021,Florida,Citrus County,12,017,214,209–305
+Chlamydia,2021,Florida,Clay County,12,019,366,306–489
+Chlamydia,2021,Florida,Collier County,12,021,290,209–305
+Chlamydia,2021,Florida,Columbia County,12,023,590,"490–3,468"
+Chlamydia,2021,Florida,DeSoto County,12,027,311,306–489
+Chlamydia,2021,Florida,Dixie County,12,029,474,306–489
+Chlamydia,2021,Florida,Duval County,12,031,780,"490–3,468"
+Chlamydia,2021,Florida,Escambia County,12,033,651,"490–3,468"
+Chlamydia,2021,Florida,Flagler County,12,035,268,209–305
+Chlamydia,2021,Florida,Franklin County,12,037,334,306–489
+Chlamydia,2021,Florida,Gadsden County,12,039,961,"490–3,468"
+Chlamydia,2021,Florida,Gilchrist County,12,041,419,306–489
+Chlamydia,2021,Florida,Glades County,12,043,319,306–489
+Chlamydia,2021,Florida,Gulf County,12,045,341,306–489
+Chlamydia,2021,Florida,Hamilton County,12,047,822,"490–3,468"
+Chlamydia,2021,Florida,Hardee County,12,049,555,"490–3,468"
+Chlamydia,2021,Florida,Hendry County,12,051,533,"490–3,468"
+Chlamydia,2021,Florida,Hernando County,12,053,265,209–305
+Chlamydia,2021,Florida,Highlands County,12,055,344,306–489
+Chlamydia,2021,Florida,Hillsborough County,12,057,601,"490–3,468"
+Chlamydia,2021,Florida,Holmes County,12,059,409,306–489
+Chlamydia,2021,Florida,Indian River County,12,061,311,306–489
+Chlamydia,2021,Florida,Jackson County,12,063,602,"490–3,468"
+Chlamydia,2021,Florida,Jefferson County,12,065,522,"490–3,468"
+Chlamydia,2021,Florida,Lafayette County,12,067,310,306–489
+Chlamydia,2021,Florida,Lake County,12,069,229,209–305
+Chlamydia,2021,Florida,Lee County,12,071,401,306–489
+Chlamydia,2021,Florida,Leon County,12,073,"1,103","490–3,468"
+Chlamydia,2021,Florida,Levy County,12,075,519,"490–3,468"
+Chlamydia,2021,Florida,Liberty County,12,077,456,306–489
+Chlamydia,2021,Florida,Madison County,12,079,569,"490–3,468"
+Chlamydia,2021,Florida,Manatee County,12,081,392,306–489
+Chlamydia,2021,Florida,Marion County,12,083,372,306–489
+Chlamydia,2021,Florida,Martin County,12,085,201,1–208
+Chlamydia,2021,Florida,Miami-Dade County,12,086,529,"490–3,468"
+Chlamydia,2021,Florida,Monroe County,12,087,265,209–305
+Chlamydia,2021,Florida,Nassau County,12,089,268,209–305
+Chlamydia,2021,Florida,Okaloosa County,12,091,486,306–489
+Chlamydia,2021,Florida,Okeechobee County,12,093,422,306–489
+Chlamydia,2021,Florida,Orange County,12,095,746,"490–3,468"
+Chlamydia,2021,Florida,Osceola County,12,097,461,306–489
+Chlamydia,2021,Florida,Palm Beach County,12,099,399,306–489
+Chlamydia,2021,Florida,Pasco County,12,101,284,209–305
+Chlamydia,2021,Florida,Pinellas County,12,103,431,306–489
+Chlamydia,2021,Florida,Polk County,12,105,495,"490–3,468"
+Chlamydia,2021,Florida,Putnam County,12,107,512,"490–3,468"
+Chlamydia,2021,Florida,St. Johns County,12,109,218,209–305
+Chlamydia,2021,Florida,St. Lucie County,12,111,343,306–489
+Chlamydia,2021,Florida,Santa Rosa County,12,113,253,209–305
+Chlamydia,2021,Florida,Sarasota County,12,115,238,209–305
+Chlamydia,2021,Florida,Seminole County,12,117,402,306–489
+Chlamydia,2021,Florida,Sumter County,12,119,126,1–208
+Chlamydia,2021,Florida,Suwannee County,12,121,463,306–489
+Chlamydia,2021,Florida,Taylor County,12,123,403,306–489
+Chlamydia,2021,Florida,Union County,12,125,429,306–489
+Chlamydia,2021,Florida,Volusia County,12,127,340,306–489
+Chlamydia,2021,Florida,Wakulla County,12,129,383,306–489
+Chlamydia,2021,Florida,Walton County,12,131,330,306–489
+Chlamydia,2021,Florida,Washington County,12,133,507,"490–3,468"
+Chlamydia,2021,Georgia,Appling County,13,001,444,306–489
+Chlamydia,2021,Georgia,Atkinson County,13,003,536,"490–3,468"
+Chlamydia,2021,Georgia,Bacon County,13,005,496,"490–3,468"
+Chlamydia,2021,Georgia,Baker County,13,007,390,306–489
+Chlamydia,2021,Georgia,Baldwin County,13,009,724,"490–3,468"
+Chlamydia,2021,Georgia,Banks County,13,011,140,1–208
+Chlamydia,2021,Georgia,Barrow County,13,013,402,306–489
+Chlamydia,2021,Georgia,Bartow County,13,015,366,306–489
+Chlamydia,2021,Georgia,Ben Hill County,13,017,711,"490–3,468"
+Chlamydia,2021,Georgia,Berrien County,13,019,656,"490–3,468"
+Chlamydia,2021,Georgia,Bibb County,13,021,938,"490–3,468"
+Chlamydia,2021,Georgia,Bleckley County,13,023,706,"490–3,468"
+Chlamydia,2021,Georgia,Brantley County,13,025,215,209–305
+Chlamydia,2021,Georgia,Brooks County,13,027,516,"490–3,468"
+Chlamydia,2021,Georgia,Bryan County,13,029,428,306–489
+Chlamydia,2021,Georgia,Bulloch County,13,031,917,"490–3,468"
+Chlamydia,2021,Georgia,Burke County,13,033,691,"490–3,468"
+Chlamydia,2021,Georgia,Butts County,13,035,508,"490–3,468"
+Chlamydia,2021,Georgia,Calhoun County,13,037,726,"490–3,468"
+Chlamydia,2021,Georgia,Camden County,13,039,393,306–489
+Chlamydia,2021,Georgia,Candler County,13,043,716,"490–3,468"
+Chlamydia,2021,Georgia,Carroll County,13,045,535,"490–3,468"
+Chlamydia,2021,Georgia,Catoosa County,13,047,234,209–305
+Chlamydia,2021,Georgia,Charlton County,13,049,321,306–489
+Chlamydia,2021,Georgia,Chatham County,13,051,899,"490–3,468"
+Chlamydia,2021,Georgia,Chattahoochee County,13,053,"1,293","490–3,468"
+Chlamydia,2021,Georgia,Chattooga County,13,055,205,1–208
+Chlamydia,2021,Georgia,Cherokee County,13,057,269,209–305
+Chlamydia,2021,Georgia,Clarke County,13,059,950,"490–3,468"
+Chlamydia,2021,Georgia,Clay County,13,061,867,"490–3,468"
+Chlamydia,2021,Georgia,Clayton County,13,063,813,"490–3,468"
+Chlamydia,2021,Georgia,Clinch County,13,065,743,"490–3,468"
+Chlamydia,2021,Georgia,Cobb County,13,067,556,"490–3,468"
+Chlamydia,2021,Georgia,Coffee County,13,069,493,"490–3,468"
+Chlamydia,2021,Georgia,Colquitt County,13,071,395,306–489
+Chlamydia,2021,Georgia,Columbia County,13,073,318,306–489
+Chlamydia,2021,Georgia,Cook County,13,075,743,"490–3,468"
+Chlamydia,2021,Georgia,Coweta County,13,077,311,306–489
+Chlamydia,2021,Georgia,Crawford County,13,079,173,1–208
+Chlamydia,2021,Georgia,Crisp County,13,081,"1,117","490–3,468"
+Chlamydia,2021,Georgia,Dade County,13,083,190,1–208
+Chlamydia,2021,Georgia,Dawson County,13,085,263,209–305
+Chlamydia,2021,Georgia,Decatur County,13,087,802,"490–3,468"
+Chlamydia,2021,Georgia,DeKalb County,13,089,851,"490–3,468"
+Chlamydia,2021,Georgia,Dodge County,13,091,476,306–489
+Chlamydia,2021,Georgia,Dooly County,13,093,652,"490–3,468"
+Chlamydia,2021,Georgia,Dougherty County,13,095,"1,331","490–3,468"
+Chlamydia,2021,Georgia,Douglas County,13,097,542,"490–3,468"
+Chlamydia,2021,Georgia,Early County,13,099,772,"490–3,468"
+Chlamydia,2021,Georgia,Echols County,13,101,135,1–208
+Chlamydia,2021,Georgia,Effingham County,13,103,439,306–489
+Chlamydia,2021,Georgia,Elbert County,13,105,490,"490–3,468"
+Chlamydia,2021,Georgia,Emanuel County,13,107,718,"490–3,468"
+Chlamydia,2021,Georgia,Evans County,13,109,965,"490–3,468"
+Chlamydia,2021,Georgia,Fannin County,13,111,101,1–208
+Chlamydia,2021,Georgia,Fayette County,13,113,362,306–489
+Chlamydia,2021,Georgia,Floyd County,13,115,424,306–489
+Chlamydia,2021,Georgia,Forsyth County,13,117,141,1–208
+Chlamydia,2021,Georgia,Franklin County,13,119,282,209–305
+Chlamydia,2021,Georgia,Fulton County,13,121,968,"490–3,468"
+Chlamydia,2021,Georgia,Gilmer County,13,123,159,1–208
+Chlamydia,2021,Georgia,Glascock County,13,125,274,209–305
+Chlamydia,2021,Georgia,Glynn County,13,127,624,"490–3,468"
+Chlamydia,2021,Georgia,Gordon County,13,129,246,209–305
+Chlamydia,2021,Georgia,Grady County,13,131,575,"490–3,468"
+Chlamydia,2021,Georgia,Greene County,13,133,537,"490–3,468"
+Chlamydia,2021,Georgia,Gwinnett County,13,135,501,"490–3,468"
+Chlamydia,2021,Georgia,Habersham County,13,137,246,209–305
+Chlamydia,2021,Georgia,Hall County,13,139,420,306–489
+Chlamydia,2021,Georgia,Hancock County,13,141,707,"490–3,468"
+Chlamydia,2021,Georgia,Haralson County,13,143,275,209–305
+Chlamydia,2021,Georgia,Harris County,13,145,326,306–489
+Chlamydia,2021,Georgia,Hart County,13,147,269,209–305
+Chlamydia,2021,Georgia,Heard County,13,149,251,209–305
+Chlamydia,2021,Georgia,Henry County,13,151,663,"490–3,468"
+Chlamydia,2021,Georgia,Houston County,13,153,632,"490–3,468"
+Chlamydia,2021,Georgia,Irwin County,13,155,426,306–489
+Chlamydia,2021,Georgia,Jackson County,13,157,352,306–489
+Chlamydia,2021,Georgia,Jasper County,13,159,340,306–489
+Chlamydia,2021,Georgia,Jeff Davis County,13,161,625,"490–3,468"
+Chlamydia,2021,Georgia,Jefferson County,13,163,657,"490–3,468"
+Chlamydia,2021,Georgia,Jenkins County,13,165,440,306–489
+Chlamydia,2021,Georgia,Johnson County,13,167,677,"490–3,468"
+Chlamydia,2021,Georgia,Jones County,13,169,546,"490–3,468"
+Chlamydia,2021,Georgia,Lamar County,13,171,356,306–489
+Chlamydia,2021,Georgia,Lanier County,13,173,505,"490–3,468"
+Chlamydia,2021,Georgia,Laurens County,13,175,884,"490–3,468"
+Chlamydia,2021,Georgia,Lee County,13,177,344,306–489
+Chlamydia,2021,Georgia,Liberty County,13,179,869,"490–3,468"
+Chlamydia,2021,Georgia,Lincoln County,13,181,297,209–305
+Chlamydia,2021,Georgia,Long County,13,183,431,306–489
+Chlamydia,2021,Georgia,Lowndes County,13,185,"1,081","490–3,468"
+Chlamydia,2021,Georgia,Lumpkin County,13,187,248,209–305
+Chlamydia,2021,Georgia,McDuffie County,13,189,800,"490–3,468"
+Chlamydia,2021,Georgia,McIntosh County,13,191,467,306–489
+Chlamydia,2021,Georgia,Macon County,13,193,641,"490–3,468"
+Chlamydia,2021,Georgia,Madison County,13,195,440,306–489
+Chlamydia,2021,Georgia,Marion County,13,197,403,306–489
+Chlamydia,2021,Georgia,Meriwether County,13,199,644,"490–3,468"
+Chlamydia,2021,Georgia,Miller County,13,201,659,"490–3,468"
+Chlamydia,2021,Georgia,Mitchell County,13,205,818,"490–3,468"
+Chlamydia,2021,Georgia,Monroe County,13,207,268,209–305
+Chlamydia,2021,Georgia,Montgomery County,13,209,786,"490–3,468"
+Chlamydia,2021,Georgia,Morgan County,13,211,363,306–489
+Chlamydia,2021,Georgia,Murray County,13,213,270,209–305
+Chlamydia,2021,Georgia,Muscogee County,13,215,840,"490–3,468"
+Chlamydia,2021,Georgia,Newton County,13,217,758,"490–3,468"
+Chlamydia,2021,Georgia,Oconee County,13,219,207,1–208
+Chlamydia,2021,Georgia,Oglethorpe County,13,221,476,306–489
+Chlamydia,2021,Georgia,Paulding County,13,223,452,306–489
+Chlamydia,2021,Georgia,Peach County,13,225,911,"490–3,468"
+Chlamydia,2021,Georgia,Pickens County,13,227,173,1–208
+Chlamydia,2021,Georgia,Pierce County,13,229,335,306–489
+Chlamydia,2021,Georgia,Pike County,13,231,241,209–305
+Chlamydia,2021,Georgia,Polk County,13,233,414,306–489
+Chlamydia,2021,Georgia,Pulaski County,13,235,645,"490–3,468"
+Chlamydia,2021,Georgia,Putnam County,13,237,553,"490–3,468"
+Chlamydia,2021,Georgia,Quitman County,13,239,669,"490–3,468"
+Chlamydia,2021,Georgia,Rabun County,13,241,257,209–305
+Chlamydia,2021,Georgia,Randolph County,13,243,557,"490–3,468"
+Chlamydia,2021,Georgia,Richmond County,13,245,"1,096","490–3,468"
+Chlamydia,2021,Georgia,Rockdale County,13,247,827,"490–3,468"
+Chlamydia,2021,Georgia,Schley County,13,249,246,209–305
+Chlamydia,2021,Georgia,Screven County,13,251,695,"490–3,468"
+Chlamydia,2021,Georgia,Seminole County,13,253,489,306–489
+Chlamydia,2021,Georgia,Spalding County,13,255,686,"490–3,468"
+Chlamydia,2021,Georgia,Stephens County,13,257,465,306–489
+Chlamydia,2021,Georgia,Stewart County,13,259,337,306–489
+Chlamydia,2021,Georgia,Sumter County,13,261,946,"490–3,468"
+Chlamydia,2021,Georgia,Talbot County,13,263,313,306–489
+Chlamydia,2021,Georgia,Taliaferro County,13,265,578,"490–3,468"
+Chlamydia,2021,Georgia,Tattnall County,13,267,590,"490–3,468"
+Chlamydia,2021,Georgia,Taylor County,13,269,551,"490–3,468"
+Chlamydia,2021,Georgia,Telfair County,13,271,717,"490–3,468"
+Chlamydia,2021,Georgia,Terrell County,13,273,"1,183","490–3,468"
+Chlamydia,2021,Georgia,Thomas County,13,275,772,"490–3,468"
+Chlamydia,2021,Georgia,Tift County,13,277,679,"490–3,468"
+Chlamydia,2021,Georgia,Toombs County,13,279,814,"490–3,468"
+Chlamydia,2021,Georgia,Towns County,13,281,101,1–208
+Chlamydia,2021,Georgia,Treutlen County,13,283,523,"490–3,468"
+Chlamydia,2021,Georgia,Troup County,13,285,849,"490–3,468"
+Chlamydia,2021,Georgia,Turner County,13,287,"1,093","490–3,468"
+Chlamydia,2021,Georgia,Twiggs County,13,289,407,306–489
+Chlamydia,2021,Georgia,Union County,13,291,86,1–208
+Chlamydia,2021,Georgia,Upson County,13,293,617,"490–3,468"
+Chlamydia,2021,Georgia,Walker County,13,295,245,209–305
+Chlamydia,2021,Georgia,Walton County,13,297,289,209–305
+Chlamydia,2021,Georgia,Ware County,13,299,860,"490–3,468"
+Chlamydia,2021,Georgia,Warren County,13,301,763,"490–3,468"
+Chlamydia,2021,Georgia,Washington County,13,303,687,"490–3,468"
+Chlamydia,2021,Georgia,Wayne County,13,305,596,"490–3,468"
+Chlamydia,2021,Georgia,Webster County,13,307,211,209–305
+Chlamydia,2021,Georgia,Wheeler County,13,309,428,306–489
+Chlamydia,2021,Georgia,White County,13,311,162,1–208
+Chlamydia,2021,Georgia,Whitfield County,13,313,489,306–489
+Chlamydia,2021,Georgia,Wilcox County,13,315,595,"490–3,468"
+Chlamydia,2021,Georgia,Wilkes County,13,317,662,"490–3,468"
+Chlamydia,2021,Georgia,Wilkinson County,13,319,725,"490–3,468"
+Chlamydia,2021,Georgia,Worth County,13,321,409,306–489
+Chlamydia,2021,Hawaii,Hawaii County,15,001,318,306–489
+Chlamydia,2021,Hawaii,Honolulu County,15,003,472,306–489
+Chlamydia,2021,Hawaii,Kalawao County,15,005,"2,439","490–3,468"
+Chlamydia,2021,Hawaii,Kauai County,15,007,260,209–305
+Chlamydia,2021,Hawaii,Maui County,15,009,258,209–305
+Chlamydia,2021,Idaho,Ada County,16,001,429,306–489
+Chlamydia,2021,Idaho,Adams County,16,003,195,1–208
+Chlamydia,2021,Idaho,Bannock County,16,005,365,306–489
+Chlamydia,2021,Idaho,Bear Lake County,16,007,122,1–208
+Chlamydia,2021,Idaho,Benewah County,16,009,252,209–305
+Chlamydia,2021,Idaho,Bingham County,16,011,270,209–305
+Chlamydia,2021,Idaho,Blaine County,16,013,214,209–305
+Chlamydia,2021,Idaho,Boise County,16,015,222,209–305
+Chlamydia,2021,Idaho,Bonner County,16,017,129,1–208
+Chlamydia,2021,Idaho,Bonneville County,16,019,295,209–305
+Chlamydia,2021,Idaho,Boundary County,16,021,111,1–208
+Chlamydia,2021,Idaho,Butte County,16,023,75,1–208
+Chlamydia,2021,Idaho,Camas County,16,025,88,1–208
+Chlamydia,2021,Idaho,Canyon County,16,027,429,306–489
+Chlamydia,2021,Idaho,Caribou County,16,029,113,1–208
+Chlamydia,2021,Idaho,Cassia County,16,031,374,306–489
+Chlamydia,2021,Idaho,Clark County,16,033,126,1–208
+Chlamydia,2021,Idaho,Clearwater County,16,035,292,209–305
+Chlamydia,2021,Idaho,Custer County,16,037,68,1–208
+Chlamydia,2021,Idaho,Elmore County,16,039,468,306–489
+Chlamydia,2021,Idaho,Franklin County,16,041,109,1–208
+Chlamydia,2021,Idaho,Fremont County,16,043,162,1–208
+Chlamydia,2021,Idaho,Gem County,16,045,182,1–208
+Chlamydia,2021,Idaho,Gooding County,16,047,311,306–489
+Chlamydia,2021,Idaho,Idaho County,16,049,135,1–208
+Chlamydia,2021,Idaho,Jefferson County,16,051,137,1–208
+Chlamydia,2021,Idaho,Jerome County,16,053,568,"490–3,468"
+Chlamydia,2021,Idaho,Kootenai County,16,055,221,209–305
+Chlamydia,2021,Idaho,Latah County,16,057,449,306–489
+Chlamydia,2021,Idaho,Lemhi County,16,059,208,1–208
+Chlamydia,2021,Idaho,Lewis County,16,061,162,1–208
+Chlamydia,2021,Idaho,Lincoln County,16,063,227,209–305
+Chlamydia,2021,Idaho,Madison County,16,065,106,1–208
+Chlamydia,2021,Idaho,Minidoka County,16,067,405,306–489
+Chlamydia,2021,Idaho,Nez Perce County,16,069,346,306–489
+Chlamydia,2021,Idaho,Oneida County,16,071,152,1–208
+Chlamydia,2021,Idaho,Owyhee County,16,073,211,209–305
+Chlamydia,2021,Idaho,Payette County,16,075,171,1–208
+Chlamydia,2021,Idaho,Power County,16,077,189,1–208
+Chlamydia,2021,Idaho,Shoshone County,16,079,279,209–305
+Chlamydia,2021,Idaho,Teton County,16,081,139,1–208
+Chlamydia,2021,Idaho,Twin Falls County,16,083,383,306–489
+Chlamydia,2021,Idaho,Valley County,16,085,172,1–208
+Chlamydia,2021,Idaho,Washington County,16,087,257,209–305
+Chlamydia,2021,Illinois,Adams County,17,001,448,306–489
+Chlamydia,2021,Illinois,Alexander County,17,003,775,"490–3,468"
+Chlamydia,2021,Illinois,Bond County,17,005,259,209–305
+Chlamydia,2021,Illinois,Boone County,17,007,325,306–489
+Chlamydia,2021,Illinois,Brown County,17,009,78,1–208
+Chlamydia,2021,Illinois,Bureau County,17,011,204,1–208
+Chlamydia,2021,Illinois,Calhoun County,17,013,114,1–208
+Chlamydia,2021,Illinois,Carroll County,17,015,236,209–305
+Chlamydia,2021,Illinois,Cass County,17,017,564,"490–3,468"
+Chlamydia,2021,Illinois,Champaign County,17,019,785,"490–3,468"
+Chlamydia,2021,Illinois,Christian County,17,021,264,209–305
+Chlamydia,2021,Illinois,Clark County,17,023,281,209–305
+Chlamydia,2021,Illinois,Clay County,17,025,266,209–305
+Chlamydia,2021,Illinois,Clinton County,17,027,255,209–305
+Chlamydia,2021,Illinois,Coles County,17,029,729,"490–3,468"
+Chlamydia,2021,Illinois,Cook County,17,031,764,"490–3,468"
+Chlamydia,2021,Illinois,Crawford County,17,033,257,209–305
+Chlamydia,2021,Illinois,Cumberland County,17,035,300,209–305
+Chlamydia,2021,Illinois,DeKalb County,17,037,536,"490–3,468"
+Chlamydia,2021,Illinois,De Witt County,17,039,280,209–305
+Chlamydia,2021,Illinois,Douglas County,17,041,284,209–305
+Chlamydia,2021,Illinois,DuPage County,17,043,267,209–305
+Chlamydia,2021,Illinois,Edgar County,17,045,357,306–489
+Chlamydia,2021,Illinois,Edwards County,17,047,247,209–305
+Chlamydia,2021,Illinois,Effingham County,17,049,241,209–305
+Chlamydia,2021,Illinois,Fayette County,17,051,238,209–305
+Chlamydia,2021,Illinois,Ford County,17,053,244,209–305
+Chlamydia,2021,Illinois,Franklin County,17,055,385,306–489
+Chlamydia,2021,Illinois,Fulton County,17,057,226,209–305
+Chlamydia,2021,Illinois,Gallatin County,17,059,245,209–305
+Chlamydia,2021,Illinois,Greene County,17,061,296,209–305
+Chlamydia,2021,Illinois,Grundy County,17,063,202,1–208
+Chlamydia,2021,Illinois,Hamilton County,17,065,164,1–208
+Chlamydia,2021,Illinois,Hancock County,17,067,287,209–305
+Chlamydia,2021,Illinois,Hardin County,17,069,192,1–208
+Chlamydia,2021,Illinois,Henderson County,17,071,301,209–305
+Chlamydia,2021,Illinois,Henry County,17,073,313,306–489
+Chlamydia,2021,Illinois,Iroquois County,17,075,250,209–305
+Chlamydia,2021,Illinois,Jackson County,17,077,982,"490–3,468"
+Chlamydia,2021,Illinois,Jasper County,17,079,196,1–208
+Chlamydia,2021,Illinois,Jefferson County,17,081,380,306–489
+Chlamydia,2021,Illinois,Jersey County,17,083,216,209–305
+Chlamydia,2021,Illinois,Jo Daviess County,17,085,155,1–208
+Chlamydia,2021,Illinois,Johnson County,17,087,223,209–305
+Chlamydia,2021,Illinois,Kane County,17,089,388,306–489
+Chlamydia,2021,Illinois,Kankakee County,17,091,596,"490–3,468"
+Chlamydia,2021,Illinois,Kendall County,17,093,303,209–305
+Chlamydia,2021,Illinois,Knox County,17,095,469,306–489
+Chlamydia,2021,Illinois,Lake County,17,097,449,306–489
+Chlamydia,2021,Illinois,LaSalle County,17,099,255,209–305
+Chlamydia,2021,Illinois,Lawrence County,17,101,231,209–305
+Chlamydia,2021,Illinois,Lee County,17,103,211,209–305
+Chlamydia,2021,Illinois,Livingston County,17,105,179,1–208
+Chlamydia,2021,Illinois,Logan County,17,107,504,"490–3,468"
+Chlamydia,2021,Illinois,McDonough County,17,109,764,"490–3,468"
+Chlamydia,2021,Illinois,McHenry County,17,111,224,209–305
+Chlamydia,2021,Illinois,McLean County,17,113,572,"490–3,468"
+Chlamydia,2021,Illinois,Macon County,17,115,857,"490–3,468"
+Chlamydia,2021,Illinois,Macoupin County,17,117,227,209–305
+Chlamydia,2021,Illinois,Madison County,17,119,449,306–489
+Chlamydia,2021,Illinois,Marion County,17,121,399,306–489
+Chlamydia,2021,Illinois,Marshall County,17,123,146,1–208
+Chlamydia,2021,Illinois,Mason County,17,125,179,1–208
+Chlamydia,2021,Illinois,Massac County,17,127,229,209–305
+Chlamydia,2021,Illinois,Menard County,17,129,197,1–208
+Chlamydia,2021,Illinois,Mercer County,17,131,212,209–305
+Chlamydia,2021,Illinois,Monroe County,17,133,143,1–208
+Chlamydia,2021,Illinois,Montgomery County,17,135,278,209–305
+Chlamydia,2021,Illinois,Morgan County,17,137,561,"490–3,468"
+Chlamydia,2021,Illinois,Moultrie County,17,139,358,306–489
+Chlamydia,2021,Illinois,Ogle County,17,141,227,209–305
+Chlamydia,2021,Illinois,Peoria County,17,143,849,"490–3,468"
+Chlamydia,2021,Illinois,Perry County,17,145,248,209–305
+Chlamydia,2021,Illinois,Piatt County,17,147,263,209–305
+Chlamydia,2021,Illinois,Pike County,17,149,157,1–208
+Chlamydia,2021,Illinois,Pope County,17,151,53,1–208
+Chlamydia,2021,Illinois,Pulaski County,17,153,612,"490–3,468"
+Chlamydia,2021,Illinois,Putnam County,17,155,144,1–208
+Chlamydia,2021,Illinois,Randolph County,17,157,255,209–305
+Chlamydia,2021,Illinois,Richland County,17,159,323,306–489
+Chlamydia,2021,Illinois,Rock Island County,17,161,546,"490–3,468"
+Chlamydia,2021,Illinois,St. Clair County,17,163,775,"490–3,468"
+Chlamydia,2021,Illinois,Saline County,17,165,450,306–489
+Chlamydia,2021,Illinois,Sangamon County,17,167,675,"490–3,468"
+Chlamydia,2021,Illinois,Schuyler County,17,169,263,209–305
+Chlamydia,2021,Illinois,Scott County,17,171,207,1–208
+Chlamydia,2021,Illinois,Shelby County,17,173,178,1–208
+Chlamydia,2021,Illinois,Stark County,17,175,302,209–305
+Chlamydia,2021,Illinois,Stephenson County,17,177,529,"490–3,468"
+Chlamydia,2021,Illinois,Tazewell County,17,179,246,209–305
+Chlamydia,2021,Illinois,Union County,17,181,272,209–305
+Chlamydia,2021,Illinois,Vermilion County,17,183,787,"490–3,468"
+Chlamydia,2021,Illinois,Wabash County,17,185,187,1–208
+Chlamydia,2021,Illinois,Warren County,17,187,266,209–305
+Chlamydia,2021,Illinois,Washington County,17,189,256,209–305
+Chlamydia,2021,Illinois,Wayne County,17,191,288,209–305
+Chlamydia,2021,Illinois,White County,17,193,218,209–305
+Chlamydia,2021,Illinois,Whiteside County,17,195,280,209–305
+Chlamydia,2021,Illinois,Will County,17,197,382,306–489
+Chlamydia,2021,Illinois,Williamson County,17,199,414,306–489
+Chlamydia,2021,Illinois,Winnebago County,17,201,717,"490–3,468"
+Chlamydia,2021,Illinois,Woodford County,17,203,147,1–208
+Chlamydia,2021,Indiana,Adams County,18,001,184,1–208
+Chlamydia,2021,Indiana,Allen County,18,003,583,"490–3,468"
+Chlamydia,2021,Indiana,Bartholomew County,18,005,364,306–489
+Chlamydia,2021,Indiana,Benton County,18,007,310,306–489
+Chlamydia,2021,Indiana,Blackford County,18,009,207,1–208
+Chlamydia,2021,Indiana,Boone County,18,011,181,1–208
+Chlamydia,2021,Indiana,Brown County,18,013,186,1–208
+Chlamydia,2021,Indiana,Carroll County,18,015,235,209–305
+Chlamydia,2021,Indiana,Cass County,18,017,463,306–489
+Chlamydia,2021,Indiana,Clark County,18,019,436,306–489
+Chlamydia,2021,Indiana,Clay County,18,021,318,306–489
+Chlamydia,2021,Indiana,Clinton County,18,023,432,306–489
+Chlamydia,2021,Indiana,Crawford County,18,025,171,1–208
+Chlamydia,2021,Indiana,Daviess County,18,027,278,209–305
+Chlamydia,2021,Indiana,Dearborn County,18,029,140,1–208
+Chlamydia,2021,Indiana,Decatur County,18,031,315,306–489
+Chlamydia,2021,Indiana,DeKalb County,18,033,339,306–489
+Chlamydia,2021,Indiana,Delaware County,18,035,579,"490–3,468"
+Chlamydia,2021,Indiana,Dubois County,18,037,237,209–305
+Chlamydia,2021,Indiana,Elkhart County,18,039,502,"490–3,468"
+Chlamydia,2021,Indiana,Fayette County,18,041,283,209–305
+Chlamydia,2021,Indiana,Floyd County,18,043,359,306–489
+Chlamydia,2021,Indiana,Fountain County,18,045,493,"490–3,468"
+Chlamydia,2021,Indiana,Franklin County,18,047,83,1–208
+Chlamydia,2021,Indiana,Fulton County,18,049,186,1–208
+Chlamydia,2021,Indiana,Gibson County,18,051,328,306–489
+Chlamydia,2021,Indiana,Grant County,18,053,590,"490–3,468"
+Chlamydia,2021,Indiana,Greene County,18,055,322,306–489
+Chlamydia,2021,Indiana,Hamilton County,18,057,208,1–208
+Chlamydia,2021,Indiana,Hancock County,18,059,241,209–305
+Chlamydia,2021,Indiana,Harrison County,18,061,216,209–305
+Chlamydia,2021,Indiana,Hendricks County,18,063,268,209–305
+Chlamydia,2021,Indiana,Henry County,18,065,262,209–305
+Chlamydia,2021,Indiana,Howard County,18,067,608,"490–3,468"
+Chlamydia,2021,Indiana,Huntington County,18,069,259,209–305
+Chlamydia,2021,Indiana,Jackson County,18,071,317,306–489
+Chlamydia,2021,Indiana,Jasper County,18,073,302,209–305
+Chlamydia,2021,Indiana,Jay County,18,075,296,209–305
+Chlamydia,2021,Indiana,Jefferson County,18,077,317,306–489
+Chlamydia,2021,Indiana,Jennings County,18,079,281,209–305
+Chlamydia,2021,Indiana,Johnson County,18,081,326,306–489
+Chlamydia,2021,Indiana,Knox County,18,083,392,306–489
+Chlamydia,2021,Indiana,Kosciusko County,18,085,332,306–489
+Chlamydia,2021,Indiana,LaGrange County,18,087,131,1–208
+Chlamydia,2021,Indiana,Lake County,18,089,582,"490–3,468"
+Chlamydia,2021,Indiana,LaPorte County,18,091,447,306–489
+Chlamydia,2021,Indiana,Lawrence County,18,093,257,209–305
+Chlamydia,2021,Indiana,Madison County,18,095,527,"490–3,468"
+Chlamydia,2021,Indiana,Marion County,18,097,"1,103","490–3,468"
+Chlamydia,2021,Indiana,Marshall County,18,099,206,1–208
+Chlamydia,2021,Indiana,Martin County,18,101,235,209–305
+Chlamydia,2021,Indiana,Miami County,18,103,283,209–305
+Chlamydia,2021,Indiana,Monroe County,18,105,589,"490–3,468"
+Chlamydia,2021,Indiana,Montgomery County,18,107,460,306–489
+Chlamydia,2021,Indiana,Morgan County,18,109,229,209–305
+Chlamydia,2021,Indiana,Newton County,18,111,130,1–208
+Chlamydia,2021,Indiana,Noble County,18,113,364,306–489
+Chlamydia,2021,Indiana,Ohio County,18,115,100,1–208
+Chlamydia,2021,Indiana,Orange County,18,117,277,209–305
+Chlamydia,2021,Indiana,Owen County,18,119,266,209–305
+Chlamydia,2021,Indiana,Parke County,18,121,506,"490–3,468"
+Chlamydia,2021,Indiana,Perry County,18,123,150,1–208
+Chlamydia,2021,Indiana,Pike County,18,125,181,1–208
+Chlamydia,2021,Indiana,Porter County,18,127,279,209–305
+Chlamydia,2021,Indiana,Posey County,18,129,207,1–208
+Chlamydia,2021,Indiana,Pulaski County,18,131,211,209–305
+Chlamydia,2021,Indiana,Putnam County,18,133,338,306–489
+Chlamydia,2021,Indiana,Randolph County,18,135,316,306–489
+Chlamydia,2021,Indiana,Ripley County,18,137,151,1–208
+Chlamydia,2021,Indiana,Rush County,18,139,252,209–305
+Chlamydia,2021,Indiana,St. Joseph County,18,141,732,"490–3,468"
+Chlamydia,2021,Indiana,Scott County,18,143,308,306–489
+Chlamydia,2021,Indiana,Shelby County,18,145,295,209–305
+Chlamydia,2021,Indiana,Spencer County,18,147,242,209–305
+Chlamydia,2021,Indiana,Starke County,18,149,184,1–208
+Chlamydia,2021,Indiana,Steuben County,18,151,234,209–305
+Chlamydia,2021,Indiana,Sullivan County,18,153,270,209–305
+Chlamydia,2021,Indiana,Switzerland County,18,155,153,1–208
+Chlamydia,2021,Indiana,Tippecanoe County,18,157,540,"490–3,468"
+Chlamydia,2021,Indiana,Tipton County,18,159,208,1–208
+Chlamydia,2021,Indiana,Union County,18,161,128,1–208
+Chlamydia,2021,Indiana,Vanderburgh County,18,163,719,"490–3,468"
+Chlamydia,2021,Indiana,Vermillion County,18,165,267,209–305
+Chlamydia,2021,Indiana,Vigo County,18,167,577,"490–3,468"
+Chlamydia,2021,Indiana,Wabash County,18,169,227,209–305
+Chlamydia,2021,Indiana,Warren County,18,171,248,209–305
+Chlamydia,2021,Indiana,Warrick County,18,173,290,209–305
+Chlamydia,2021,Indiana,Washington County,18,175,224,209–305
+Chlamydia,2021,Indiana,Wayne County,18,177,472,306–489
+Chlamydia,2021,Indiana,Wells County,18,179,192,1–208
+Chlamydia,2021,Indiana,White County,18,181,361,306–489
+Chlamydia,2021,Indiana,Whitley County,18,183,229,209–305
+Chlamydia,2021,Iowa,Adair County,19,001,265,209–305
+Chlamydia,2021,Iowa,Adams County,19,003,247,209–305
+Chlamydia,2021,Iowa,Allamakee County,19,005,244,209–305
+Chlamydia,2021,Iowa,Appanoose County,19,007,604,"490–3,468"
+Chlamydia,2021,Iowa,Audubon County,19,009,266,209–305
+Chlamydia,2021,Iowa,Benton County,19,011,304,209–305
+Chlamydia,2021,Iowa,Black Hawk County,19,013,845,"490–3,468"
+Chlamydia,2021,Iowa,Boone County,19,015,284,209–305
+Chlamydia,2021,Iowa,Bremer County,19,017,255,209–305
+Chlamydia,2021,Iowa,Buchanan County,19,019,315,306–489
+Chlamydia,2021,Iowa,Buena Vista County,19,021,462,306–489
+Chlamydia,2021,Iowa,Butler County,19,023,265,209–305
+Chlamydia,2021,Iowa,Calhoun County,19,025,222,209–305
+Chlamydia,2021,Iowa,Carroll County,19,027,275,209–305
+Chlamydia,2021,Iowa,Cass County,19,029,230,209–305
+Chlamydia,2021,Iowa,Cedar County,19,031,272,209–305
+Chlamydia,2021,Iowa,Cerro Gordo County,19,033,379,306–489
+Chlamydia,2021,Iowa,Cherokee County,19,035,348,306–489
+Chlamydia,2021,Iowa,Chickasaw County,19,037,303,209–305
+Chlamydia,2021,Iowa,Clarke County,19,039,296,209–305
+Chlamydia,2021,Iowa,Clay County,19,041,170,1–208
+Chlamydia,2021,Iowa,Clayton County,19,043,212,209–305
+Chlamydia,2021,Iowa,Clinton County,19,045,327,306–489
+Chlamydia,2021,Iowa,Crawford County,19,047,445,306–489
+Chlamydia,2021,Iowa,Dallas County,19,049,329,306–489
+Chlamydia,2021,Iowa,Davis County,19,051,263,209–305
+Chlamydia,2021,Iowa,Decatur County,19,053,235,209–305
+Chlamydia,2021,Iowa,Delaware County,19,055,240,209–305
+Chlamydia,2021,Iowa,Des Moines County,19,057,746,"490–3,468"
+Chlamydia,2021,Iowa,Dickinson County,19,059,134,1–208
+Chlamydia,2021,Iowa,Dubuque County,19,061,517,"490–3,468"
+Chlamydia,2021,Iowa,Emmet County,19,063,204,1–208
+Chlamydia,2021,Iowa,Fayette County,19,065,369,306–489
+Chlamydia,2021,Iowa,Floyd County,19,067,260,209–305
+Chlamydia,2021,Iowa,Franklin County,19,069,502,"490–3,468"
+Chlamydia,2021,Iowa,Fremont County,19,071,168,1–208
+Chlamydia,2021,Iowa,Greene County,19,073,275,209–305
+Chlamydia,2021,Iowa,Grundy County,19,075,211,209–305
+Chlamydia,2021,Iowa,Guthrie County,19,077,246,209–305
+Chlamydia,2021,Iowa,Hamilton County,19,079,390,306–489
+Chlamydia,2021,Iowa,Hancock County,19,081,281,209–305
+Chlamydia,2021,Iowa,Hardin County,19,083,413,306–489
+Chlamydia,2021,Iowa,Harrison County,19,085,259,209–305
+Chlamydia,2021,Iowa,Henry County,19,087,397,306–489
+Chlamydia,2021,Iowa,Howard County,19,089,200,1–208
+Chlamydia,2021,Iowa,Humboldt County,19,091,249,209–305
+Chlamydia,2021,Iowa,Ida County,19,093,173,1–208
+Chlamydia,2021,Iowa,Iowa County,19,095,266,209–305
+Chlamydia,2021,Iowa,Jackson County,19,097,217,209–305
+Chlamydia,2021,Iowa,Jasper County,19,099,257,209–305
+Chlamydia,2021,Iowa,Jefferson County,19,101,288,209–305
+Chlamydia,2021,Iowa,Johnson County,19,103,666,"490–3,468"
+Chlamydia,2021,Iowa,Jones County,19,105,317,306–489
+Chlamydia,2021,Iowa,Keokuk County,19,107,363,306–489
+Chlamydia,2021,Iowa,Kossuth County,19,109,200,1–208
+Chlamydia,2021,Iowa,Lee County,19,111,346,306–489
+Chlamydia,2021,Iowa,Linn County,19,113,546,"490–3,468"
+Chlamydia,2021,Iowa,Louisa County,19,115,288,209–305
+Chlamydia,2021,Iowa,Lucas County,19,117,253,209–305
+Chlamydia,2021,Iowa,Lyon County,19,119,175,1–208
+Chlamydia,2021,Iowa,Madison County,19,121,227,209–305
+Chlamydia,2021,Iowa,Mahaska County,19,123,359,306–489
+Chlamydia,2021,Iowa,Marion County,19,125,306,306–489
+Chlamydia,2021,Iowa,Marshall County,19,127,550,"490–3,468"
+Chlamydia,2021,Iowa,Mills County,19,129,242,209–305
+Chlamydia,2021,Iowa,Mitchell County,19,131,171,1–208
+Chlamydia,2021,Iowa,Monona County,19,133,198,1–208
+Chlamydia,2021,Iowa,Monroe County,19,135,329,306–489
+Chlamydia,2021,Iowa,Montgomery County,19,137,339,306–489
+Chlamydia,2021,Iowa,Muscatine County,19,139,487,306–489
+Chlamydia,2021,Iowa,O'Brien County,19,141,314,306–489
+Chlamydia,2021,Iowa,Osceola County,19,143,195,1–208
+Chlamydia,2021,Iowa,Page County,19,145,165,1–208
+Chlamydia,2021,Iowa,Palo Alto County,19,147,168,1–208
+Chlamydia,2021,Iowa,Plymouth County,19,149,288,209–305
+Chlamydia,2021,Iowa,Pocahontas County,19,151,325,306–489
+Chlamydia,2021,Iowa,Polk County,19,153,669,"490–3,468"
+Chlamydia,2021,Iowa,Pottawattamie County,19,155,522,"490–3,468"
+Chlamydia,2021,Iowa,Poweshiek County,19,157,242,209–305
+Chlamydia,2021,Iowa,Ringgold County,19,159,366,306–489
+Chlamydia,2021,Iowa,Sac County,19,161,256,209–305
+Chlamydia,2021,Iowa,Scott County,19,163,614,"490–3,468"
+Chlamydia,2021,Iowa,Shelby County,19,165,187,1–208
+Chlamydia,2021,Iowa,Sioux County,19,167,237,209–305
+Chlamydia,2021,Iowa,Story County,19,169,686,"490–3,468"
+Chlamydia,2021,Iowa,Tama County,19,171,445,306–489
+Chlamydia,2021,Iowa,Taylor County,19,173,324,306–489
+Chlamydia,2021,Iowa,Union County,19,175,349,306–489
+Chlamydia,2021,Iowa,Van Buren County,19,177,166,1–208
+Chlamydia,2021,Iowa,Wapello County,19,179,692,"490–3,468"
+Chlamydia,2021,Iowa,Warren County,19,181,287,209–305
+Chlamydia,2021,Iowa,Washington County,19,183,262,209–305
+Chlamydia,2021,Iowa,Wayne County,19,185,307,306–489
+Chlamydia,2021,Iowa,Webster County,19,187,678,"490–3,468"
+Chlamydia,2021,Iowa,Winnebago County,19,189,328,306–489
+Chlamydia,2021,Iowa,Winneshiek County,19,191,211,209–305
+Chlamydia,2021,Iowa,Woodbury County,19,193,778,"490–3,468"
+Chlamydia,2021,Iowa,Worth County,19,195,244,209–305
+Chlamydia,2021,Iowa,Wright County,19,197,344,306–489
+Chlamydia,2021,Kansas,Allen County,20,001,249,209–305
+Chlamydia,2021,Kansas,Anderson County,20,003,206,1–208
+Chlamydia,2021,Kansas,Atchison County,20,005,326,306–489
+Chlamydia,2021,Kansas,Barber County,20,007,243,209–305
+Chlamydia,2021,Kansas,Barton County,20,009,393,306–489
+Chlamydia,2021,Kansas,Bourbon County,20,011,607,"490–3,468"
+Chlamydia,2021,Kansas,Brown County,20,013,338,306–489
+Chlamydia,2021,Kansas,Butler County,20,015,493,"490–3,468"
+Chlamydia,2021,Kansas,Chase County,20,017,192,1–208
+Chlamydia,2021,Kansas,Chautauqua County,20,019,295,209–305
+Chlamydia,2021,Kansas,Cherokee County,20,021,251,209–305
+Chlamydia,2021,Kansas,Cheyenne County,20,023,190,1–208
+Chlamydia,2021,Kansas,Clark County,20,025,152,1–208
+Chlamydia,2021,Kansas,Clay County,20,027,235,209–305
+Chlamydia,2021,Kansas,Cloud County,20,029,202,1–208
+Chlamydia,2021,Kansas,Coffey County,20,031,264,209–305
+Chlamydia,2021,Kansas,Comanche County,20,033,180,1–208
+Chlamydia,2021,Kansas,Cowley County,20,035,415,306–489
+Chlamydia,2021,Kansas,Crawford County,20,037,588,"490–3,468"
+Chlamydia,2021,Kansas,Decatur County,20,039,109,1–208
+Chlamydia,2021,Kansas,Dickinson County,20,041,217,209–305
+Chlamydia,2021,Kansas,Doniphan County,20,043,281,209–305
+Chlamydia,2021,Kansas,Douglas County,20,045,598,"490–3,468"
+Chlamydia,2021,Kansas,Edwards County,20,047,318,306–489
+Chlamydia,2021,Kansas,Elk County,20,049,246,209–305
+Chlamydia,2021,Kansas,Ellis County,20,051,493,"490–3,468"
+Chlamydia,2021,Kansas,Ellsworth County,20,053,268,209–305
+Chlamydia,2021,Kansas,Finney County,20,055,695,"490–3,468"
+Chlamydia,2021,Kansas,Ford County,20,057,501,"490–3,468"
+Chlamydia,2021,Kansas,Franklin County,20,059,354,306–489
+Chlamydia,2021,Kansas,Geary County,20,061,"1,380","490–3,468"
+Chlamydia,2021,Kansas,Gove County,20,063,0,0
+Chlamydia,2021,Kansas,Graham County,20,065,250,209–305
+Chlamydia,2021,Kansas,Grant County,20,067,300,209–305
+Chlamydia,2021,Kansas,Gray County,20,069,266,209–305
+Chlamydia,2021,Kansas,Greeley County,20,071,383,306–489
+Chlamydia,2021,Kansas,Greenwood County,20,073,236,209–305
+Chlamydia,2021,Kansas,Hamilton County,20,075,201,1–208
+Chlamydia,2021,Kansas,Harper County,20,077,319,306–489
+Chlamydia,2021,Kansas,Harvey County,20,079,367,306–489
+Chlamydia,2021,Kansas,Haskell County,20,081,136,1–208
+Chlamydia,2021,Kansas,Hodgeman County,20,083,234,209–305
+Chlamydia,2021,Kansas,Jackson County,20,085,362,306–489
+Chlamydia,2021,Kansas,Jefferson County,20,087,223,209–305
+Chlamydia,2021,Kansas,Jewell County,20,089,0,0
+Chlamydia,2021,Kansas,Johnson County,20,091,369,306–489
+Chlamydia,2021,Kansas,Kearny County,20,093,488,306–489
+Chlamydia,2021,Kansas,Kingman County,20,095,230,209–305
+Chlamydia,2021,Kansas,Kiowa County,20,097,502,"490–3,468"
+Chlamydia,2021,Kansas,Labette County,20,099,442,306–489
+Chlamydia,2021,Kansas,Lane County,20,101,64,1–208
+Chlamydia,2021,Kansas,Leavenworth County,20,103,416,306–489
+Chlamydia,2021,Kansas,Lincoln County,20,105,172,1–208
+Chlamydia,2021,Kansas,Linn County,20,107,277,209–305
+Chlamydia,2021,Kansas,Logan County,20,109,110,1–208
+Chlamydia,2021,Kansas,Lyon County,20,111,538,"490–3,468"
+Chlamydia,2021,Kansas,McPherson County,20,113,378,306–489
+Chlamydia,2021,Kansas,Marion County,20,115,231,209–305
+Chlamydia,2021,Kansas,Marshall County,20,117,170,1–208
+Chlamydia,2021,Kansas,Meade County,20,119,199,1–208
+Chlamydia,2021,Kansas,Miami County,20,121,309,306–489
+Chlamydia,2021,Kansas,Mitchell County,20,123,209,209–305
+Chlamydia,2021,Kansas,Montgomery County,20,125,462,306–489
+Chlamydia,2021,Kansas,Morris County,20,127,224,209–305
+Chlamydia,2021,Kansas,Morton County,20,129,260,209–305
+Chlamydia,2021,Kansas,Nemaha County,20,131,147,1–208
+Chlamydia,2021,Kansas,Neosho County,20,133,355,306–489
+Chlamydia,2021,Kansas,Ness County,20,135,150,1–208
+Chlamydia,2021,Kansas,Norton County,20,137,225,209–305
+Chlamydia,2021,Kansas,Osage County,20,139,209,209–305
+Chlamydia,2021,Kansas,Osborne County,20,141,57,1–208
+Chlamydia,2021,Kansas,Ottawa County,20,143,154,1–208
+Chlamydia,2021,Kansas,Pawnee County,20,145,193,1–208
+Chlamydia,2021,Kansas,Phillips County,20,147,104,1–208
+Chlamydia,2021,Kansas,Pottawatomie County,20,149,167,1–208
+Chlamydia,2021,Kansas,Pratt County,20,151,305,209–305
+Chlamydia,2021,Kansas,Rawlins County,20,153,78,1–208
+Chlamydia,2021,Kansas,Reno County,20,155,469,306–489
+Chlamydia,2021,Kansas,Republic County,20,157,86,1–208
+Chlamydia,2021,Kansas,Rice County,20,159,394,306–489
+Chlamydia,2021,Kansas,Riley County,20,161,673,"490–3,468"
+Chlamydia,2021,Kansas,Rooks County,20,163,166,1–208
+Chlamydia,2021,Kansas,Rush County,20,165,102,1–208
+Chlamydia,2021,Kansas,Russell County,20,167,194,1–208
+Chlamydia,2021,Kansas,Saline County,20,169,421,306–489
+Chlamydia,2021,Kansas,Scott County,20,171,273,209–305
+Chlamydia,2021,Kansas,Sedgwick County,20,173,640,"490–3,468"
+Chlamydia,2021,Kansas,Seward County,20,175,506,"490–3,468"
+Chlamydia,2021,Kansas,Shawnee County,20,177,816,"490–3,468"
+Chlamydia,2021,Kansas,Sheridan County,20,179,242,209–305
+Chlamydia,2021,Kansas,Sherman County,20,181,305,209–305
+Chlamydia,2021,Kansas,Smith County,20,183,84,1–208
+Chlamydia,2021,Kansas,Stafford County,20,185,149,1–208
+Chlamydia,2021,Kansas,Stanton County,20,187,196,1–208
+Chlamydia,2021,Kansas,Stevens County,20,189,265,209–305
+Chlamydia,2021,Kansas,Sumner County,20,191,451,306–489
+Chlamydia,2021,Kansas,Thomas County,20,193,381,306–489
+Chlamydia,2021,Kansas,Trego County,20,195,179,1–208
+Chlamydia,2021,Kansas,Wabaunsee County,20,197,172,1–208
+Chlamydia,2021,Kansas,Wallace County,20,199,66,1–208
+Chlamydia,2021,Kansas,Washington County,20,201,145,1–208
+Chlamydia,2021,Kansas,Wichita County,20,203,96,1–208
+Chlamydia,2021,Kansas,Wilson County,20,205,305,209–305
+Chlamydia,2021,Kansas,Woodson County,20,207,226,209–305
+Chlamydia,2021,Kansas,Wyandotte County,20,209,922,"490–3,468"
+Chlamydia,2021,Kentucky,Adair County,21,001,232,209–305
+Chlamydia,2021,Kentucky,Allen County,21,003,139,1–208
+Chlamydia,2021,Kentucky,Anderson County,21,005,225,209–305
+Chlamydia,2021,Kentucky,Ballard County,21,007,299,209–305
+Chlamydia,2021,Kentucky,Barren County,21,009,294,209–305
+Chlamydia,2021,Kentucky,Bath County,21,011,313,306–489
+Chlamydia,2021,Kentucky,Bell County,21,013,272,209–305
+Chlamydia,2021,Kentucky,Boone County,21,015,187,1–208
+Chlamydia,2021,Kentucky,Bourbon County,21,017,356,306–489
+Chlamydia,2021,Kentucky,Boyd County,21,019,284,209–305
+Chlamydia,2021,Kentucky,Boyle County,21,021,276,209–305
+Chlamydia,2021,Kentucky,Bracken County,21,023,249,209–305
+Chlamydia,2021,Kentucky,Breathitt County,21,025,125,1–208
+Chlamydia,2021,Kentucky,Breckinridge County,21,027,218,209–305
+Chlamydia,2021,Kentucky,Bullitt County,21,029,240,209–305
+Chlamydia,2021,Kentucky,Butler County,21,031,277,209–305
+Chlamydia,2021,Kentucky,Caldwell County,21,033,317,306–489
+Chlamydia,2021,Kentucky,Calloway County,21,035,309,306–489
+Chlamydia,2021,Kentucky,Campbell County,21,037,247,209–305
+Chlamydia,2021,Kentucky,Carlisle County,21,039,188,1–208
+Chlamydia,2021,Kentucky,Carroll County,21,041,368,306–489
+Chlamydia,2021,Kentucky,Carter County,21,043,193,1–208
+Chlamydia,2021,Kentucky,Casey County,21,045,277,209–305
+Chlamydia,2021,Kentucky,Christian County,21,047,710,"490–3,468"
+Chlamydia,2021,Kentucky,Clark County,21,049,434,306–489
+Chlamydia,2021,Kentucky,Clay County,21,051,262,209–305
+Chlamydia,2021,Kentucky,Clinton County,21,053,183,1–208
+Chlamydia,2021,Kentucky,Crittenden County,21,055,168,1–208
+Chlamydia,2021,Kentucky,Cumberland County,21,057,187,1–208
+Chlamydia,2021,Kentucky,Daviess County,21,059,487,306–489
+Chlamydia,2021,Kentucky,Edmonson County,21,061,130,1–208
+Chlamydia,2021,Kentucky,Elliott County,21,063,163,1–208
+Chlamydia,2021,Kentucky,Estill County,21,065,291,209–305
+Chlamydia,2021,Kentucky,Fayette County,21,067,684,"490–3,468"
+Chlamydia,2021,Kentucky,Fleming County,21,069,250,209–305
+Chlamydia,2021,Kentucky,Floyd County,21,071,167,1–208
+Chlamydia,2021,Kentucky,Franklin County,21,073,640,"490–3,468"
+Chlamydia,2021,Kentucky,Fulton County,21,075,537,"490–3,468"
+Chlamydia,2021,Kentucky,Gallatin County,21,077,217,209–305
+Chlamydia,2021,Kentucky,Garrard County,21,079,259,209–305
+Chlamydia,2021,Kentucky,Grant County,21,081,95,1–208
+Chlamydia,2021,Kentucky,Graves County,21,083,336,306–489
+Chlamydia,2021,Kentucky,Grayson County,21,085,200,1–208
+Chlamydia,2021,Kentucky,Green County,21,087,177,1–208
+Chlamydia,2021,Kentucky,Greenup County,21,089,222,209–305
+Chlamydia,2021,Kentucky,Hancock County,21,091,386,306–489
+Chlamydia,2021,Kentucky,Hardin County,21,093,459,306–489
+Chlamydia,2021,Kentucky,Harlan County,21,095,248,209–305
+Chlamydia,2021,Kentucky,Harrison County,21,097,201,1–208
+Chlamydia,2021,Kentucky,Hart County,21,099,200,1–208
+Chlamydia,2021,Kentucky,Henderson County,21,101,517,"490–3,468"
+Chlamydia,2021,Kentucky,Henry County,21,103,319,306–489
+Chlamydia,2021,Kentucky,Hickman County,21,105,158,1–208
+Chlamydia,2021,Kentucky,Hopkins County,21,107,359,306–489
+Chlamydia,2021,Kentucky,Jackson County,21,109,223,209–305
+Chlamydia,2021,Kentucky,Jefferson County,21,111,749,"490–3,468"
+Chlamydia,2021,Kentucky,Jessamine County,21,113,311,306–489
+Chlamydia,2021,Kentucky,Johnson County,21,115,200,1–208
+Chlamydia,2021,Kentucky,Kenton County,21,117,309,306–489
+Chlamydia,2021,Kentucky,Knott County,21,119,121,1–208
+Chlamydia,2021,Kentucky,Knox County,21,121,344,306–489
+Chlamydia,2021,Kentucky,Larue County,21,123,180,1–208
+Chlamydia,2021,Kentucky,Laurel County,21,125,283,209–305
+Chlamydia,2021,Kentucky,Lawrence County,21,127,227,209–305
+Chlamydia,2021,Kentucky,Lee County,21,129,148,1–208
+Chlamydia,2021,Kentucky,Leslie County,21,131,136,1–208
+Chlamydia,2021,Kentucky,Letcher County,21,133,122,1–208
+Chlamydia,2021,Kentucky,Lewis County,21,135,285,209–305
+Chlamydia,2021,Kentucky,Lincoln County,21,137,326,306–489
+Chlamydia,2021,Kentucky,Livingston County,21,139,257,209–305
+Chlamydia,2021,Kentucky,Logan County,21,141,274,209–305
+Chlamydia,2021,Kentucky,Lyon County,21,143,34,1–208
+Chlamydia,2021,Kentucky,McCracken County,21,145,501,"490–3,468"
+Chlamydia,2021,Kentucky,McCreary County,21,147,249,209–305
+Chlamydia,2021,Kentucky,McLean County,21,149,275,209–305
+Chlamydia,2021,Kentucky,Madison County,21,151,447,306–489
+Chlamydia,2021,Kentucky,Magoffin County,21,153,235,209–305
+Chlamydia,2021,Kentucky,Marion County,21,155,269,209–305
+Chlamydia,2021,Kentucky,Marshall County,21,157,208,1–208
+Chlamydia,2021,Kentucky,Martin County,21,159,206,1–208
+Chlamydia,2021,Kentucky,Mason County,21,161,325,306–489
+Chlamydia,2021,Kentucky,Meade County,21,163,209,209–305
+Chlamydia,2021,Kentucky,Menifee County,21,165,129,1–208
+Chlamydia,2021,Kentucky,Mercer County,21,167,276,209–305
+Chlamydia,2021,Kentucky,Metcalfe County,21,169,174,1–208
+Chlamydia,2021,Kentucky,Monroe County,21,171,178,1–208
+Chlamydia,2021,Kentucky,Montgomery County,21,173,322,306–489
+Chlamydia,2021,Kentucky,Morgan County,21,175,116,1–208
+Chlamydia,2021,Kentucky,Muhlenberg County,21,177,303,209–305
+Chlamydia,2021,Kentucky,Nelson County,21,179,301,209–305
+Chlamydia,2021,Kentucky,Nicholas County,21,181,324,306–489
+Chlamydia,2021,Kentucky,Ohio County,21,183,232,209–305
+Chlamydia,2021,Kentucky,Oldham County,21,185,182,1–208
+Chlamydia,2021,Kentucky,Owen County,21,187,106,1–208
+Chlamydia,2021,Kentucky,Owsley County,21,189,152,1–208
+Chlamydia,2021,Kentucky,Pendleton County,21,191,82,1–208
+Chlamydia,2021,Kentucky,Perry County,21,193,147,1–208
+Chlamydia,2021,Kentucky,Pike County,21,195,143,1–208
+Chlamydia,2021,Kentucky,Powell County,21,197,335,306–489
+Chlamydia,2021,Kentucky,Pulaski County,21,199,330,306–489
+Chlamydia,2021,Kentucky,Robertson County,21,201,354,306–489
+Chlamydia,2021,Kentucky,Rockcastle County,21,203,174,1–208
+Chlamydia,2021,Kentucky,Rowan County,21,205,346,306–489
+Chlamydia,2021,Kentucky,Russell County,21,207,325,306–489
+Chlamydia,2021,Kentucky,Scott County,21,209,295,209–305
+Chlamydia,2021,Kentucky,Shelby County,21,211,299,209–305
+Chlamydia,2021,Kentucky,Simpson County,21,213,188,1–208
+Chlamydia,2021,Kentucky,Spencer County,21,215,211,209–305
+Chlamydia,2021,Kentucky,Taylor County,21,217,259,209–305
+Chlamydia,2021,Kentucky,Todd County,21,219,391,306–489
+Chlamydia,2021,Kentucky,Trigg County,21,221,317,306–489
+Chlamydia,2021,Kentucky,Trimble County,21,223,211,209–305
+Chlamydia,2021,Kentucky,Union County,21,225,377,306–489
+Chlamydia,2021,Kentucky,Warren County,21,227,466,306–489
+Chlamydia,2021,Kentucky,Washington County,21,229,240,209–305
+Chlamydia,2021,Kentucky,Wayne County,21,231,205,1–208
+Chlamydia,2021,Kentucky,Webster County,21,233,195,1–208
+Chlamydia,2021,Kentucky,Whitley County,21,235,466,306–489
+Chlamydia,2021,Kentucky,Wolfe County,21,237,338,306–489
+Chlamydia,2021,Kentucky,Woodford County,21,239,277,209–305
+Chlamydia,2021,Louisiana,Acadia Parish,22,001,660,"490–3,468"
+Chlamydia,2021,Louisiana,Allen Parish,22,003,423,306–489
+Chlamydia,2021,Louisiana,Ascension Parish,22,005,639,"490–3,468"
+Chlamydia,2021,Louisiana,Assumption Parish,22,007,730,"490–3,468"
+Chlamydia,2021,Louisiana,Avoyelles Parish,22,009,614,"490–3,468"
+Chlamydia,2021,Louisiana,Beauregard Parish,22,011,323,306–489
+Chlamydia,2021,Louisiana,Bienville Parish,22,013,736,"490–3,468"
+Chlamydia,2021,Louisiana,Bossier Parish,22,015,503,"490–3,468"
+Chlamydia,2021,Louisiana,Caddo Parish,22,017,754,"490–3,468"
+Chlamydia,2021,Louisiana,Calcasieu Parish,22,019,532,"490–3,468"
+Chlamydia,2021,Louisiana,Caldwell Parish,22,021,387,306–489
+Chlamydia,2021,Louisiana,Cameron Parish,22,023,256,209–305
+Chlamydia,2021,Louisiana,Catahoula Parish,22,025,534,"490–3,468"
+Chlamydia,2021,Louisiana,Claiborne Parish,22,027,584,"490–3,468"
+Chlamydia,2021,Louisiana,Concordia Parish,22,029,686,"490–3,468"
+Chlamydia,2021,Louisiana,De Soto Parish,22,031,684,"490–3,468"
+Chlamydia,2021,Louisiana,East Baton Rouge Parish,22,033,"1,027","490–3,468"
+Chlamydia,2021,Louisiana,East Carroll Parish,22,035,803,"490–3,468"
+Chlamydia,2021,Louisiana,East Feliciana Parish,22,037,574,"490–3,468"
+Chlamydia,2021,Louisiana,Evangeline Parish,22,039,590,"490–3,468"
+Chlamydia,2021,Louisiana,Franklin Parish,22,041,849,"490–3,468"
+Chlamydia,2021,Louisiana,Grant Parish,22,043,477,306–489
+Chlamydia,2021,Louisiana,Iberia Parish,22,045,761,"490–3,468"
+Chlamydia,2021,Louisiana,Iberville Parish,22,047,"1,113","490–3,468"
+Chlamydia,2021,Louisiana,Jackson Parish,22,049,437,306–489
+Chlamydia,2021,Louisiana,Jefferson Parish,22,051,667,"490–3,468"
+Chlamydia,2021,Louisiana,Jefferson Davis Parish,22,053,473,306–489
+Chlamydia,2021,Louisiana,Lafayette Parish,22,055,671,"490–3,468"
+Chlamydia,2021,Louisiana,Lafourche Parish,22,057,522,"490–3,468"
+Chlamydia,2021,Louisiana,LaSalle Parish,22,059,357,306–489
+Chlamydia,2021,Louisiana,Lincoln Parish,22,061,814,"490–3,468"
+Chlamydia,2021,Louisiana,Livingston Parish,22,063,446,306–489
+Chlamydia,2021,Louisiana,Madison Parish,22,065,"1,143","490–3,468"
+Chlamydia,2021,Louisiana,Morehouse Parish,22,067,819,"490–3,468"
+Chlamydia,2021,Louisiana,Natchitoches Parish,22,069,"1,159","490–3,468"
+Chlamydia,2021,Louisiana,Orleans Parish,22,071,"1,147","490–3,468"
+Chlamydia,2021,Louisiana,Ouachita Parish,22,073,722,"490–3,468"
+Chlamydia,2021,Louisiana,Plaquemines Parish,22,075,391,306–489
+Chlamydia,2021,Louisiana,Pointe Coupee Parish,22,077,766,"490–3,468"
+Chlamydia,2021,Louisiana,Rapides Parish,22,079,883,"490–3,468"
+Chlamydia,2021,Louisiana,Red River Parish,22,081,833,"490–3,468"
+Chlamydia,2021,Louisiana,Richland Parish,22,083,848,"490–3,468"
+Chlamydia,2021,Louisiana,Sabine Parish,22,085,533,"490–3,468"
+Chlamydia,2021,Louisiana,St. Bernard Parish,22,087,626,"490–3,468"
+Chlamydia,2021,Louisiana,St. Charles Parish,22,089,480,306–489
+Chlamydia,2021,Louisiana,St. Helena Parish,22,091,"1,201","490–3,468"
+Chlamydia,2021,Louisiana,St. James Parish,22,093,836,"490–3,468"
+Chlamydia,2021,Louisiana,St. John the Baptist Parish,22,095,855,"490–3,468"
+Chlamydia,2021,Louisiana,St. Landry Parish,22,097,780,"490–3,468"
+Chlamydia,2021,Louisiana,St. Martin Parish,22,099,712,"490–3,468"
+Chlamydia,2021,Louisiana,St. Mary Parish,22,101,626,"490–3,468"
+Chlamydia,2021,Louisiana,St. Tammany Parish,22,103,411,306–489
+Chlamydia,2021,Louisiana,Tangipahoa Parish,22,105,944,"490–3,468"
+Chlamydia,2021,Louisiana,Tensas Parish,22,107,693,"490–3,468"
+Chlamydia,2021,Louisiana,Terrebonne Parish,22,109,676,"490–3,468"
+Chlamydia,2021,Louisiana,Union Parish,22,111,631,"490–3,468"
+Chlamydia,2021,Louisiana,Vermilion Parish,22,113,519,"490–3,468"
+Chlamydia,2021,Louisiana,Vernon Parish,22,115,648,"490–3,468"
+Chlamydia,2021,Louisiana,Washington Parish,22,117,643,"490–3,468"
+Chlamydia,2021,Louisiana,Webster Parish,22,119,655,"490–3,468"
+Chlamydia,2021,Louisiana,West Baton Rouge Parish,22,121,835,"490–3,468"
+Chlamydia,2021,Louisiana,West Carroll Parish,22,123,427,306–489
+Chlamydia,2021,Louisiana,West Feliciana Parish,22,125,574,"490–3,468"
+Chlamydia,2021,Louisiana,Winn Parish,22,127,734,"490–3,468"
+Chlamydia,2021,Maine,Androscoggin County,23,001,316,306–489
+Chlamydia,2021,Maine,Aroostook County,23,003,223,209–305
+Chlamydia,2021,Maine,Cumberland County,23,005,288,209–305
+Chlamydia,2021,Maine,Franklin County,23,007,209,209–305
+Chlamydia,2021,Maine,Hancock County,23,009,119,1–208
+Chlamydia,2021,Maine,Kennebec County,23,011,267,209–305
+Chlamydia,2021,Maine,Knox County,23,013,166,1–208
+Chlamydia,2021,Maine,Lincoln County,23,015,154,1–208
+Chlamydia,2021,Maine,Oxford County,23,017,189,1–208
+Chlamydia,2021,Maine,Penobscot County,23,019,326,306–489
+Chlamydia,2021,Maine,Piscataquis County,23,021,169,1–208
+Chlamydia,2021,Maine,Sagadahoc County,23,023,224,209–305
+Chlamydia,2021,Maine,Somerset County,23,025,235,209–305
+Chlamydia,2021,Maine,Waldo County,23,027,190,1–208
+Chlamydia,2021,Maine,Washington County,23,029,157,1–208
+Chlamydia,2021,Maine,York County,23,031,206,1–208
+Chlamydia,2021,Maryland,Allegany County,24,001,NA,Unavailable
+Chlamydia,2021,Maryland,Anne Arundel County,24,003,NA,Unavailable
+Chlamydia,2021,Maryland,Baltimore County,24,005,NA,Unavailable
+Chlamydia,2021,Maryland,Calvert County,24,009,NA,Unavailable
+Chlamydia,2021,Maryland,Caroline County,24,011,NA,Unavailable
+Chlamydia,2021,Maryland,Carroll County,24,013,NA,Unavailable
+Chlamydia,2021,Maryland,Cecil County,24,015,NA,Unavailable
+Chlamydia,2021,Maryland,Charles County,24,017,NA,Unavailable
+Chlamydia,2021,Maryland,Dorchester County,24,019,NA,Unavailable
+Chlamydia,2021,Maryland,Frederick County,24,021,NA,Unavailable
+Chlamydia,2021,Maryland,Garrett County,24,023,NA,Unavailable
+Chlamydia,2021,Maryland,Harford County,24,025,NA,Unavailable
+Chlamydia,2021,Maryland,Howard County,24,027,NA,Unavailable
+Chlamydia,2021,Maryland,Kent County,24,029,NA,Unavailable
+Chlamydia,2021,Maryland,Montgomery County,24,031,NA,Unavailable
+Chlamydia,2021,Maryland,Prince George's County,24,033,NA,Unavailable
+Chlamydia,2021,Maryland,Queen Anne's County,24,035,NA,Unavailable
+Chlamydia,2021,Maryland,St. Mary's County,24,037,NA,Unavailable
+Chlamydia,2021,Maryland,Somerset County,24,039,NA,Unavailable
+Chlamydia,2021,Maryland,Talbot County,24,041,NA,Unavailable
+Chlamydia,2021,Maryland,Washington County,24,043,NA,Unavailable
+Chlamydia,2021,Maryland,Wicomico County,24,045,NA,Unavailable
+Chlamydia,2021,Maryland,Worcester County,24,047,NA,Unavailable
+Chlamydia,2021,Maryland,Baltimore city,24,510,NA,Unavailable
+Chlamydia,2021,Massachusetts,Barnstable County,25,001,218,209–305
+Chlamydia,2021,Massachusetts,Berkshire County,25,003,150,1–208
+Chlamydia,2021,Massachusetts,Bristol County,25,005,345,306–489
+Chlamydia,2021,Massachusetts,Dukes County,25,007,228,209–305
+Chlamydia,2021,Massachusetts,Essex County,25,009,424,306–489
+Chlamydia,2021,Massachusetts,Franklin County,25,011,144,1–208
+Chlamydia,2021,Massachusetts,Hampden County,25,013,531,"490–3,468"
+Chlamydia,2021,Massachusetts,Hampshire County,25,015,227,209–305
+Chlamydia,2021,Massachusetts,Middlesex County,25,017,293,209–305
+Chlamydia,2021,Massachusetts,Nantucket County,25,019,449,306–489
+Chlamydia,2021,Massachusetts,Norfolk County,25,021,264,209–305
+Chlamydia,2021,Massachusetts,Plymouth County,25,023,358,306–489
+Chlamydia,2021,Massachusetts,Suffolk County,25,025,808,"490–3,468"
+Chlamydia,2021,Massachusetts,Worcester County,25,027,311,306–489
+Chlamydia,2021,Michigan,Alcona County,26,001,195,1–208
+Chlamydia,2021,Michigan,Alger County,26,003,147,1–208
+Chlamydia,2021,Michigan,Allegan County,26,005,263,209–305
+Chlamydia,2021,Michigan,Alpena County,26,007,235,209–305
+Chlamydia,2021,Michigan,Antrim County,26,009,218,209–305
+Chlamydia,2021,Michigan,Arenac County,26,011,240,209–305
+Chlamydia,2021,Michigan,Baraga County,26,013,268,209–305
+Chlamydia,2021,Michigan,Barry County,26,015,251,209–305
+Chlamydia,2021,Michigan,Bay County,26,017,384,306–489
+Chlamydia,2021,Michigan,Benzie County,26,019,126,1–208
+Chlamydia,2021,Michigan,Berrien County,26,021,595,"490–3,468"
+Chlamydia,2021,Michigan,Branch County,26,023,282,209–305
+Chlamydia,2021,Michigan,Calhoun County,26,025,666,"490–3,468"
+Chlamydia,2021,Michigan,Cass County,26,027,322,306–489
+Chlamydia,2021,Michigan,Charlevoix County,26,029,153,1–208
+Chlamydia,2021,Michigan,Cheboygan County,26,031,167,1–208
+Chlamydia,2021,Michigan,Chippewa County,26,033,212,209–305
+Chlamydia,2021,Michigan,Clare County,26,035,196,1–208
+Chlamydia,2021,Michigan,Clinton County,26,037,281,209–305
+Chlamydia,2021,Michigan,Crawford County,26,039,144,1–208
+Chlamydia,2021,Michigan,Delta County,26,041,130,1–208
+Chlamydia,2021,Michigan,Dickinson County,26,043,237,209–305
+Chlamydia,2021,Michigan,Eaton County,26,045,322,306–489
+Chlamydia,2021,Michigan,Emmet County,26,047,169,1–208
+Chlamydia,2021,Michigan,Genesee County,26,049,667,"490–3,468"
+Chlamydia,2021,Michigan,Gladwin County,26,051,200,1–208
+Chlamydia,2021,Michigan,Gogebic County,26,053,237,209–305
+Chlamydia,2021,Michigan,Grand Traverse County,26,055,242,209–305
+Chlamydia,2021,Michigan,Gratiot County,26,057,214,209–305
+Chlamydia,2021,Michigan,Hillsdale County,26,059,235,209–305
+Chlamydia,2021,Michigan,Houghton County,26,061,161,1–208
+Chlamydia,2021,Michigan,Huron County,26,063,182,1–208
+Chlamydia,2021,Michigan,Ingham County,26,065,630,"490–3,468"
+Chlamydia,2021,Michigan,Ionia County,26,067,302,209–305
+Chlamydia,2021,Michigan,Iosco County,26,069,146,1–208
+Chlamydia,2021,Michigan,Iron County,26,071,223,209–305
+Chlamydia,2021,Michigan,Isabella County,26,073,424,306–489
+Chlamydia,2021,Michigan,Jackson County,26,075,515,"490–3,468"
+Chlamydia,2021,Michigan,Kalamazoo County,26,077,728,"490–3,468"
+Chlamydia,2021,Michigan,Kalkaska County,26,079,306,306–489
+Chlamydia,2021,Michigan,Kent County,26,081,587,"490–3,468"
+Chlamydia,2021,Michigan,Keweenaw County,26,083,95,1–208
+Chlamydia,2021,Michigan,Lake County,26,085,138,1–208
+Chlamydia,2021,Michigan,Lapeer County,26,087,191,1–208
+Chlamydia,2021,Michigan,Leelanau County,26,089,199,1–208
+Chlamydia,2021,Michigan,Lenawee County,26,091,243,209–305
+Chlamydia,2021,Michigan,Livingston County,26,093,165,1–208
+Chlamydia,2021,Michigan,Luce County,26,095,94,1–208
+Chlamydia,2021,Michigan,Mackinac County,26,097,248,209–305
+Chlamydia,2021,Michigan,Macomb County,26,099,378,306–489
+Chlamydia,2021,Michigan,Manistee County,26,101,189,1–208
+Chlamydia,2021,Michigan,Marquette County,26,103,290,209–305
+Chlamydia,2021,Michigan,Mason County,26,105,133,1–208
+Chlamydia,2021,Michigan,Mecosta County,26,107,360,306–489
+Chlamydia,2021,Michigan,Menominee County,26,109,150,1–208
+Chlamydia,2021,Michigan,Midland County,26,111,188,1–208
+Chlamydia,2021,Michigan,Missaukee County,26,113,165,1–208
+Chlamydia,2021,Michigan,Monroe County,26,115,220,209–305
+Chlamydia,2021,Michigan,Montcalm County,26,117,317,306–489
+Chlamydia,2021,Michigan,Montmorency County,26,119,97,1–208
+Chlamydia,2021,Michigan,Muskegon County,26,121,774,"490–3,468"
+Chlamydia,2021,Michigan,Newaygo County,26,123,235,209–305
+Chlamydia,2021,Michigan,Oakland County,26,125,254,209–305
+Chlamydia,2021,Michigan,Oceana County,26,127,283,209–305
+Chlamydia,2021,Michigan,Ogemaw County,26,129,154,1–208
+Chlamydia,2021,Michigan,Ontonagon County,26,131,136,1–208
+Chlamydia,2021,Michigan,Osceola County,26,133,255,209–305
+Chlamydia,2021,Michigan,Oscoda County,26,135,72,1–208
+Chlamydia,2021,Michigan,Otsego County,26,137,237,209–305
+Chlamydia,2021,Michigan,Ottawa County,26,139,336,306–489
+Chlamydia,2021,Michigan,Presque Isle County,26,141,84,1–208
+Chlamydia,2021,Michigan,Roscommon County,26,143,123,1–208
+Chlamydia,2021,Michigan,Saginaw County,26,145,658,"490–3,468"
+Chlamydia,2021,Michigan,St. Clair County,26,147,211,209–305
+Chlamydia,2021,Michigan,St. Joseph County,26,149,326,306–489
+Chlamydia,2021,Michigan,Sanilac County,26,151,128,1–208
+Chlamydia,2021,Michigan,Schoolcraft County,26,153,149,1–208
+Chlamydia,2021,Michigan,Shiawassee County,26,155,231,209–305
+Chlamydia,2021,Michigan,Tuscola County,26,157,185,1–208
+Chlamydia,2021,Michigan,Van Buren County,26,159,311,306–489
+Chlamydia,2021,Michigan,Washtenaw County,26,161,393,306–489
+Chlamydia,2021,Michigan,Wayne County,26,163,777,"490–3,468"
+Chlamydia,2021,Michigan,Wexford County,26,165,180,1–208
+Chlamydia,2021,Minnesota,Aitkin County,27,001,170,1–208
+Chlamydia,2021,Minnesota,Anoka County,27,003,332,306–489
+Chlamydia,2021,Minnesota,Becker County,27,005,301,209–305
+Chlamydia,2021,Minnesota,Beltrami County,27,007,515,"490–3,468"
+Chlamydia,2021,Minnesota,Benton County,27,009,369,306–489
+Chlamydia,2021,Minnesota,Big Stone County,27,011,39,1–208
+Chlamydia,2021,Minnesota,Blue Earth County,27,013,541,"490–3,468"
+Chlamydia,2021,Minnesota,Brown County,27,015,244,209–305
+Chlamydia,2021,Minnesota,Carlton County,27,017,330,306–489
+Chlamydia,2021,Minnesota,Carver County,27,019,168,1–208
+Chlamydia,2021,Minnesota,Cass County,27,021,352,306–489
+Chlamydia,2021,Minnesota,Chippewa County,27,023,259,209–305
+Chlamydia,2021,Minnesota,Chisago County,27,025,167,1–208
+Chlamydia,2021,Minnesota,Clay County,27,027,467,306–489
+Chlamydia,2021,Minnesota,Clearwater County,27,029,152,1–208
+Chlamydia,2021,Minnesota,Cook County,27,031,125,1–208
+Chlamydia,2021,Minnesota,Cottonwood County,27,033,216,209–305
+Chlamydia,2021,Minnesota,Crow Wing County,27,035,256,209–305
+Chlamydia,2021,Minnesota,Dakota County,27,037,329,306–489
+Chlamydia,2021,Minnesota,Dodge County,27,039,229,209–305
+Chlamydia,2021,Minnesota,Douglas County,27,041,257,209–305
+Chlamydia,2021,Minnesota,Faribault County,27,043,302,209–305
+Chlamydia,2021,Minnesota,Fillmore County,27,045,141,1–208
+Chlamydia,2021,Minnesota,Freeborn County,27,047,332,306–489
+Chlamydia,2021,Minnesota,Goodhue County,27,049,248,209–305
+Chlamydia,2021,Minnesota,Grant County,27,051,195,1–208
+Chlamydia,2021,Minnesota,Hennepin County,27,053,602,"490–3,468"
+Chlamydia,2021,Minnesota,Houston County,27,055,186,1–208
+Chlamydia,2021,Minnesota,Hubbard County,27,057,226,209–305
+Chlamydia,2021,Minnesota,Isanti County,27,059,220,209–305
+Chlamydia,2021,Minnesota,Itasca County,27,061,233,209–305
+Chlamydia,2021,Minnesota,Jackson County,27,063,300,209–305
+Chlamydia,2021,Minnesota,Kanabec County,27,065,384,306–489
+Chlamydia,2021,Minnesota,Kandiyohi County,27,067,352,306–489
+Chlamydia,2021,Minnesota,Kittson County,27,069,48,1–208
+Chlamydia,2021,Minnesota,Koochiching County,27,071,151,1–208
+Chlamydia,2021,Minnesota,Lac qui Parle County,27,073,135,1–208
+Chlamydia,2021,Minnesota,Lake County,27,075,173,1–208
+Chlamydia,2021,Minnesota,Lake of the Woods County,27,077,157,1–208
+Chlamydia,2021,Minnesota,Le Sueur County,27,079,135,1–208
+Chlamydia,2021,Minnesota,Lincoln County,27,081,54,1–208
+Chlamydia,2021,Minnesota,Lyon County,27,083,289,209–305
+Chlamydia,2021,Minnesota,McLeod County,27,085,229,209–305
+Chlamydia,2021,Minnesota,Mahnomen County,27,087,388,306–489
+Chlamydia,2021,Minnesota,Marshall County,27,089,111,1–208
+Chlamydia,2021,Minnesota,Martin County,27,091,266,209–305
+Chlamydia,2021,Minnesota,Meeker County,27,093,180,1–208
+Chlamydia,2021,Minnesota,Mille Lacs County,27,095,253,209–305
+Chlamydia,2021,Minnesota,Morrison County,27,097,282,209–305
+Chlamydia,2021,Minnesota,Mower County,27,099,408,306–489
+Chlamydia,2021,Minnesota,Murray County,27,101,135,1–208
+Chlamydia,2021,Minnesota,Nicollet County,27,103,181,1–208
+Chlamydia,2021,Minnesota,Nobles County,27,105,437,306–489
+Chlamydia,2021,Minnesota,Norman County,27,107,218,209–305
+Chlamydia,2021,Minnesota,Olmsted County,27,109,352,306–489
+Chlamydia,2021,Minnesota,Otter Tail County,27,111,208,1–208
+Chlamydia,2021,Minnesota,Pennington County,27,113,276,209–305
+Chlamydia,2021,Minnesota,Pine County,27,115,246,209–305
+Chlamydia,2021,Minnesota,Pipestone County,27,117,279,209–305
+Chlamydia,2021,Minnesota,Polk County,27,119,192,1–208
+Chlamydia,2021,Minnesota,Pope County,27,121,228,209–305
+Chlamydia,2021,Minnesota,Ramsey County,27,123,578,"490–3,468"
+Chlamydia,2021,Minnesota,Red Lake County,27,125,305,209–305
+Chlamydia,2021,Minnesota,Redwood County,27,127,169,1–208
+Chlamydia,2021,Minnesota,Renville County,27,129,315,306–489
+Chlamydia,2021,Minnesota,Rice County,27,131,244,209–305
+Chlamydia,2021,Minnesota,Rock County,27,133,145,1–208
+Chlamydia,2021,Minnesota,Roseau County,27,135,105,1–208
+Chlamydia,2021,Minnesota,St. Louis County,27,137,392,306–489
+Chlamydia,2021,Minnesota,Scott County,27,139,275,209–305
+Chlamydia,2021,Minnesota,Sherburne County,27,141,319,306–489
+Chlamydia,2021,Minnesota,Sibley County,27,143,188,1–208
+Chlamydia,2021,Minnesota,Stearns County,27,145,436,306–489
+Chlamydia,2021,Minnesota,Steele County,27,147,174,1–208
+Chlamydia,2021,Minnesota,Stevens County,27,149,186,1–208
+Chlamydia,2021,Minnesota,Swift County,27,151,236,209–305
+Chlamydia,2021,Minnesota,Todd County,27,153,281,209–305
+Chlamydia,2021,Minnesota,Traverse County,27,155,152,1–208
+Chlamydia,2021,Minnesota,Wabasha County,27,157,195,1–208
+Chlamydia,2021,Minnesota,Wadena County,27,159,310,306–489
+Chlamydia,2021,Minnesota,Waseca County,27,161,216,209–305
+Chlamydia,2021,Minnesota,Washington County,27,163,248,209–305
+Chlamydia,2021,Minnesota,Watonwan County,27,165,296,209–305
+Chlamydia,2021,Minnesota,Wilkin County,27,167,203,1–208
+Chlamydia,2021,Minnesota,Winona County,27,169,304,209–305
+Chlamydia,2021,Minnesota,Wright County,27,171,197,1–208
+Chlamydia,2021,Minnesota,Yellow Medicine County,27,173,149,1–208
+Chlamydia,2021,Mississippi,Adams County,28,001,682,"490–3,468"
+Chlamydia,2021,Mississippi,Alcorn County,28,003,396,306–489
+Chlamydia,2021,Mississippi,Amite County,28,005,411,306–489
+Chlamydia,2021,Mississippi,Attala County,28,007,676,"490–3,468"
+Chlamydia,2021,Mississippi,Benton County,28,009,497,"490–3,468"
+Chlamydia,2021,Mississippi,Bolivar County,28,011,"1,053","490–3,468"
+Chlamydia,2021,Mississippi,Calhoun County,28,013,615,"490–3,468"
+Chlamydia,2021,Mississippi,Carroll County,28,015,486,306–489
+Chlamydia,2021,Mississippi,Chickasaw County,28,017,"1,041","490–3,468"
+Chlamydia,2021,Mississippi,Choctaw County,28,019,308,306–489
+Chlamydia,2021,Mississippi,Claiborne County,28,021,0,0
+Chlamydia,2021,Mississippi,Clarke County,28,023,447,306–489
+Chlamydia,2021,Mississippi,Clay County,28,025,"1,165","490–3,468"
+Chlamydia,2021,Mississippi,Coahoma County,28,027,"1,826","490–3,468"
+Chlamydia,2021,Mississippi,Copiah County,28,029,"1,215","490–3,468"
+Chlamydia,2021,Mississippi,Covington County,28,031,744,"490–3,468"
+Chlamydia,2021,Mississippi,DeSoto County,28,033,543,"490–3,468"
+Chlamydia,2021,Mississippi,Forrest County,28,035,"1,140","490–3,468"
+Chlamydia,2021,Mississippi,Franklin County,28,037,443,306–489
+Chlamydia,2021,Mississippi,George County,28,039,464,306–489
+Chlamydia,2021,Mississippi,Greene County,28,041,558,"490–3,468"
+Chlamydia,2021,Mississippi,Grenada County,28,043,936,"490–3,468"
+Chlamydia,2021,Mississippi,Hancock County,28,045,347,306–489
+Chlamydia,2021,Mississippi,Harrison County,28,047,605,"490–3,468"
+Chlamydia,2021,Mississippi,Hinds County,28,049,"1,310","490–3,468"
+Chlamydia,2021,Mississippi,Holmes County,28,051,"1,649","490–3,468"
+Chlamydia,2021,Mississippi,Humphreys County,28,053,"1,377","490–3,468"
+Chlamydia,2021,Mississippi,Issaquena County,28,055,78,1–208
+Chlamydia,2021,Mississippi,Itawamba County,28,057,0,0
+Chlamydia,2021,Mississippi,Jackson County,28,059,708,"490–3,468"
+Chlamydia,2021,Mississippi,Jasper County,28,061,712,"490–3,468"
+Chlamydia,2021,Mississippi,Jefferson County,28,063,"1,180","490–3,468"
+Chlamydia,2021,Mississippi,Jefferson Davis County,28,065,961,"490–3,468"
+Chlamydia,2021,Mississippi,Jones County,28,067,799,"490–3,468"
+Chlamydia,2021,Mississippi,Kemper County,28,069,464,306–489
+Chlamydia,2021,Mississippi,Lafayette County,28,071,682,"490–3,468"
+Chlamydia,2021,Mississippi,Lamar County,28,073,629,"490–3,468"
+Chlamydia,2021,Mississippi,Lauderdale County,28,075,545,"490–3,468"
+Chlamydia,2021,Mississippi,Lawrence County,28,077,626,"490–3,468"
+Chlamydia,2021,Mississippi,Leake County,28,079,925,"490–3,468"
+Chlamydia,2021,Mississippi,Lee County,28,081,857,"490–3,468"
+Chlamydia,2021,Mississippi,Leflore County,28,083,"1,459","490–3,468"
+Chlamydia,2021,Mississippi,Lincoln County,28,085,578,"490–3,468"
+Chlamydia,2021,Mississippi,Lowndes County,28,087,894,"490–3,468"
+Chlamydia,2021,Mississippi,Madison County,28,089,601,"490–3,468"
+Chlamydia,2021,Mississippi,Marion County,28,091,628,"490–3,468"
+Chlamydia,2021,Mississippi,Marshall County,28,093,700,"490–3,468"
+Chlamydia,2021,Mississippi,Monroe County,28,095,906,"490–3,468"
+Chlamydia,2021,Mississippi,Montgomery County,28,097,812,"490–3,468"
+Chlamydia,2021,Mississippi,Neshoba County,28,099,797,"490–3,468"
+Chlamydia,2021,Mississippi,Newton County,28,101,589,"490–3,468"
+Chlamydia,2021,Mississippi,Noxubee County,28,103,"1,255","490–3,468"
+Chlamydia,2021,Mississippi,Oktibbeha County,28,105,885,"490–3,468"
+Chlamydia,2021,Mississippi,Panola County,28,107,992,"490–3,468"
+Chlamydia,2021,Mississippi,Pearl River County,28,109,503,"490–3,468"
+Chlamydia,2021,Mississippi,Perry County,28,111,588,"490–3,468"
+Chlamydia,2021,Mississippi,Pike County,28,113,"1,063","490–3,468"
+Chlamydia,2021,Mississippi,Pontotoc County,28,115,611,"490–3,468"
+Chlamydia,2021,Mississippi,Prentiss County,28,117,368,306–489
+Chlamydia,2021,Mississippi,Quitman County,28,119,"1,500","490–3,468"
+Chlamydia,2021,Mississippi,Rankin County,28,121,385,306–489
+Chlamydia,2021,Mississippi,Scott County,28,123,739,"490–3,468"
+Chlamydia,2021,Mississippi,Sharkey County,28,125,"1,283","490–3,468"
+Chlamydia,2021,Mississippi,Simpson County,28,127,489,306–489
+Chlamydia,2021,Mississippi,Smith County,28,129,606,"490–3,468"
+Chlamydia,2021,Mississippi,Stone County,28,131,402,306–489
+Chlamydia,2021,Mississippi,Sunflower County,28,133,976,"490–3,468"
+Chlamydia,2021,Mississippi,Tallahatchie County,28,135,946,"490–3,468"
+Chlamydia,2021,Mississippi,Tate County,28,137,591,"490–3,468"
+Chlamydia,2021,Mississippi,Tippah County,28,139,439,306–489
+Chlamydia,2021,Mississippi,Tishomingo County,28,141,160,1–208
+Chlamydia,2021,Mississippi,Tunica County,28,143,"1,382","490–3,468"
+Chlamydia,2021,Mississippi,Union County,28,145,522,"490–3,468"
+Chlamydia,2021,Mississippi,Walthall County,28,147,607,"490–3,468"
+Chlamydia,2021,Mississippi,Warren County,28,149,934,"490–3,468"
+Chlamydia,2021,Mississippi,Washington County,28,151,895,"490–3,468"
+Chlamydia,2021,Mississippi,Wayne County,28,153,802,"490–3,468"
+Chlamydia,2021,Mississippi,Webster County,28,155,501,"490–3,468"
+Chlamydia,2021,Mississippi,Wilkinson County,28,157,734,"490–3,468"
+Chlamydia,2021,Mississippi,Winston County,28,159,915,"490–3,468"
+Chlamydia,2021,Mississippi,Yalobusha County,28,161,636,"490–3,468"
+Chlamydia,2021,Mississippi,Yazoo County,28,163,804,"490–3,468"
+Chlamydia,2021,Missouri,Adair County,29,001,322,306–489
+Chlamydia,2021,Missouri,Andrew County,29,003,244,209–305
+Chlamydia,2021,Missouri,Atchison County,29,005,134,1–208
+Chlamydia,2021,Missouri,Audrain County,29,007,620,"490–3,468"
+Chlamydia,2021,Missouri,Barry County,29,009,184,1–208
+Chlamydia,2021,Missouri,Barton County,29,011,232,209–305
+Chlamydia,2021,Missouri,Bates County,29,013,224,209–305
+Chlamydia,2021,Missouri,Benton County,29,015,171,1–208
+Chlamydia,2021,Missouri,Bollinger County,29,017,284,209–305
+Chlamydia,2021,Missouri,Boone County,29,019,662,"490–3,468"
+Chlamydia,2021,Missouri,Buchanan County,29,021,620,"490–3,468"
+Chlamydia,2021,Missouri,Butler County,29,023,589,"490–3,468"
+Chlamydia,2021,Missouri,Caldwell County,29,025,101,1–208
+Chlamydia,2021,Missouri,Callaway County,29,027,470,306–489
+Chlamydia,2021,Missouri,Camden County,29,029,269,209–305
+Chlamydia,2021,Missouri,Cape Girardeau County,29,031,519,"490–3,468"
+Chlamydia,2021,Missouri,Carroll County,29,033,96,1–208
+Chlamydia,2021,Missouri,Carter County,29,035,226,209–305
+Chlamydia,2021,Missouri,Cass County,29,037,370,306–489
+Chlamydia,2021,Missouri,Cedar County,29,039,186,1–208
+Chlamydia,2021,Missouri,Chariton County,29,041,258,209–305
+Chlamydia,2021,Missouri,Christian County,29,043,228,209–305
+Chlamydia,2021,Missouri,Clark County,29,045,208,1–208
+Chlamydia,2021,Missouri,Clay County,29,047,445,306–489
+Chlamydia,2021,Missouri,Clinton County,29,049,235,209–305
+Chlamydia,2021,Missouri,Cole County,29,051,607,"490–3,468"
+Chlamydia,2021,Missouri,Cooper County,29,053,216,209–305
+Chlamydia,2021,Missouri,Crawford County,29,055,215,209–305
+Chlamydia,2021,Missouri,Dade County,29,057,171,1–208
+Chlamydia,2021,Missouri,Dallas County,29,059,161,1–208
+Chlamydia,2021,Missouri,Daviess County,29,061,226,209–305
+Chlamydia,2021,Missouri,DeKalb County,29,063,207,1–208
+Chlamydia,2021,Missouri,Dent County,29,065,111,1–208
+Chlamydia,2021,Missouri,Douglas County,29,067,145,1–208
+Chlamydia,2021,Missouri,Dunklin County,29,069,577,"490–3,468"
+Chlamydia,2021,Missouri,Franklin County,29,071,182,1–208
+Chlamydia,2021,Missouri,Gasconade County,29,073,230,209–305
+Chlamydia,2021,Missouri,Gentry County,29,075,275,209–305
+Chlamydia,2021,Missouri,Greene County,29,077,645,"490–3,468"
+Chlamydia,2021,Missouri,Grundy County,29,079,298,209–305
+Chlamydia,2021,Missouri,Harrison County,29,081,233,209–305
+Chlamydia,2021,Missouri,Henry County,29,083,306,306–489
+Chlamydia,2021,Missouri,Hickory County,29,085,151,1–208
+Chlamydia,2021,Missouri,Holt County,29,087,189,1–208
+Chlamydia,2021,Missouri,Howard County,29,089,285,209–305
+Chlamydia,2021,Missouri,Howell County,29,091,278,209–305
+Chlamydia,2021,Missouri,Iron County,29,093,96,1–208
+Chlamydia,2021,Missouri,Jackson County,29,095,879,"490–3,468"
+Chlamydia,2021,Missouri,Jasper County,29,097,584,"490–3,468"
+Chlamydia,2021,Missouri,Jefferson County,29,099,252,209–305
+Chlamydia,2021,Missouri,Johnson County,29,101,560,"490–3,468"
+Chlamydia,2021,Missouri,Knox County,29,103,315,306–489
+Chlamydia,2021,Missouri,Laclede County,29,105,354,306–489
+Chlamydia,2021,Missouri,Lafayette County,29,107,293,209–305
+Chlamydia,2021,Missouri,Lawrence County,29,109,198,1–208
+Chlamydia,2021,Missouri,Lewis County,29,111,310,306–489
+Chlamydia,2021,Missouri,Lincoln County,29,113,281,209–305
+Chlamydia,2021,Missouri,Linn County,29,115,253,209–305
+Chlamydia,2021,Missouri,Livingston County,29,117,339,306–489
+Chlamydia,2021,Missouri,McDonald County,29,119,334,306–489
+Chlamydia,2021,Missouri,Macon County,29,121,224,209–305
+Chlamydia,2021,Missouri,Madison County,29,123,182,1–208
+Chlamydia,2021,Missouri,Maries County,29,125,83,1–208
+Chlamydia,2021,Missouri,Marion County,29,127,473,306–489
+Chlamydia,2021,Missouri,Mercer County,29,129,287,209–305
+Chlamydia,2021,Missouri,Miller County,29,131,253,209–305
+Chlamydia,2021,Missouri,Mississippi County,29,133,853,"490–3,468"
+Chlamydia,2021,Missouri,Moniteau County,29,135,252,209–305
+Chlamydia,2021,Missouri,Monroe County,29,137,241,209–305
+Chlamydia,2021,Missouri,Montgomery County,29,139,201,1–208
+Chlamydia,2021,Missouri,Morgan County,29,141,140,1–208
+Chlamydia,2021,Missouri,New Madrid County,29,143,667,"490–3,468"
+Chlamydia,2021,Missouri,Newton County,29,145,362,306–489
+Chlamydia,2021,Missouri,Nodaway County,29,147,775,"490–3,468"
+Chlamydia,2021,Missouri,Oregon County,29,149,290,209–305
+Chlamydia,2021,Missouri,Osage County,29,151,127,1–208
+Chlamydia,2021,Missouri,Ozark County,29,153,137,1–208
+Chlamydia,2021,Missouri,Pemiscot County,29,155,939,"490–3,468"
+Chlamydia,2021,Missouri,Perry County,29,157,264,209–305
+Chlamydia,2021,Missouri,Pettis County,29,159,370,306–489
+Chlamydia,2021,Missouri,Phelps County,29,161,323,306–489
+Chlamydia,2021,Missouri,Pike County,29,163,180,1–208
+Chlamydia,2021,Missouri,Platte County,29,165,419,306–489
+Chlamydia,2021,Missouri,Polk County,29,167,331,306–489
+Chlamydia,2021,Missouri,Pulaski County,29,169,617,"490–3,468"
+Chlamydia,2021,Missouri,Putnam County,29,171,340,306–489
+Chlamydia,2021,Missouri,Ralls County,29,173,261,209–305
+Chlamydia,2021,Missouri,Randolph County,29,175,376,306–489
+Chlamydia,2021,Missouri,Ray County,29,177,352,306–489
+Chlamydia,2021,Missouri,Reynolds County,29,179,99,1–208
+Chlamydia,2021,Missouri,Ripley County,29,181,311,306–489
+Chlamydia,2021,Missouri,St. Charles County,29,183,265,209–305
+Chlamydia,2021,Missouri,St. Clair County,29,185,160,1–208
+Chlamydia,2021,Missouri,Ste. Genevieve County,29,186,204,1–208
+Chlamydia,2021,Missouri,St. Francois County,29,187,289,209–305
+Chlamydia,2021,Missouri,St. Louis County,29,189,620,"490–3,468"
+Chlamydia,2021,Missouri,Saline County,29,195,459,306–489
+Chlamydia,2021,Missouri,Schuyler County,29,197,422,306–489
+Chlamydia,2021,Missouri,Scotland County,29,199,213,209–305
+Chlamydia,2021,Missouri,Scott County,29,201,597,"490–3,468"
+Chlamydia,2021,Missouri,Shannon County,29,203,169,1–208
+Chlamydia,2021,Missouri,Shelby County,29,205,134,1–208
+Chlamydia,2021,Missouri,Stoddard County,29,207,228,209–305
+Chlamydia,2021,Missouri,Stone County,29,209,181,1–208
+Chlamydia,2021,Missouri,Sullivan County,29,211,202,1–208
+Chlamydia,2021,Missouri,Taney County,29,213,243,209–305
+Chlamydia,2021,Missouri,Texas County,29,215,188,1–208
+Chlamydia,2021,Missouri,Vernon County,29,217,296,209–305
+Chlamydia,2021,Missouri,Warren County,29,219,255,209–305
+Chlamydia,2021,Missouri,Washington County,29,221,260,209–305
+Chlamydia,2021,Missouri,Wayne County,29,223,119,1–208
+Chlamydia,2021,Missouri,Webster County,29,225,189,1–208
+Chlamydia,2021,Missouri,Worth County,29,227,303,209–305
+Chlamydia,2021,Missouri,Wright County,29,229,167,1–208
+Chlamydia,2021,Missouri,St. Louis city,29,510,"1,246","490–3,468"
+Chlamydia,2021,Montana,Beaverhead County,30,001,315,306–489
+Chlamydia,2021,Montana,Big Horn County,30,003,"1,297","490–3,468"
+Chlamydia,2021,Montana,Blaine County,30,005,573,"490–3,468"
+Chlamydia,2021,Montana,Broadwater County,30,007,96,1–208
+Chlamydia,2021,Montana,Carbon County,30,009,111,1–208
+Chlamydia,2021,Montana,Carter County,30,011,70,1–208
+Chlamydia,2021,Montana,Cascade County,30,013,375,306–489
+Chlamydia,2021,Montana,Chouteau County,30,015,135,1–208
+Chlamydia,2021,Montana,Custer County,30,017,386,306–489
+Chlamydia,2021,Montana,Daniels County,30,019,119,1–208
+Chlamydia,2021,Montana,Dawson County,30,021,191,1–208
+Chlamydia,2021,Montana,Deer Lodge County,30,023,221,209–305
+Chlamydia,2021,Montana,Fallon County,30,025,133,1–208
+Chlamydia,2021,Montana,Fergus County,30,027,284,209–305
+Chlamydia,2021,Montana,Flathead County,30,029,221,209–305
+Chlamydia,2021,Montana,Gallatin County,30,031,472,306–489
+Chlamydia,2021,Montana,Garfield County,30,033,83,1–208
+Chlamydia,2021,Montana,Glacier County,30,035,856,"490–3,468"
+Chlamydia,2021,Montana,Golden Valley County,30,037,120,1–208
+Chlamydia,2021,Montana,Granite County,30,039,120,1–208
+Chlamydia,2021,Montana,Hill County,30,041,797,"490–3,468"
+Chlamydia,2021,Montana,Jefferson County,30,043,192,1–208
+Chlamydia,2021,Montana,Judith Basin County,30,045,49,1–208
+Chlamydia,2021,Montana,Lake County,30,047,537,"490–3,468"
+Chlamydia,2021,Montana,Lewis and Clark County,30,049,244,209–305
+Chlamydia,2021,Montana,Liberty County,30,051,0,0
+Chlamydia,2021,Montana,Lincoln County,30,053,185,1–208
+Chlamydia,2021,Montana,McCone County,30,055,58,1–208
+Chlamydia,2021,Montana,Madison County,30,057,112,1–208
+Chlamydia,2021,Montana,Meagher County,30,059,204,1–208
+Chlamydia,2021,Montana,Mineral County,30,061,82,1–208
+Chlamydia,2021,Montana,Missoula County,30,063,397,306–489
+Chlamydia,2021,Montana,Musselshell County,30,065,143,1–208
+Chlamydia,2021,Montana,Park County,30,067,86,1–208
+Chlamydia,2021,Montana,Petroleum County,30,069,0,0
+Chlamydia,2021,Montana,Phillips County,30,071,239,209–305
+Chlamydia,2021,Montana,Pondera County,30,073,334,306–489
+Chlamydia,2021,Montana,Powder River County,30,075,176,1–208
+Chlamydia,2021,Montana,Powell County,30,077,457,306–489
+Chlamydia,2021,Montana,Prairie County,30,079,0,0
+Chlamydia,2021,Montana,Ravalli County,30,081,148,1–208
+Chlamydia,2021,Montana,Richland County,30,083,248,209–305
+Chlamydia,2021,Montana,Roosevelt County,30,085,"1,174","490–3,468"
+Chlamydia,2021,Montana,Rosebud County,30,087,923,"490–3,468"
+Chlamydia,2021,Montana,Sanders County,30,089,116,1–208
+Chlamydia,2021,Montana,Sheridan County,30,091,0,0
+Chlamydia,2021,Montana,Silver Bow County,30,093,407,306–489
+Chlamydia,2021,Montana,Stillwater County,30,095,166,1–208
+Chlamydia,2021,Montana,Sweet Grass County,30,097,134,1–208
+Chlamydia,2021,Montana,Teton County,30,099,48,1–208
+Chlamydia,2021,Montana,Toole County,30,101,140,1–208
+Chlamydia,2021,Montana,Treasure County,30,103,0,0
+Chlamydia,2021,Montana,Valley County,30,105,119,1–208
+Chlamydia,2021,Montana,Wheatland County,30,107,194,1–208
+Chlamydia,2021,Montana,Wibaux County,30,109,214,209–305
+Chlamydia,2021,Montana,Yellowstone County,30,111,443,306–489
+Chlamydia,2021,Nebraska,Adams County,31,001,374,306–489
+Chlamydia,2021,Nebraska,Antelope County,31,003,32,1–208
+Chlamydia,2021,Nebraska,Arthur County,31,005,0,0
+Chlamydia,2021,Nebraska,Banner County,31,007,867,"490–3,468"
+Chlamydia,2021,Nebraska,Blaine County,31,009,0,0
+Chlamydia,2021,Nebraska,Boone County,31,011,130,1–208
+Chlamydia,2021,Nebraska,Box Butte County,31,013,377,306–489
+Chlamydia,2021,Nebraska,Boyd County,31,015,56,1–208
+Chlamydia,2021,Nebraska,Brown County,31,017,69,1–208
+Chlamydia,2021,Nebraska,Buffalo County,31,019,409,306–489
+Chlamydia,2021,Nebraska,Burt County,31,021,298,209–305
+Chlamydia,2021,Nebraska,Butler County,31,023,166,1–208
+Chlamydia,2021,Nebraska,Cass County,31,025,174,1–208
+Chlamydia,2021,Nebraska,Cedar County,31,027,48,1–208
+Chlamydia,2021,Nebraska,Chase County,31,029,78,1–208
+Chlamydia,2021,Nebraska,Cherry County,31,031,202,1–208
+Chlamydia,2021,Nebraska,Cheyenne County,31,033,147,1–208
+Chlamydia,2021,Nebraska,Clay County,31,035,263,209–305
+Chlamydia,2021,Nebraska,Colfax County,31,037,267,209–305
+Chlamydia,2021,Nebraska,Cuming County,31,039,245,209–305
+Chlamydia,2021,Nebraska,Custer County,31,041,76,1–208
+Chlamydia,2021,Nebraska,Dakota County,31,043,631,"490–3,468"
+Chlamydia,2021,Nebraska,Dawes County,31,045,650,"490–3,468"
+Chlamydia,2021,Nebraska,Dawson County,31,047,372,306–489
+Chlamydia,2021,Nebraska,Deuel County,31,049,0,0
+Chlamydia,2021,Nebraska,Dixon County,31,051,216,209–305
+Chlamydia,2021,Nebraska,Dodge County,31,053,477,306–489
+Chlamydia,2021,Nebraska,Douglas County,31,055,653,"490–3,468"
+Chlamydia,2021,Nebraska,Dundy County,31,057,122,1–208
+Chlamydia,2021,Nebraska,Fillmore County,31,059,90,1–208
+Chlamydia,2021,Nebraska,Franklin County,31,061,172,1–208
+Chlamydia,2021,Nebraska,Frontier County,31,063,78,1–208
+Chlamydia,2021,Nebraska,Furnas County,31,065,87,1–208
+Chlamydia,2021,Nebraska,Gage County,31,067,185,1–208
+Chlamydia,2021,Nebraska,Garden County,31,069,54,1–208
+Chlamydia,2021,Nebraska,Garfield County,31,071,109,1–208
+Chlamydia,2021,Nebraska,Gosper County,31,073,55,1–208
+Chlamydia,2021,Nebraska,Grant County,31,075,0,0
+Chlamydia,2021,Nebraska,Greeley County,31,077,0,0
+Chlamydia,2021,Nebraska,Hall County,31,079,520,"490–3,468"
+Chlamydia,2021,Nebraska,Hamilton County,31,081,85,1–208
+Chlamydia,2021,Nebraska,Harlan County,31,083,32,1–208
+Chlamydia,2021,Nebraska,Hayes County,31,085,0,0
+Chlamydia,2021,Nebraska,Hitchcock County,31,087,0,0
+Chlamydia,2021,Nebraska,Holt County,31,089,149,1–208
+Chlamydia,2021,Nebraska,Hooker County,31,091,136,1–208
+Chlamydia,2021,Nebraska,Howard County,31,093,153,1–208
+Chlamydia,2021,Nebraska,Jefferson County,31,095,181,1–208
+Chlamydia,2021,Nebraska,Johnson County,31,097,245,209–305
+Chlamydia,2021,Nebraska,Kearney County,31,099,105,1–208
+Chlamydia,2021,Nebraska,Keith County,31,101,97,1–208
+Chlamydia,2021,Nebraska,Keya Paha County,31,103,127,1–208
+Chlamydia,2021,Nebraska,Kimball County,31,105,147,1–208
+Chlamydia,2021,Nebraska,Knox County,31,107,119,1–208
+Chlamydia,2021,Nebraska,Lancaster County,31,109,536,"490–3,468"
+Chlamydia,2021,Nebraska,Lincoln County,31,111,305,209–305
+Chlamydia,2021,Nebraska,Logan County,31,113,291,209–305
+Chlamydia,2021,Nebraska,Loup County,31,115,166,1–208
+Chlamydia,2021,Nebraska,McPherson County,31,117,528,"490–3,468"
+Chlamydia,2021,Nebraska,Madison County,31,119,354,306–489
+Chlamydia,2021,Nebraska,Merrick County,31,121,104,1–208
+Chlamydia,2021,Nebraska,Morrill County,31,123,262,209–305
+Chlamydia,2021,Nebraska,Nance County,31,125,88,1–208
+Chlamydia,2021,Nebraska,Nemaha County,31,127,354,306–489
+Chlamydia,2021,Nebraska,Nuckolls County,31,129,148,1–208
+Chlamydia,2021,Nebraska,Otoe County,31,131,282,209–305
+Chlamydia,2021,Nebraska,Pawnee County,31,133,118,1–208
+Chlamydia,2021,Nebraska,Perkins County,31,135,71,1–208
+Chlamydia,2021,Nebraska,Phelps County,31,137,213,209–305
+Chlamydia,2021,Nebraska,Pierce County,31,139,55,1–208
+Chlamydia,2021,Nebraska,Platte County,31,141,260,209–305
+Chlamydia,2021,Nebraska,Polk County,31,143,193,1–208
+Chlamydia,2021,Nebraska,Red Willow County,31,145,245,209–305
+Chlamydia,2021,Nebraska,Richardson County,31,147,180,1–208
+Chlamydia,2021,Nebraska,Rock County,31,149,79,1–208
+Chlamydia,2021,Nebraska,Saline County,31,151,275,209–305
+Chlamydia,2021,Nebraska,Sarpy County,31,153,407,306–489
+Chlamydia,2021,Nebraska,Saunders County,31,155,162,1–208
+Chlamydia,2021,Nebraska,Scotts Bluff County,31,157,534,"490–3,468"
+Chlamydia,2021,Nebraska,Seward County,31,159,176,1–208
+Chlamydia,2021,Nebraska,Sheridan County,31,161,236,209–305
+Chlamydia,2021,Nebraska,Sherman County,31,163,270,209–305
+Chlamydia,2021,Nebraska,Sioux County,31,165,87,1–208
+Chlamydia,2021,Nebraska,Stanton County,31,167,86,1–208
+Chlamydia,2021,Nebraska,Thayer County,31,169,163,1–208
+Chlamydia,2021,Nebraska,Thomas County,31,171,0,0
+Chlamydia,2021,Nebraska,Thurston County,31,173,"1,435","490–3,468"
+Chlamydia,2021,Nebraska,Valley County,31,175,74,1–208
+Chlamydia,2021,Nebraska,Washington County,31,177,191,1–208
+Chlamydia,2021,Nebraska,Wayne County,31,179,348,306–489
+Chlamydia,2021,Nebraska,Webster County,31,181,88,1–208
+Chlamydia,2021,Nebraska,Wheeler County,31,183,126,1–208
+Chlamydia,2021,Nebraska,York County,31,185,225,209–305
+Chlamydia,2021,Nevada,Churchill County,32,001,513,"490–3,468"
+Chlamydia,2021,Nevada,Clark County,32,003,564,"490–3,468"
+Chlamydia,2021,Nevada,Douglas County,32,005,193,1–208
+Chlamydia,2021,Nevada,Elko County,32,007,271,209–305
+Chlamydia,2021,Nevada,Esmeralda County,32,009,0,0
+Chlamydia,2021,Nevada,Eureka County,32,011,0,0
+Chlamydia,2021,Nevada,Humboldt County,32,013,198,1–208
+Chlamydia,2021,Nevada,Lander County,32,015,397,306–489
+Chlamydia,2021,Nevada,Lincoln County,32,017,22,1–208
+Chlamydia,2021,Nevada,Lyon County,32,019,317,306–489
+Chlamydia,2021,Nevada,Mineral County,32,021,414,306–489
+Chlamydia,2021,Nevada,Nye County,32,023,148,1–208
+Chlamydia,2021,Nevada,Pershing County,32,027,119,1–208
+Chlamydia,2021,Nevada,Storey County,32,029,72,1–208
+Chlamydia,2021,Nevada,Washoe County,32,031,497,"490–3,468"
+Chlamydia,2021,Nevada,White Pine County,32,033,272,209–305
+Chlamydia,2021,Nevada,Carson City,32,510,356,306–489
+Chlamydia,2021,New Hampshire,Belknap County,33,001,175,1–208
+Chlamydia,2021,New Hampshire,Carroll County,33,003,111,1–208
+Chlamydia,2021,New Hampshire,Cheshire County,33,005,222,209–305
+Chlamydia,2021,New Hampshire,Coos County,33,007,86,1–208
+Chlamydia,2021,New Hampshire,Grafton County,33,009,169,1–208
+Chlamydia,2021,New Hampshire,Hillsborough County,33,011,274,209–305
+Chlamydia,2021,New Hampshire,Merrimack County,33,013,196,1–208
+Chlamydia,2021,New Hampshire,Rockingham County,33,015,182,1–208
+Chlamydia,2021,New Hampshire,Strafford County,33,017,284,209–305
+Chlamydia,2021,New Hampshire,Sullivan County,33,019,188,1–208
+Chlamydia,2021,New Jersey,Atlantic County,34,001,492,"490–3,468"
+Chlamydia,2021,New Jersey,Bergen County,34,003,222,209–305
+Chlamydia,2021,New Jersey,Burlington County,34,005,333,306–489
+Chlamydia,2021,New Jersey,Camden County,34,007,628,"490–3,468"
+Chlamydia,2021,New Jersey,Cape May County,34,009,259,209–305
+Chlamydia,2021,New Jersey,Cumberland County,34,011,694,"490–3,468"
+Chlamydia,2021,New Jersey,Essex County,34,013,658,"490–3,468"
+Chlamydia,2021,New Jersey,Gloucester County,34,015,330,306–489
+Chlamydia,2021,New Jersey,Hudson County,34,017,416,306–489
+Chlamydia,2021,New Jersey,Hunterdon County,34,019,122,1–208
+Chlamydia,2021,New Jersey,Mercer County,34,021,441,306–489
+Chlamydia,2021,New Jersey,Middlesex County,34,023,289,209–305
+Chlamydia,2021,New Jersey,Monmouth County,34,025,241,209–305
+Chlamydia,2021,New Jersey,Morris County,34,027,176,1–208
+Chlamydia,2021,New Jersey,Ocean County,34,029,173,1–208
+Chlamydia,2021,New Jersey,Passaic County,34,031,492,"490–3,468"
+Chlamydia,2021,New Jersey,Salem County,34,033,446,306–489
+Chlamydia,2021,New Jersey,Somerset County,34,035,218,209–305
+Chlamydia,2021,New Jersey,Sussex County,34,037,131,1–208
+Chlamydia,2021,New Jersey,Union County,34,039,393,306–489
+Chlamydia,2021,New Jersey,Warren County,34,041,247,209–305
+Chlamydia,2021,New Mexico,Bernalillo County,35,001,689,"490–3,468"
+Chlamydia,2021,New Mexico,Catron County,35,003,188,1–208
+Chlamydia,2021,New Mexico,Chaves County,35,005,526,"490–3,468"
+Chlamydia,2021,New Mexico,Cibola County,35,006,555,"490–3,468"
+Chlamydia,2021,New Mexico,Colfax County,35,007,380,306–489
+Chlamydia,2021,New Mexico,Curry County,35,009,781,"490–3,468"
+Chlamydia,2021,New Mexico,De Baca County,35,011,536,"490–3,468"
+Chlamydia,2021,New Mexico,Doña Ana County,35,013,660,"490–3,468"
+Chlamydia,2021,New Mexico,Eddy County,35,015,473,306–489
+Chlamydia,2021,New Mexico,Grant County,35,017,398,306–489
+Chlamydia,2021,New Mexico,Guadalupe County,35,019,157,1–208
+Chlamydia,2021,New Mexico,Harding County,35,021,0,0
+Chlamydia,2021,New Mexico,Hidalgo County,35,023,393,306–489
+Chlamydia,2021,New Mexico,Lea County,35,025,484,306–489
+Chlamydia,2021,New Mexico,Lincoln County,35,027,215,209–305
+Chlamydia,2021,New Mexico,Los Alamos County,35,028,181,1–208
+Chlamydia,2021,New Mexico,Luna County,35,029,529,"490–3,468"
+Chlamydia,2021,New Mexico,McKinley County,35,031,773,"490–3,468"
+Chlamydia,2021,New Mexico,Mora County,35,033,334,306–489
+Chlamydia,2021,New Mexico,Otero County,35,035,486,306–489
+Chlamydia,2021,New Mexico,Quay County,35,037,508,"490–3,468"
+Chlamydia,2021,New Mexico,Rio Arriba County,35,039,553,"490–3,468"
+Chlamydia,2021,New Mexico,Roosevelt County,35,041,631,"490–3,468"
+Chlamydia,2021,New Mexico,Sandoval County,35,043,448,306–489
+Chlamydia,2021,New Mexico,San Juan County,35,045,781,"490–3,468"
+Chlamydia,2021,New Mexico,San Miguel County,35,047,527,"490–3,468"
+Chlamydia,2021,New Mexico,Santa Fe County,35,049,413,306–489
+Chlamydia,2021,New Mexico,Sierra County,35,051,252,209–305
+Chlamydia,2021,New Mexico,Socorro County,35,053,448,306–489
+Chlamydia,2021,New Mexico,Taos County,35,055,373,306–489
+Chlamydia,2021,New Mexico,Torrance County,35,057,320,306–489
+Chlamydia,2021,New Mexico,Union County,35,059,243,209–305
+Chlamydia,2021,New Mexico,Valencia County,35,061,560,"490–3,468"
+Chlamydia,2021,New York,Albany County,36,001,444,306–489
+Chlamydia,2021,New York,Allegany County,36,003,182,1–208
+Chlamydia,2021,New York,Bronx County,36,005,"1,053","490–3,468"
+Chlamydia,2021,New York,Broome County,36,007,380,306–489
+Chlamydia,2021,New York,Cattaraugus County,36,009,246,209–305
+Chlamydia,2021,New York,Cayuga County,36,011,270,209–305
+Chlamydia,2021,New York,Chautauqua County,36,013,341,306–489
+Chlamydia,2021,New York,Chemung County,36,015,390,306–489
+Chlamydia,2021,New York,Chenango County,36,017,239,209–305
+Chlamydia,2021,New York,Clinton County,36,019,214,209–305
+Chlamydia,2021,New York,Columbia County,36,021,207,1–208
+Chlamydia,2021,New York,Cortland County,36,023,324,306–489
+Chlamydia,2021,New York,Delaware County,36,025,180,1–208
+Chlamydia,2021,New York,Dutchess County,36,027,298,209–305
+Chlamydia,2021,New York,Erie County,36,029,475,306–489
+Chlamydia,2021,New York,Essex County,36,031,140,1–208
+Chlamydia,2021,New York,Franklin County,36,033,152,1–208
+Chlamydia,2021,New York,Fulton County,36,035,282,209–305
+Chlamydia,2021,New York,Genesee County,36,037,264,209–305
+Chlamydia,2021,New York,Greene County,36,039,190,1–208
+Chlamydia,2021,New York,Hamilton County,36,041,20,1–208
+Chlamydia,2021,New York,Herkimer County,36,043,217,209–305
+Chlamydia,2021,New York,Jefferson County,36,045,614,"490–3,468"
+Chlamydia,2021,New York,Kings County,36,047,720,"490–3,468"
+Chlamydia,2021,New York,Lewis County,36,049,117,1–208
+Chlamydia,2021,New York,Livingston County,36,051,161,1–208
+Chlamydia,2021,New York,Madison County,36,053,174,1–208
+Chlamydia,2021,New York,Monroe County,36,055,608,"490–3,468"
+Chlamydia,2021,New York,Montgomery County,36,057,268,209–305
+Chlamydia,2021,New York,Nassau County,36,059,323,306–489
+Chlamydia,2021,New York,New York County,36,061,871,"490–3,468"
+Chlamydia,2021,New York,Niagara County,36,063,359,306–489
+Chlamydia,2021,New York,Oneida County,36,065,358,306–489
+Chlamydia,2021,New York,Onondaga County,36,067,482,306–489
+Chlamydia,2021,New York,Ontario County,36,069,244,209–305
+Chlamydia,2021,New York,Orange County,36,071,354,306–489
+Chlamydia,2021,New York,Orleans County,36,073,209,209–305
+Chlamydia,2021,New York,Oswego County,36,075,254,209–305
+Chlamydia,2021,New York,Otsego County,36,077,227,209–305
+Chlamydia,2021,New York,Putnam County,36,079,178,1–208
+Chlamydia,2021,New York,Queens County,36,081,544,"490–3,468"
+Chlamydia,2021,New York,Rensselaer County,36,083,300,209–305
+Chlamydia,2021,New York,Richmond County,36,085,303,209–305
+Chlamydia,2021,New York,Rockland County,36,087,296,209–305
+Chlamydia,2021,New York,St. Lawrence County,36,089,250,209–305
+Chlamydia,2021,New York,Saratoga County,36,091,164,1–208
+Chlamydia,2021,New York,Schenectady County,36,093,467,306–489
+Chlamydia,2021,New York,Schoharie County,36,095,164,1–208
+Chlamydia,2021,New York,Schuyler County,36,097,208,1–208
+Chlamydia,2021,New York,Seneca County,36,099,190,1–208
+Chlamydia,2021,New York,Steuben County,36,101,168,1–208
+Chlamydia,2021,New York,Suffolk County,36,103,322,306–489
+Chlamydia,2021,New York,Sullivan County,36,105,247,209–305
+Chlamydia,2021,New York,Tioga County,36,107,190,1–208
+Chlamydia,2021,New York,Tompkins County,36,109,320,306–489
+Chlamydia,2021,New York,Ulster County,36,111,210,209–305
+Chlamydia,2021,New York,Warren County,36,113,175,1–208
+Chlamydia,2021,New York,Washington County,36,115,148,1–208
+Chlamydia,2021,New York,Wayne County,36,117,306,306–489
+Chlamydia,2021,New York,Westchester County,36,119,353,306–489
+Chlamydia,2021,New York,Wyoming County,36,121,165,1–208
+Chlamydia,2021,New York,Yates County,36,123,142,1–208
+Chlamydia,2021,North Carolina,Alamance County,37,001,572,"490–3,468"
+Chlamydia,2021,North Carolina,Alexander County,37,003,175,1–208
+Chlamydia,2021,North Carolina,Alleghany County,37,005,109,1–208
+Chlamydia,2021,North Carolina,Anson County,37,007,938,"490–3,468"
+Chlamydia,2021,North Carolina,Ashe County,37,009,168,1–208
+Chlamydia,2021,North Carolina,Avery County,37,011,140,1–208
+Chlamydia,2021,North Carolina,Beaufort County,37,013,650,"490–3,468"
+Chlamydia,2021,North Carolina,Bertie County,37,015,771,"490–3,468"
+Chlamydia,2021,North Carolina,Bladen County,37,017,562,"490–3,468"
+Chlamydia,2021,North Carolina,Brunswick County,37,019,268,209–305
+Chlamydia,2021,North Carolina,Buncombe County,37,021,367,306–489
+Chlamydia,2021,North Carolina,Burke County,37,023,314,306–489
+Chlamydia,2021,North Carolina,Cabarrus County,37,025,546,"490–3,468"
+Chlamydia,2021,North Carolina,Caldwell County,37,027,326,306–489
+Chlamydia,2021,North Carolina,Camden County,37,029,277,209–305
+Chlamydia,2021,North Carolina,Carteret County,37,031,223,209–305
+Chlamydia,2021,North Carolina,Caswell County,37,033,396,306–489
+Chlamydia,2021,North Carolina,Catawba County,37,035,383,306–489
+Chlamydia,2021,North Carolina,Chatham County,37,037,270,209–305
+Chlamydia,2021,North Carolina,Cherokee County,37,039,178,1–208
+Chlamydia,2021,North Carolina,Chowan County,37,041,656,"490–3,468"
+Chlamydia,2021,North Carolina,Clay County,37,043,106,1–208
+Chlamydia,2021,North Carolina,Cleveland County,37,045,714,"490–3,468"
+Chlamydia,2021,North Carolina,Columbus County,37,047,653,"490–3,468"
+Chlamydia,2021,North Carolina,Craven County,37,049,502,"490–3,468"
+Chlamydia,2021,North Carolina,Cumberland County,37,051,"1,260","490–3,468"
+Chlamydia,2021,North Carolina,Currituck County,37,053,185,1–208
+Chlamydia,2021,North Carolina,Dare County,37,055,169,1–208
+Chlamydia,2021,North Carolina,Davidson County,37,057,442,306–489
+Chlamydia,2021,North Carolina,Davie County,37,059,301,209–305
+Chlamydia,2021,North Carolina,Duplin County,37,061,674,"490–3,468"
+Chlamydia,2021,North Carolina,Durham County,37,063,735,"490–3,468"
+Chlamydia,2021,North Carolina,Edgecombe County,37,065,"1,230","490–3,468"
+Chlamydia,2021,North Carolina,Forsyth County,37,067,745,"490–3,468"
+Chlamydia,2021,North Carolina,Franklin County,37,069,425,306–489
+Chlamydia,2021,North Carolina,Gaston County,37,071,642,"490–3,468"
+Chlamydia,2021,North Carolina,Gates County,37,073,328,306–489
+Chlamydia,2021,North Carolina,Graham County,37,075,112,1–208
+Chlamydia,2021,North Carolina,Granville County,37,077,540,"490–3,468"
+Chlamydia,2021,North Carolina,Greene County,37,079,602,"490–3,468"
+Chlamydia,2021,North Carolina,Guilford County,37,081,778,"490–3,468"
+Chlamydia,2021,North Carolina,Halifax County,37,083,928,"490–3,468"
+Chlamydia,2021,North Carolina,Harnett County,37,085,577,"490–3,468"
+Chlamydia,2021,North Carolina,Haywood County,37,087,208,1–208
+Chlamydia,2021,North Carolina,Henderson County,37,089,232,209–305
+Chlamydia,2021,North Carolina,Hertford County,37,091,874,"490–3,468"
+Chlamydia,2021,North Carolina,Hoke County,37,093,894,"490–3,468"
+Chlamydia,2021,North Carolina,Hyde County,37,095,244,209–305
+Chlamydia,2021,North Carolina,Iredell County,37,097,382,306–489
+Chlamydia,2021,North Carolina,Jackson County,37,099,498,"490–3,468"
+Chlamydia,2021,North Carolina,Johnston County,37,101,408,306–489
+Chlamydia,2021,North Carolina,Jones County,37,103,648,"490–3,468"
+Chlamydia,2021,North Carolina,Lee County,37,105,483,306–489
+Chlamydia,2021,North Carolina,Lenoir County,37,107,927,"490–3,468"
+Chlamydia,2021,North Carolina,Lincoln County,37,109,325,306–489
+Chlamydia,2021,North Carolina,McDowell County,37,111,262,209–305
+Chlamydia,2021,North Carolina,Macon County,37,113,224,209–305
+Chlamydia,2021,North Carolina,Madison County,37,115,219,209–305
+Chlamydia,2021,North Carolina,Martin County,37,117,703,"490–3,468"
+Chlamydia,2021,North Carolina,Mecklenburg County,37,119,855,"490–3,468"
+Chlamydia,2021,North Carolina,Mitchell County,37,121,134,1–208
+Chlamydia,2021,North Carolina,Montgomery County,37,123,496,"490–3,468"
+Chlamydia,2021,North Carolina,Moore County,37,125,383,306–489
+Chlamydia,2021,North Carolina,Nash County,37,127,741,"490–3,468"
+Chlamydia,2021,North Carolina,New Hanover County,37,129,500,"490–3,468"
+Chlamydia,2021,North Carolina,Northampton County,37,131,852,"490–3,468"
+Chlamydia,2021,North Carolina,Onslow County,37,133,877,"490–3,468"
+Chlamydia,2021,North Carolina,Orange County,37,135,483,306–489
+Chlamydia,2021,North Carolina,Pamlico County,37,137,316,306–489
+Chlamydia,2021,North Carolina,Pasquotank County,37,139,625,"490–3,468"
+Chlamydia,2021,North Carolina,Pender County,37,141,266,209–305
+Chlamydia,2021,North Carolina,Perquimans County,37,143,419,306–489
+Chlamydia,2021,North Carolina,Person County,37,145,662,"490–3,468"
+Chlamydia,2021,North Carolina,Pitt County,37,147,"1,074","490–3,468"
+Chlamydia,2021,North Carolina,Polk County,37,149,168,1–208
+Chlamydia,2021,North Carolina,Randolph County,37,151,376,306–489
+Chlamydia,2021,North Carolina,Richmond County,37,153,925,"490–3,468"
+Chlamydia,2021,North Carolina,Robeson County,37,155,"1,088","490–3,468"
+Chlamydia,2021,North Carolina,Rockingham County,37,157,423,306–489
+Chlamydia,2021,North Carolina,Rowan County,37,159,502,"490–3,468"
+Chlamydia,2021,North Carolina,Rutherford County,37,161,437,306–489
+Chlamydia,2021,North Carolina,Sampson County,37,163,544,"490–3,468"
+Chlamydia,2021,North Carolina,Scotland County,37,165,932,"490–3,468"
+Chlamydia,2021,North Carolina,Stanly County,37,167,481,306–489
+Chlamydia,2021,North Carolina,Stokes County,37,169,224,209–305
+Chlamydia,2021,North Carolina,Surry County,37,171,256,209–305
+Chlamydia,2021,North Carolina,Swain County,37,173,531,"490–3,468"
+Chlamydia,2021,North Carolina,Transylvania County,37,175,211,209–305
+Chlamydia,2021,North Carolina,Tyrrell County,37,177,369,306–489
+Chlamydia,2021,North Carolina,Union County,37,179,396,306–489
+Chlamydia,2021,North Carolina,Vance County,37,181,"1,000","490–3,468"
+Chlamydia,2021,North Carolina,Wake County,37,183,500,"490–3,468"
+Chlamydia,2021,North Carolina,Warren County,37,185,592,"490–3,468"
+Chlamydia,2021,North Carolina,Washington County,37,187,835,"490–3,468"
+Chlamydia,2021,North Carolina,Watauga County,37,189,422,306–489
+Chlamydia,2021,North Carolina,Wayne County,37,191,830,"490–3,468"
+Chlamydia,2021,North Carolina,Wilkes County,37,193,280,209–305
+Chlamydia,2021,North Carolina,Wilson County,37,195,"1,128","490–3,468"
+Chlamydia,2021,North Carolina,Yadkin County,37,197,250,209–305
+Chlamydia,2021,North Carolina,Yancey County,37,199,181,1–208
+Chlamydia,2021,North Dakota,Adams County,38,001,231,209–305
+Chlamydia,2021,North Dakota,Barnes County,38,003,296,209–305
+Chlamydia,2021,North Dakota,Benson County,38,005,"2,186","490–3,468"
+Chlamydia,2021,North Dakota,Billings County,38,007,209,209–305
+Chlamydia,2021,North Dakota,Bottineau County,38,009,391,306–489
+Chlamydia,2021,North Dakota,Bowman County,38,011,34,1–208
+Chlamydia,2021,North Dakota,Burke County,38,013,93,1–208
+Chlamydia,2021,North Dakota,Burleigh County,38,015,511,"490–3,468"
+Chlamydia,2021,North Dakota,Cass County,38,017,611,"490–3,468"
+Chlamydia,2021,North Dakota,Cavalier County,38,019,82,1–208
+Chlamydia,2021,North Dakota,Dickey County,38,021,82,1–208
+Chlamydia,2021,North Dakota,Divide County,38,023,183,1–208
+Chlamydia,2021,North Dakota,Dunn County,38,025,248,209–305
+Chlamydia,2021,North Dakota,Eddy County,38,027,128,1–208
+Chlamydia,2021,North Dakota,Emmons County,38,029,61,1–208
+Chlamydia,2021,North Dakota,Foster County,38,031,149,1–208
+Chlamydia,2021,North Dakota,Golden Valley County,38,033,565,"490–3,468"
+Chlamydia,2021,North Dakota,Grand Forks County,38,035,677,"490–3,468"
+Chlamydia,2021,North Dakota,Grant County,38,037,172,1–208
+Chlamydia,2021,North Dakota,Griggs County,38,039,88,1–208
+Chlamydia,2021,North Dakota,Hettinger County,38,041,741,"490–3,468"
+Chlamydia,2021,North Dakota,Kidder County,38,043,84,1–208
+Chlamydia,2021,North Dakota,LaMoure County,38,045,98,1–208
+Chlamydia,2021,North Dakota,Logan County,38,047,106,1–208
+Chlamydia,2021,North Dakota,McHenry County,38,049,133,1–208
+Chlamydia,2021,North Dakota,McIntosh County,38,051,199,1–208
+Chlamydia,2021,North Dakota,McKenzie County,38,053,333,306–489
+Chlamydia,2021,North Dakota,McLean County,38,055,204,1–208
+Chlamydia,2021,North Dakota,Mercer County,38,057,120,1–208
+Chlamydia,2021,North Dakota,Morton County,38,059,330,306–489
+Chlamydia,2021,North Dakota,Mountrail County,38,061,710,"490–3,468"
+Chlamydia,2021,North Dakota,Nelson County,38,063,98,1–208
+Chlamydia,2021,North Dakota,Oliver County,38,065,53,1–208
+Chlamydia,2021,North Dakota,Pembina County,38,067,192,1–208
+Chlamydia,2021,North Dakota,Pierce County,38,069,278,209–305
+Chlamydia,2021,North Dakota,Ramsey County,38,071,838,"490–3,468"
+Chlamydia,2021,North Dakota,Ransom County,38,073,159,1–208
+Chlamydia,2021,North Dakota,Renville County,38,075,177,1–208
+Chlamydia,2021,North Dakota,Richland County,38,077,350,306–489
+Chlamydia,2021,North Dakota,Rolette County,38,079,"1,801","490–3,468"
+Chlamydia,2021,North Dakota,Sargent County,38,081,261,209–305
+Chlamydia,2021,North Dakota,Sheridan County,38,083,237,209–305
+Chlamydia,2021,North Dakota,Sioux County,38,085,"1,659","490–3,468"
+Chlamydia,2021,North Dakota,Slope County,38,087,0,0
+Chlamydia,2021,North Dakota,Stark County,38,089,372,306–489
+Chlamydia,2021,North Dakota,Steele County,38,091,55,1–208
+Chlamydia,2021,North Dakota,Stutsman County,38,093,477,306–489
+Chlamydia,2021,North Dakota,Towner County,38,095,374,306–489
+Chlamydia,2021,North Dakota,Traill County,38,097,262,209–305
+Chlamydia,2021,North Dakota,Walsh County,38,099,267,209–305
+Chlamydia,2021,North Dakota,Ward County,38,101,526,"490–3,468"
+Chlamydia,2021,North Dakota,Wells County,38,103,77,1–208
+Chlamydia,2021,North Dakota,Williams County,38,105,400,306–489
+Chlamydia,2021,Ohio,Adams County,39,001,178,1–208
+Chlamydia,2021,Ohio,Allen County,39,003,629,"490–3,468"
+Chlamydia,2021,Ohio,Ashland County,39,005,243,209–305
+Chlamydia,2021,Ohio,Ashtabula County,39,007,303,209–305
+Chlamydia,2021,Ohio,Athens County,39,009,403,306–489
+Chlamydia,2021,Ohio,Auglaize County,39,011,223,209–305
+Chlamydia,2021,Ohio,Belmont County,39,013,191,1–208
+Chlamydia,2021,Ohio,Brown County,39,015,222,209–305
+Chlamydia,2021,Ohio,Butler County,39,017,365,306–489
+Chlamydia,2021,Ohio,Carroll County,39,019,184,1–208
+Chlamydia,2021,Ohio,Champaign County,39,021,222,209–305
+Chlamydia,2021,Ohio,Clark County,39,023,469,306–489
+Chlamydia,2021,Ohio,Clermont County,39,025,266,209–305
+Chlamydia,2021,Ohio,Clinton County,39,027,286,209–305
+Chlamydia,2021,Ohio,Columbiana County,39,029,213,209–305
+Chlamydia,2021,Ohio,Coshocton County,39,031,254,209–305
+Chlamydia,2021,Ohio,Crawford County,39,033,347,306–489
+Chlamydia,2021,Ohio,Cuyahoga County,39,035,839,"490–3,468"
+Chlamydia,2021,Ohio,Darke County,39,037,200,1–208
+Chlamydia,2021,Ohio,Defiance County,39,039,354,306–489
+Chlamydia,2021,Ohio,Delaware County,39,041,196,1–208
+Chlamydia,2021,Ohio,Erie County,39,043,517,"490–3,468"
+Chlamydia,2021,Ohio,Fairfield County,39,045,304,209–305
+Chlamydia,2021,Ohio,Fayette County,39,047,336,306–489
+Chlamydia,2021,Ohio,Franklin County,39,049,689,"490–3,468"
+Chlamydia,2021,Ohio,Fulton County,39,051,257,209–305
+Chlamydia,2021,Ohio,Gallia County,39,053,185,1–208
+Chlamydia,2021,Ohio,Geauga County,39,055,157,1–208
+Chlamydia,2021,Ohio,Greene County,39,057,302,209–305
+Chlamydia,2021,Ohio,Guernsey County,39,059,306,306–489
+Chlamydia,2021,Ohio,Hamilton County,39,061,801,"490–3,468"
+Chlamydia,2021,Ohio,Hancock County,39,063,334,306–489
+Chlamydia,2021,Ohio,Hardin County,39,065,251,209–305
+Chlamydia,2021,Ohio,Harrison County,39,067,159,1–208
+Chlamydia,2021,Ohio,Henry County,39,069,247,209–305
+Chlamydia,2021,Ohio,Highland County,39,071,196,1–208
+Chlamydia,2021,Ohio,Hocking County,39,073,217,209–305
+Chlamydia,2021,Ohio,Holmes County,39,075,72,1–208
+Chlamydia,2021,Ohio,Huron County,39,077,278,209–305
+Chlamydia,2021,Ohio,Jackson County,39,079,191,1–208
+Chlamydia,2021,Ohio,Jefferson County,39,081,286,209–305
+Chlamydia,2021,Ohio,Knox County,39,083,218,209–305
+Chlamydia,2021,Ohio,Lake County,39,085,255,209–305
+Chlamydia,2021,Ohio,Lawrence County,39,087,345,306–489
+Chlamydia,2021,Ohio,Licking County,39,089,295,209–305
+Chlamydia,2021,Ohio,Logan County,39,091,267,209–305
+Chlamydia,2021,Ohio,Lorain County,39,093,384,306–489
+Chlamydia,2021,Ohio,Lucas County,39,095,701,"490–3,468"
+Chlamydia,2021,Ohio,Madison County,39,097,257,209–305
+Chlamydia,2021,Ohio,Mahoning County,39,099,488,306–489
+Chlamydia,2021,Ohio,Marion County,39,101,438,306–489
+Chlamydia,2021,Ohio,Medina County,39,103,156,1–208
+Chlamydia,2021,Ohio,Meigs County,39,105,141,1–208
+Chlamydia,2021,Ohio,Mercer County,39,107,229,209–305
+Chlamydia,2021,Ohio,Miami County,39,109,232,209–305
+Chlamydia,2021,Ohio,Monroe County,39,111,165,1–208
+Chlamydia,2021,Ohio,Montgomery County,39,113,542,"490–3,468"
+Chlamydia,2021,Ohio,Morgan County,39,115,212,209–305
+Chlamydia,2021,Ohio,Morrow County,39,117,216,209–305
+Chlamydia,2021,Ohio,Muskingum County,39,119,367,306–489
+Chlamydia,2021,Ohio,Noble County,39,121,169,1–208
+Chlamydia,2021,Ohio,Ottawa County,39,123,182,1–208
+Chlamydia,2021,Ohio,Paulding County,39,125,260,209–305
+Chlamydia,2021,Ohio,Perry County,39,127,228,209–305
+Chlamydia,2021,Ohio,Pickaway County,39,129,238,209–305
+Chlamydia,2021,Ohio,Pike County,39,131,251,209–305
+Chlamydia,2021,Ohio,Portage County,39,133,310,306–489
+Chlamydia,2021,Ohio,Preble County,39,135,179,1–208
+Chlamydia,2021,Ohio,Putnam County,39,137,125,1–208
+Chlamydia,2021,Ohio,Richland County,39,139,433,306–489
+Chlamydia,2021,Ohio,Ross County,39,141,271,209–305
+Chlamydia,2021,Ohio,Sandusky County,39,143,288,209–305
+Chlamydia,2021,Ohio,Scioto County,39,145,236,209–305
+Chlamydia,2021,Ohio,Seneca County,39,147,344,306–489
+Chlamydia,2021,Ohio,Shelby County,39,149,279,209–305
+Chlamydia,2021,Ohio,Stark County,39,151,434,306–489
+Chlamydia,2021,Ohio,Summit County,39,153,535,"490–3,468"
+Chlamydia,2021,Ohio,Trumbull County,39,155,387,306–489
+Chlamydia,2021,Ohio,Tuscarawas County,39,157,304,209–305
+Chlamydia,2021,Ohio,Union County,39,159,288,209–305
+Chlamydia,2021,Ohio,Van Wert County,39,161,181,1–208
+Chlamydia,2021,Ohio,Vinton County,39,163,165,1–208
+Chlamydia,2021,Ohio,Warren County,39,165,187,1–208
+Chlamydia,2021,Ohio,Washington County,39,167,207,1–208
+Chlamydia,2021,Ohio,Wayne County,39,169,234,209–305
+Chlamydia,2021,Ohio,Williams County,39,171,300,209–305
+Chlamydia,2021,Ohio,Wood County,39,173,324,306–489
+Chlamydia,2021,Ohio,Wyandot County,39,175,230,209–305
+Chlamydia,2021,Oklahoma,Adair County,40,001,551,"490–3,468"
+Chlamydia,2021,Oklahoma,Alfalfa County,40,003,175,1–208
+Chlamydia,2021,Oklahoma,Atoka County,40,005,468,306–489
+Chlamydia,2021,Oklahoma,Beaver County,40,007,261,209–305
+Chlamydia,2021,Oklahoma,Beckham County,40,009,399,306–489
+Chlamydia,2021,Oklahoma,Blaine County,40,011,315,306–489
+Chlamydia,2021,Oklahoma,Bryan County,40,013,518,"490–3,468"
+Chlamydia,2021,Oklahoma,Caddo County,40,015,493,"490–3,468"
+Chlamydia,2021,Oklahoma,Canadian County,40,017,335,306–489
+Chlamydia,2021,Oklahoma,Carter County,40,019,627,"490–3,468"
+Chlamydia,2021,Oklahoma,Cherokee County,40,021,506,"490–3,468"
+Chlamydia,2021,Oklahoma,Choctaw County,40,023,489,306–489
+Chlamydia,2021,Oklahoma,Cimarron County,40,025,267,209–305
+Chlamydia,2021,Oklahoma,Cleveland County,40,027,452,306–489
+Chlamydia,2021,Oklahoma,Coal County,40,029,550,"490–3,468"
+Chlamydia,2021,Oklahoma,Comanche County,40,031,713,"490–3,468"
+Chlamydia,2021,Oklahoma,Cotton County,40,033,365,306–489
+Chlamydia,2021,Oklahoma,Craig County,40,035,375,306–489
+Chlamydia,2021,Oklahoma,Creek County,40,037,358,306–489
+Chlamydia,2021,Oklahoma,Custer County,40,039,547,"490–3,468"
+Chlamydia,2021,Oklahoma,Delaware County,40,041,285,209–305
+Chlamydia,2021,Oklahoma,Dewey County,40,043,226,209–305
+Chlamydia,2021,Oklahoma,Ellis County,40,045,159,1–208
+Chlamydia,2021,Oklahoma,Garfield County,40,047,494,"490–3,468"
+Chlamydia,2021,Oklahoma,Garvin County,40,049,461,306–489
+Chlamydia,2021,Oklahoma,Grady County,40,051,321,306–489
+Chlamydia,2021,Oklahoma,Grant County,40,053,121,1–208
+Chlamydia,2021,Oklahoma,Greer County,40,055,437,306–489
+Chlamydia,2021,Oklahoma,Harmon County,40,057,579,"490–3,468"
+Chlamydia,2021,Oklahoma,Harper County,40,059,283,209–305
+Chlamydia,2021,Oklahoma,Haskell County,40,061,483,306–489
+Chlamydia,2021,Oklahoma,Hughes County,40,063,410,306–489
+Chlamydia,2021,Oklahoma,Jackson County,40,065,662,"490–3,468"
+Chlamydia,2021,Oklahoma,Jefferson County,40,067,423,306–489
+Chlamydia,2021,Oklahoma,Johnston County,40,069,282,209–305
+Chlamydia,2021,Oklahoma,Kay County,40,071,439,306–489
+Chlamydia,2021,Oklahoma,Kingfisher County,40,073,210,209–305
+Chlamydia,2021,Oklahoma,Kiowa County,40,075,357,306–489
+Chlamydia,2021,Oklahoma,Latimer County,40,077,552,"490–3,468"
+Chlamydia,2021,Oklahoma,Le Flore County,40,079,427,306–489
+Chlamydia,2021,Oklahoma,Lincoln County,40,081,307,306–489
+Chlamydia,2021,Oklahoma,Logan County,40,083,338,306–489
+Chlamydia,2021,Oklahoma,Love County,40,085,343,306–489
+Chlamydia,2021,Oklahoma,McClain County,40,087,324,306–489
+Chlamydia,2021,Oklahoma,McCurtain County,40,089,534,"490–3,468"
+Chlamydia,2021,Oklahoma,McIntosh County,40,091,462,306–489
+Chlamydia,2021,Oklahoma,Major County,40,093,156,1–208
+Chlamydia,2021,Oklahoma,Marshall County,40,095,269,209–305
+Chlamydia,2021,Oklahoma,Mayes County,40,097,391,306–489
+Chlamydia,2021,Oklahoma,Murray County,40,099,379,306–489
+Chlamydia,2021,Oklahoma,Muskogee County,40,101,635,"490–3,468"
+Chlamydia,2021,Oklahoma,Noble County,40,103,201,1–208
+Chlamydia,2021,Oklahoma,Nowata County,40,105,376,306–489
+Chlamydia,2021,Oklahoma,Okfuskee County,40,107,438,306–489
+Chlamydia,2021,Oklahoma,Oklahoma County,40,109,682,"490–3,468"
+Chlamydia,2021,Oklahoma,Okmulgee County,40,111,611,"490–3,468"
+Chlamydia,2021,Oklahoma,Osage County,40,113,367,306–489
+Chlamydia,2021,Oklahoma,Ottawa County,40,115,626,"490–3,468"
+Chlamydia,2021,Oklahoma,Pawnee County,40,117,286,209–305
+Chlamydia,2021,Oklahoma,Payne County,40,119,598,"490–3,468"
+Chlamydia,2021,Oklahoma,Pittsburg County,40,121,442,306–489
+Chlamydia,2021,Oklahoma,Pontotoc County,40,123,639,"490–3,468"
+Chlamydia,2021,Oklahoma,Pottawatomie County,40,125,533,"490–3,468"
+Chlamydia,2021,Oklahoma,Pushmataha County,40,127,407,306–489
+Chlamydia,2021,Oklahoma,Roger Mills County,40,129,148,1–208
+Chlamydia,2021,Oklahoma,Rogers County,40,131,315,306–489
+Chlamydia,2021,Oklahoma,Seminole County,40,133,577,"490–3,468"
+Chlamydia,2021,Oklahoma,Sequoyah County,40,135,428,306–489
+Chlamydia,2021,Oklahoma,Stephens County,40,137,429,306–489
+Chlamydia,2021,Oklahoma,Texas County,40,139,403,306–489
+Chlamydia,2021,Oklahoma,Tillman County,40,141,283,209–305
+Chlamydia,2021,Oklahoma,Tulsa County,40,143,604,"490–3,468"
+Chlamydia,2021,Oklahoma,Wagoner County,40,145,303,209–305
+Chlamydia,2021,Oklahoma,Washington County,40,147,332,306–489
+Chlamydia,2021,Oklahoma,Washita County,40,149,247,209–305
+Chlamydia,2021,Oklahoma,Woods County,40,151,571,"490–3,468"
+Chlamydia,2021,Oklahoma,Woodward County,40,153,510,"490–3,468"
+Chlamydia,2021,Oregon,Baker County,41,001,208,1–208
+Chlamydia,2021,Oregon,Benton County,41,003,421,306–489
+Chlamydia,2021,Oregon,Clackamas County,41,005,271,209–305
+Chlamydia,2021,Oregon,Clatsop County,41,007,242,209–305
+Chlamydia,2021,Oregon,Columbia County,41,009,285,209–305
+Chlamydia,2021,Oregon,Coos County,41,011,165,1–208
+Chlamydia,2021,Oregon,Crook County,41,013,288,209–305
+Chlamydia,2021,Oregon,Curry County,41,015,89,1–208
+Chlamydia,2021,Oregon,Deschutes County,41,017,262,209–305
+Chlamydia,2021,Oregon,Douglas County,41,019,202,1–208
+Chlamydia,2021,Oregon,Gilliam County,41,021,150,1–208
+Chlamydia,2021,Oregon,Grant County,41,023,96,1–208
+Chlamydia,2021,Oregon,Harney County,41,025,145,1–208
+Chlamydia,2021,Oregon,Hood River County,41,027,270,209–305
+Chlamydia,2021,Oregon,Jackson County,41,029,308,306–489
+Chlamydia,2021,Oregon,Jefferson County,41,031,626,"490–3,468"
+Chlamydia,2021,Oregon,Josephine County,41,033,251,209–305
+Chlamydia,2021,Oregon,Klamath County,41,035,376,306–489
+Chlamydia,2021,Oregon,Lake County,41,037,157,1–208
+Chlamydia,2021,Oregon,Lane County,41,039,389,306–489
+Chlamydia,2021,Oregon,Lincoln County,41,041,201,1–208
+Chlamydia,2021,Oregon,Linn County,41,043,264,209–305
+Chlamydia,2021,Oregon,Malheur County,41,045,502,"490–3,468"
+Chlamydia,2021,Oregon,Marion County,41,047,487,306–489
+Chlamydia,2021,Oregon,Morrow County,41,049,366,306–489
+Chlamydia,2021,Oregon,Multnomah County,41,051,544,"490–3,468"
+Chlamydia,2021,Oregon,Polk County,41,053,310,306–489
+Chlamydia,2021,Oregon,Sherman County,41,055,210,209–305
+Chlamydia,2021,Oregon,Tillamook County,41,057,213,209–305
+Chlamydia,2021,Oregon,Umatilla County,41,059,393,306–489
+Chlamydia,2021,Oregon,Union County,41,061,324,306–489
+Chlamydia,2021,Oregon,Wallowa County,41,063,146,1–208
+Chlamydia,2021,Oregon,Wasco County,41,065,370,306–489
+Chlamydia,2021,Oregon,Washington County,41,067,341,306–489
+Chlamydia,2021,Oregon,Wheeler County,41,069,0,0
+Chlamydia,2021,Oregon,Yamhill County,41,071,242,209–305
+Chlamydia,2021,Pennsylvania,Adams County,42,001,202,1–208
+Chlamydia,2021,Pennsylvania,Allegheny County,42,003,462,306–489
+Chlamydia,2021,Pennsylvania,Armstrong County,42,005,152,1–208
+Chlamydia,2021,Pennsylvania,Beaver County,42,007,305,209–305
+Chlamydia,2021,Pennsylvania,Bedford County,42,009,152,1–208
+Chlamydia,2021,Pennsylvania,Berks County,42,011,468,306–489
+Chlamydia,2021,Pennsylvania,Blair County,42,013,296,209–305
+Chlamydia,2021,Pennsylvania,Bradford County,42,015,214,209–305
+Chlamydia,2021,Pennsylvania,Bucks County,42,017,214,209–305
+Chlamydia,2021,Pennsylvania,Butler County,42,019,183,1–208
+Chlamydia,2021,Pennsylvania,Cambria County,42,021,242,209–305
+Chlamydia,2021,Pennsylvania,Cameron County,42,023,202,1–208
+Chlamydia,2021,Pennsylvania,Carbon County,42,025,193,1–208
+Chlamydia,2021,Pennsylvania,Centre County,42,027,353,306–489
+Chlamydia,2021,Pennsylvania,Chester County,42,029,203,1–208
+Chlamydia,2021,Pennsylvania,Clarion County,42,031,207,1–208
+Chlamydia,2021,Pennsylvania,Clearfield County,42,033,147,1–208
+Chlamydia,2021,Pennsylvania,Clinton County,42,035,208,1–208
+Chlamydia,2021,Pennsylvania,Columbia County,42,037,328,306–489
+Chlamydia,2021,Pennsylvania,Crawford County,42,039,193,1–208
+Chlamydia,2021,Pennsylvania,Cumberland County,42,041,267,209–305
+Chlamydia,2021,Pennsylvania,Dauphin County,42,043,618,"490–3,468"
+Chlamydia,2021,Pennsylvania,Delaware County,42,045,479,306–489
+Chlamydia,2021,Pennsylvania,Elk County,42,047,175,1–208
+Chlamydia,2021,Pennsylvania,Erie County,42,049,440,306–489
+Chlamydia,2021,Pennsylvania,Fayette County,42,051,334,306–489
+Chlamydia,2021,Pennsylvania,Forest County,42,053,128,1–208
+Chlamydia,2021,Pennsylvania,Franklin County,42,055,324,306–489
+Chlamydia,2021,Pennsylvania,Fulton County,42,057,200,1–208
+Chlamydia,2021,Pennsylvania,Greene County,42,059,99,1–208
+Chlamydia,2021,Pennsylvania,Huntingdon County,42,061,260,209–305
+Chlamydia,2021,Pennsylvania,Indiana County,42,063,302,209–305
+Chlamydia,2021,Pennsylvania,Jefferson County,42,065,150,1–208
+Chlamydia,2021,Pennsylvania,Juniata County,42,067,124,1–208
+Chlamydia,2021,Pennsylvania,Lackawanna County,42,069,270,209–305
+Chlamydia,2021,Pennsylvania,Lancaster County,42,071,247,209–305
+Chlamydia,2021,Pennsylvania,Lawrence County,42,073,351,306–489
+Chlamydia,2021,Pennsylvania,Lebanon County,42,075,289,209–305
+Chlamydia,2021,Pennsylvania,Lehigh County,42,077,467,306–489
+Chlamydia,2021,Pennsylvania,Luzerne County,42,079,392,306–489
+Chlamydia,2021,Pennsylvania,Lycoming County,42,081,380,306–489
+Chlamydia,2021,Pennsylvania,McKean County,42,083,203,1–208
+Chlamydia,2021,Pennsylvania,Mercer County,42,085,368,306–489
+Chlamydia,2021,Pennsylvania,Mifflin County,42,087,204,1–208
+Chlamydia,2021,Pennsylvania,Monroe County,42,089,354,306–489
+Chlamydia,2021,Pennsylvania,Montgomery County,42,091,224,209–305
+Chlamydia,2021,Pennsylvania,Montour County,42,093,249,209–305
+Chlamydia,2021,Pennsylvania,Northampton County,42,095,332,306–489
+Chlamydia,2021,Pennsylvania,Northumberland County,42,097,247,209–305
+Chlamydia,2021,Pennsylvania,Perry County,42,099,120,1–208
+Chlamydia,2021,Pennsylvania,Philadelphia County,42,101,"1,089","490–3,468"
+Chlamydia,2021,Pennsylvania,Pike County,42,103,133,1–208
+Chlamydia,2021,Pennsylvania,Potter County,42,105,111,1–208
+Chlamydia,2021,Pennsylvania,Schuylkill County,42,107,265,209–305
+Chlamydia,2021,Pennsylvania,Snyder County,42,109,111,1–208
+Chlamydia,2021,Pennsylvania,Somerset County,42,111,126,1–208
+Chlamydia,2021,Pennsylvania,Sullivan County,42,113,102,1–208
+Chlamydia,2021,Pennsylvania,Susquehanna County,42,115,122,1–208
+Chlamydia,2021,Pennsylvania,Tioga County,42,117,93,1–208
+Chlamydia,2021,Pennsylvania,Union County,42,119,193,1–208
+Chlamydia,2021,Pennsylvania,Venango County,42,121,270,209–305
+Chlamydia,2021,Pennsylvania,Warren County,42,123,102,1–208
+Chlamydia,2021,Pennsylvania,Washington County,42,125,217,209–305
+Chlamydia,2021,Pennsylvania,Wayne County,42,127,103,1–208
+Chlamydia,2021,Pennsylvania,Westmoreland County,42,129,196,1–208
+Chlamydia,2021,Pennsylvania,Wyoming County,42,131,157,1–208
+Chlamydia,2021,Pennsylvania,York County,42,133,357,306–489
+Chlamydia,2021,Rhode Island,Bristol County,44,001,203,1–208
+Chlamydia,2021,Rhode Island,Kent County,44,003,218,209–305
+Chlamydia,2021,Rhode Island,Newport County,44,005,205,1–208
+Chlamydia,2021,Rhode Island,Providence County,44,007,559,"490–3,468"
+Chlamydia,2021,Rhode Island,Washington County,44,009,244,209–305
+Chlamydia,2021,South Carolina,Abbeville County,45,001,440,306–489
+Chlamydia,2021,South Carolina,Aiken County,45,003,522,"490–3,468"
+Chlamydia,2021,South Carolina,Allendale County,45,005,"1,158","490–3,468"
+Chlamydia,2021,South Carolina,Anderson County,45,007,471,306–489
+Chlamydia,2021,South Carolina,Bamberg County,45,009,902,"490–3,468"
+Chlamydia,2021,South Carolina,Barnwell County,45,011,870,"490–3,468"
+Chlamydia,2021,South Carolina,Beaufort County,45,013,450,306–489
+Chlamydia,2021,South Carolina,Berkeley County,45,015,476,306–489
+Chlamydia,2021,South Carolina,Calhoun County,45,017,501,"490–3,468"
+Chlamydia,2021,South Carolina,Charleston County,45,019,762,"490–3,468"
+Chlamydia,2021,South Carolina,Cherokee County,45,021,646,"490–3,468"
+Chlamydia,2021,South Carolina,Chester County,45,023,798,"490–3,468"
+Chlamydia,2021,South Carolina,Chesterfield County,45,025,744,"490–3,468"
+Chlamydia,2021,South Carolina,Clarendon County,45,027,738,"490–3,468"
+Chlamydia,2021,South Carolina,Colleton County,45,029,660,"490–3,468"
+Chlamydia,2021,South Carolina,Darlington County,45,031,988,"490–3,468"
+Chlamydia,2021,South Carolina,Dillon County,45,033,"1,171","490–3,468"
+Chlamydia,2021,South Carolina,Dorchester County,45,035,732,"490–3,468"
+Chlamydia,2021,South Carolina,Edgefield County,45,037,512,"490–3,468"
+Chlamydia,2021,South Carolina,Fairfield County,45,039,846,"490–3,468"
+Chlamydia,2021,South Carolina,Florence County,45,041,907,"490–3,468"
+Chlamydia,2021,South Carolina,Georgetown County,45,043,460,306–489
+Chlamydia,2021,South Carolina,Greenville County,45,045,644,"490–3,468"
+Chlamydia,2021,South Carolina,Greenwood County,45,047,799,"490–3,468"
+Chlamydia,2021,South Carolina,Hampton County,45,049,930,"490–3,468"
+Chlamydia,2021,South Carolina,Horry County,45,051,540,"490–3,468"
+Chlamydia,2021,South Carolina,Jasper County,45,053,660,"490–3,468"
+Chlamydia,2021,South Carolina,Kershaw County,45,055,576,"490–3,468"
+Chlamydia,2021,South Carolina,Lancaster County,45,057,463,306–489
+Chlamydia,2021,South Carolina,Laurens County,45,059,693,"490–3,468"
+Chlamydia,2021,South Carolina,Lee County,45,061,"1,014","490–3,468"
+Chlamydia,2021,South Carolina,Lexington County,45,063,516,"490–3,468"
+Chlamydia,2021,South Carolina,McCormick County,45,065,348,306–489
+Chlamydia,2021,South Carolina,Marion County,45,067,"1,046","490–3,468"
+Chlamydia,2021,South Carolina,Marlboro County,45,069,"1,004","490–3,468"
+Chlamydia,2021,South Carolina,Newberry County,45,071,929,"490–3,468"
+Chlamydia,2021,South Carolina,Oconee County,45,073,511,"490–3,468"
+Chlamydia,2021,South Carolina,Orangeburg County,45,075,"1,173","490–3,468"
+Chlamydia,2021,South Carolina,Pickens County,45,077,566,"490–3,468"
+Chlamydia,2021,South Carolina,Richland County,45,079,"1,344","490–3,468"
+Chlamydia,2021,South Carolina,Saluda County,45,081,430,306–489
+Chlamydia,2021,South Carolina,Spartanburg County,45,083,547,"490–3,468"
+Chlamydia,2021,South Carolina,Sumter County,45,085,"1,020","490–3,468"
+Chlamydia,2021,South Carolina,Union County,45,087,737,"490–3,468"
+Chlamydia,2021,South Carolina,Williamsburg County,45,089,"1,161","490–3,468"
+Chlamydia,2021,South Carolina,York County,45,091,534,"490–3,468"
+Chlamydia,2021,South Dakota,Aurora County,46,003,218,209–305
+Chlamydia,2021,South Dakota,Beadle County,46,005,277,209–305
+Chlamydia,2021,South Dakota,Bennett County,46,007,"1,204","490–3,468"
+Chlamydia,2021,South Dakota,Bon Homme County,46,009,200,1–208
+Chlamydia,2021,South Dakota,Brookings County,46,011,514,"490–3,468"
+Chlamydia,2021,South Dakota,Brown County,46,013,365,306–489
+Chlamydia,2021,South Dakota,Brule County,46,015,458,306–489
+Chlamydia,2021,South Dakota,Buffalo County,46,017,"1,768","490–3,468"
+Chlamydia,2021,South Dakota,Butte County,46,019,316,306–489
+Chlamydia,2021,South Dakota,Campbell County,46,021,72,1–208
+Chlamydia,2021,South Dakota,Charles Mix County,46,023,851,"490–3,468"
+Chlamydia,2021,South Dakota,Clark County,46,025,78,1–208
+Chlamydia,2021,South Dakota,Clay County,46,027,568,"490–3,468"
+Chlamydia,2021,South Dakota,Codington County,46,029,320,306–489
+Chlamydia,2021,South Dakota,Corson County,46,031,"1,007","490–3,468"
+Chlamydia,2021,South Dakota,Custer County,46,033,93,1–208
+Chlamydia,2021,South Dakota,Davison County,46,035,402,306–489
+Chlamydia,2021,South Dakota,Day County,46,037,166,1–208
+Chlamydia,2021,South Dakota,Deuel County,46,039,164,1–208
+Chlamydia,2021,South Dakota,Dewey County,46,041,"2,097","490–3,468"
+Chlamydia,2021,South Dakota,Douglas County,46,043,142,1–208
+Chlamydia,2021,South Dakota,Edmunds County,46,045,124,1–208
+Chlamydia,2021,South Dakota,Fall River County,46,047,375,306–489
+Chlamydia,2021,South Dakota,Faulk County,46,049,94,1–208
+Chlamydia,2021,South Dakota,Grant County,46,051,106,1–208
+Chlamydia,2021,South Dakota,Gregory County,46,053,126,1–208
+Chlamydia,2021,South Dakota,Haakon County,46,055,381,306–489
+Chlamydia,2021,South Dakota,Hamlin County,46,057,96,1–208
+Chlamydia,2021,South Dakota,Hand County,46,059,194,1–208
+Chlamydia,2021,South Dakota,Hanson County,46,061,257,209–305
+Chlamydia,2021,South Dakota,Harding County,46,063,75,1–208
+Chlamydia,2021,South Dakota,Hughes County,46,065,333,306–489
+Chlamydia,2021,South Dakota,Hutchinson County,46,067,108,1–208
+Chlamydia,2021,South Dakota,Hyde County,46,069,81,1–208
+Chlamydia,2021,South Dakota,Jackson County,46,071,"1,216","490–3,468"
+Chlamydia,2021,South Dakota,Jerauld County,46,073,61,1–208
+Chlamydia,2021,South Dakota,Jones County,46,075,228,209–305
+Chlamydia,2021,South Dakota,Kingsbury County,46,077,193,1–208
+Chlamydia,2021,South Dakota,Lake County,46,079,221,209–305
+Chlamydia,2021,South Dakota,Lawrence County,46,081,359,306–489
+Chlamydia,2021,South Dakota,Lincoln County,46,083,268,209–305
+Chlamydia,2021,South Dakota,Lyman County,46,085,770,"490–3,468"
+Chlamydia,2021,South Dakota,McCook County,46,087,263,209–305
+Chlamydia,2021,South Dakota,McPherson County,46,089,83,1–208
+Chlamydia,2021,South Dakota,Marshall County,46,091,232,209–305
+Chlamydia,2021,South Dakota,Meade County,46,093,351,306–489
+Chlamydia,2021,South Dakota,Mellette County,46,095,"1,363","490–3,468"
+Chlamydia,2021,South Dakota,Miner County,46,097,173,1–208
+Chlamydia,2021,South Dakota,Minnehaha County,46,099,627,"490–3,468"
+Chlamydia,2021,South Dakota,Moody County,46,101,443,306–489
+Chlamydia,2021,South Dakota,Oglala Lakota County,46,102,"2,252","490–3,468"
+Chlamydia,2021,South Dakota,Pennington County,46,103,794,"490–3,468"
+Chlamydia,2021,South Dakota,Perkins County,46,105,142,1–208
+Chlamydia,2021,South Dakota,Potter County,46,107,202,1–208
+Chlamydia,2021,South Dakota,Roberts County,46,109,699,"490–3,468"
+Chlamydia,2021,South Dakota,Sanborn County,46,111,210,209–305
+Chlamydia,2021,South Dakota,Spink County,46,115,16,1–208
+Chlamydia,2021,South Dakota,Stanley County,46,117,396,306–489
+Chlamydia,2021,South Dakota,Sully County,46,119,0,0
+Chlamydia,2021,South Dakota,Todd County,46,121,"3,468","490–3,468"
+Chlamydia,2021,South Dakota,Tripp County,46,123,611,"490–3,468"
+Chlamydia,2021,South Dakota,Turner County,46,125,264,209–305
+Chlamydia,2021,South Dakota,Union County,46,127,202,1–208
+Chlamydia,2021,South Dakota,Walworth County,46,129,534,"490–3,468"
+Chlamydia,2021,South Dakota,Yankton County,46,135,399,306–489
+Chlamydia,2021,South Dakota,Ziebach County,46,137,"1,008","490–3,468"
+Chlamydia,2021,Tennessee,Anderson County,47,001,277,209–305
+Chlamydia,2021,Tennessee,Bedford County,47,003,458,306–489
+Chlamydia,2021,Tennessee,Benton County,47,005,233,209–305
+Chlamydia,2021,Tennessee,Bledsoe County,47,007,880,"490–3,468"
+Chlamydia,2021,Tennessee,Blount County,47,009,305,209–305
+Chlamydia,2021,Tennessee,Bradley County,47,011,436,306–489
+Chlamydia,2021,Tennessee,Campbell County,47,013,293,209–305
+Chlamydia,2021,Tennessee,Cannon County,47,015,385,306–489
+Chlamydia,2021,Tennessee,Carroll County,47,017,503,"490–3,468"
+Chlamydia,2021,Tennessee,Carter County,47,019,299,209–305
+Chlamydia,2021,Tennessee,Cheatham County,47,021,267,209–305
+Chlamydia,2021,Tennessee,Chester County,47,023,337,306–489
+Chlamydia,2021,Tennessee,Claiborne County,47,025,195,1–208
+Chlamydia,2021,Tennessee,Clay County,47,027,304,209–305
+Chlamydia,2021,Tennessee,Cocke County,47,029,280,209–305
+Chlamydia,2021,Tennessee,Coffee County,47,031,322,306–489
+Chlamydia,2021,Tennessee,Crockett County,47,033,544,"490–3,468"
+Chlamydia,2021,Tennessee,Cumberland County,47,035,269,209–305
+Chlamydia,2021,Tennessee,Davidson County,47,037,866,"490–3,468"
+Chlamydia,2021,Tennessee,Decatur County,47,039,272,209–305
+Chlamydia,2021,Tennessee,DeKalb County,47,041,269,209–305
+Chlamydia,2021,Tennessee,Dickson County,47,043,329,306–489
+Chlamydia,2021,Tennessee,Dyer County,47,045,792,"490–3,468"
+Chlamydia,2021,Tennessee,Fayette County,47,047,474,306–489
+Chlamydia,2021,Tennessee,Fentress County,47,049,218,209–305
+Chlamydia,2021,Tennessee,Franklin County,47,051,294,209–305
+Chlamydia,2021,Tennessee,Gibson County,47,053,544,"490–3,468"
+Chlamydia,2021,Tennessee,Giles County,47,055,409,306–489
+Chlamydia,2021,Tennessee,Grainger County,47,057,198,1–208
+Chlamydia,2021,Tennessee,Greene County,47,059,286,209–305
+Chlamydia,2021,Tennessee,Grundy County,47,061,250,209–305
+Chlamydia,2021,Tennessee,Hamblen County,47,063,354,306–489
+Chlamydia,2021,Tennessee,Hamilton County,47,065,604,"490–3,468"
+Chlamydia,2021,Tennessee,Hancock County,47,067,295,209–305
+Chlamydia,2021,Tennessee,Hardeman County,47,069,893,"490–3,468"
+Chlamydia,2021,Tennessee,Hardin County,47,071,283,209–305
+Chlamydia,2021,Tennessee,Hawkins County,47,073,244,209–305
+Chlamydia,2021,Tennessee,Haywood County,47,075,803,"490–3,468"
+Chlamydia,2021,Tennessee,Henderson County,47,077,429,306–489
+Chlamydia,2021,Tennessee,Henry County,47,079,363,306–489
+Chlamydia,2021,Tennessee,Hickman County,47,081,288,209–305
+Chlamydia,2021,Tennessee,Houston County,47,083,325,306–489
+Chlamydia,2021,Tennessee,Humphreys County,47,085,167,1–208
+Chlamydia,2021,Tennessee,Jackson County,47,087,247,209–305
+Chlamydia,2021,Tennessee,Jefferson County,47,089,255,209–305
+Chlamydia,2021,Tennessee,Johnson County,47,091,182,1–208
+Chlamydia,2021,Tennessee,Knox County,47,093,544,"490–3,468"
+Chlamydia,2021,Tennessee,Lake County,47,095,842,"490–3,468"
+Chlamydia,2021,Tennessee,Lauderdale County,47,097,"1,020","490–3,468"
+Chlamydia,2021,Tennessee,Lawrence County,47,099,348,306–489
+Chlamydia,2021,Tennessee,Lewis County,47,101,350,306–489
+Chlamydia,2021,Tennessee,Lincoln County,47,103,310,306–489
+Chlamydia,2021,Tennessee,Loudon County,47,105,245,209–305
+Chlamydia,2021,Tennessee,McMinn County,47,107,359,306–489
+Chlamydia,2021,Tennessee,McNairy County,47,109,363,306–489
+Chlamydia,2021,Tennessee,Macon County,47,111,300,209–305
+Chlamydia,2021,Tennessee,Madison County,47,113,871,"490–3,468"
+Chlamydia,2021,Tennessee,Marion County,47,115,339,306–489
+Chlamydia,2021,Tennessee,Marshall County,47,117,394,306–489
+Chlamydia,2021,Tennessee,Maury County,47,119,466,306–489
+Chlamydia,2021,Tennessee,Meigs County,47,121,337,306–489
+Chlamydia,2021,Tennessee,Monroe County,47,123,323,306–489
+Chlamydia,2021,Tennessee,Montgomery County,47,125,"1,039","490–3,468"
+Chlamydia,2021,Tennessee,Moore County,47,127,226,209–305
+Chlamydia,2021,Tennessee,Morgan County,47,129,259,209–305
+Chlamydia,2021,Tennessee,Obion County,47,131,538,"490–3,468"
+Chlamydia,2021,Tennessee,Overton County,47,133,206,1–208
+Chlamydia,2021,Tennessee,Perry County,47,135,165,1–208
+Chlamydia,2021,Tennessee,Pickett County,47,137,138,1–208
+Chlamydia,2021,Tennessee,Polk County,47,139,259,209–305
+Chlamydia,2021,Tennessee,Putnam County,47,141,366,306–489
+Chlamydia,2021,Tennessee,Rhea County,47,143,296,209–305
+Chlamydia,2021,Tennessee,Roane County,47,145,267,209–305
+Chlamydia,2021,Tennessee,Robertson County,47,147,328,306–489
+Chlamydia,2021,Tennessee,Rutherford County,47,149,579,"490–3,468"
+Chlamydia,2021,Tennessee,Scott County,47,151,256,209–305
+Chlamydia,2021,Tennessee,Sequatchie County,47,153,189,1–208
+Chlamydia,2021,Tennessee,Sevier County,47,155,360,306–489
+Chlamydia,2021,Tennessee,Shelby County,47,157,"1,071","490–3,468"
+Chlamydia,2021,Tennessee,Smith County,47,159,292,209–305
+Chlamydia,2021,Tennessee,Stewart County,47,161,195,1–208
+Chlamydia,2021,Tennessee,Sullivan County,47,163,303,209–305
+Chlamydia,2021,Tennessee,Sumner County,47,165,350,306–489
+Chlamydia,2021,Tennessee,Tipton County,47,167,461,306–489
+Chlamydia,2021,Tennessee,Trousdale County,47,169,266,209–305
+Chlamydia,2021,Tennessee,Unicoi County,47,171,328,306–489
+Chlamydia,2021,Tennessee,Union County,47,173,279,209–305
+Chlamydia,2021,Tennessee,Van Buren County,47,175,158,1–208
+Chlamydia,2021,Tennessee,Warren County,47,177,330,306–489
+Chlamydia,2021,Tennessee,Washington County,47,179,413,306–489
+Chlamydia,2021,Tennessee,Wayne County,47,181,317,306–489
+Chlamydia,2021,Tennessee,Weakley County,47,183,548,"490–3,468"
+Chlamydia,2021,Tennessee,White County,47,185,282,209–305
+Chlamydia,2021,Tennessee,Williamson County,47,187,183,1–208
+Chlamydia,2021,Tennessee,Wilson County,47,189,309,306–489
+Chlamydia,2021,Texas,Anderson County,48,001,372,306–489
+Chlamydia,2021,Texas,Andrews County,48,003,315,306–489
+Chlamydia,2021,Texas,Angelina County,48,005,504,"490–3,468"
+Chlamydia,2021,Texas,Aransas County,48,007,282,209–305
+Chlamydia,2021,Texas,Archer County,48,009,173,1–208
+Chlamydia,2021,Texas,Armstrong County,48,011,381,306–489
+Chlamydia,2021,Texas,Atascosa County,48,013,429,306–489
+Chlamydia,2021,Texas,Austin County,48,015,293,209–305
+Chlamydia,2021,Texas,Bailey County,48,017,307,306–489
+Chlamydia,2021,Texas,Bandera County,48,019,190,1–208
+Chlamydia,2021,Texas,Bastrop County,48,021,425,306–489
+Chlamydia,2021,Texas,Baylor County,48,023,173,1–208
+Chlamydia,2021,Texas,Bee County,48,025,569,"490–3,468"
+Chlamydia,2021,Texas,Bell County,48,027,811,"490–3,468"
+Chlamydia,2021,Texas,Bexar County,48,029,692,"490–3,468"
+Chlamydia,2021,Texas,Blanco County,48,031,143,1–208
+Chlamydia,2021,Texas,Borden County,48,033,162,1–208
+Chlamydia,2021,Texas,Bosque County,48,035,313,306–489
+Chlamydia,2021,Texas,Bowie County,48,037,616,"490–3,468"
+Chlamydia,2021,Texas,Brazoria County,48,039,384,306–489
+Chlamydia,2021,Texas,Brazos County,48,041,656,"490–3,468"
+Chlamydia,2021,Texas,Brewster County,48,043,317,306–489
+Chlamydia,2021,Texas,Briscoe County,48,045,71,1–208
+Chlamydia,2021,Texas,Brooks County,48,047,586,"490–3,468"
+Chlamydia,2021,Texas,Brown County,48,049,403,306–489
+Chlamydia,2021,Texas,Burleson County,48,051,283,209–305
+Chlamydia,2021,Texas,Burnet County,48,053,237,209–305
+Chlamydia,2021,Texas,Caldwell County,48,055,438,306–489
+Chlamydia,2021,Texas,Calhoun County,48,057,406,306–489
+Chlamydia,2021,Texas,Callahan County,48,059,163,1–208
+Chlamydia,2021,Texas,Cameron County,48,061,549,"490–3,468"
+Chlamydia,2021,Texas,Camp County,48,063,547,"490–3,468"
+Chlamydia,2021,Texas,Carson County,48,065,244,209–305
+Chlamydia,2021,Texas,Cass County,48,067,389,306–489
+Chlamydia,2021,Texas,Castro County,48,069,122,1–208
+Chlamydia,2021,Texas,Chambers County,48,071,182,1–208
+Chlamydia,2021,Texas,Cherokee County,48,073,478,306–489
+Chlamydia,2021,Texas,Childress County,48,075,356,306–489
+Chlamydia,2021,Texas,Clay County,48,077,156,1–208
+Chlamydia,2021,Texas,Cochran County,48,079,199,1–208
+Chlamydia,2021,Texas,Coke County,48,081,271,209–305
+Chlamydia,2021,Texas,Coleman County,48,083,297,209–305
+Chlamydia,2021,Texas,Collin County,48,085,243,209–305
+Chlamydia,2021,Texas,Collingsworth County,48,087,344,306–489
+Chlamydia,2021,Texas,Colorado County,48,089,330,306–489
+Chlamydia,2021,Texas,Comal County,48,091,263,209–305
+Chlamydia,2021,Texas,Comanche County,48,093,174,1–208
+Chlamydia,2021,Texas,Concho County,48,095,299,209–305
+Chlamydia,2021,Texas,Cooke County,48,097,289,209–305
+Chlamydia,2021,Texas,Coryell County,48,099,419,306–489
+Chlamydia,2021,Texas,Cottle County,48,101,217,209–305
+Chlamydia,2021,Texas,Crane County,48,103,342,306–489
+Chlamydia,2021,Texas,Crockett County,48,105,326,306–489
+Chlamydia,2021,Texas,Crosby County,48,107,353,306–489
+Chlamydia,2021,Texas,Culberson County,48,109,456,306–489
+Chlamydia,2021,Texas,Dallam County,48,111,460,306–489
+Chlamydia,2021,Texas,Dallas County,48,113,838,"490–3,468"
+Chlamydia,2021,Texas,Dawson County,48,115,499,"490–3,468"
+Chlamydia,2021,Texas,Deaf Smith County,48,117,496,"490–3,468"
+Chlamydia,2021,Texas,Delta County,48,119,334,306–489
+Chlamydia,2021,Texas,Denton County,48,121,272,209–305
+Chlamydia,2021,Texas,DeWitt County,48,123,231,209–305
+Chlamydia,2021,Texas,Dickens County,48,125,230,209–305
+Chlamydia,2021,Texas,Dimmit County,48,127,"2,042","490–3,468"
+Chlamydia,2021,Texas,Donley County,48,129,245,209–305
+Chlamydia,2021,Texas,Duval County,48,131,656,"490–3,468"
+Chlamydia,2021,Texas,Eastland County,48,133,230,209–305
+Chlamydia,2021,Texas,Ector County,48,135,597,"490–3,468"
+Chlamydia,2021,Texas,Edwards County,48,137,139,1–208
+Chlamydia,2021,Texas,Ellis County,48,139,371,306–489
+Chlamydia,2021,Texas,El Paso County,48,141,420,306–489
+Chlamydia,2021,Texas,Erath County,48,143,556,"490–3,468"
+Chlamydia,2021,Texas,Falls County,48,145,399,306–489
+Chlamydia,2021,Texas,Fannin County,48,147,178,1–208
+Chlamydia,2021,Texas,Fayette County,48,149,198,1–208
+Chlamydia,2021,Texas,Fisher County,48,151,162,1–208
+Chlamydia,2021,Texas,Floyd County,48,153,336,306–489
+Chlamydia,2021,Texas,Foard County,48,155,93,1–208
+Chlamydia,2021,Texas,Fort Bend County,48,157,261,209–305
+Chlamydia,2021,Texas,Franklin County,48,159,191,1–208
+Chlamydia,2021,Texas,Freestone County,48,161,248,209–305
+Chlamydia,2021,Texas,Frio County,48,163,917,"490–3,468"
+Chlamydia,2021,Texas,Gaines County,48,165,215,209–305
+Chlamydia,2021,Texas,Galveston County,48,167,406,306–489
+Chlamydia,2021,Texas,Garza County,48,169,324,306–489
+Chlamydia,2021,Texas,Gillespie County,48,171,183,1–208
+Chlamydia,2021,Texas,Glasscock County,48,173,0,0
+Chlamydia,2021,Texas,Goliad County,48,175,112,1–208
+Chlamydia,2021,Texas,Gonzales County,48,177,540,"490–3,468"
+Chlamydia,2021,Texas,Gray County,48,179,257,209–305
+Chlamydia,2021,Texas,Grayson County,48,181,300,209–305
+Chlamydia,2021,Texas,Gregg County,48,183,726,"490–3,468"
+Chlamydia,2021,Texas,Grimes County,48,185,403,306–489
+Chlamydia,2021,Texas,Guadalupe County,48,187,322,306–489
+Chlamydia,2021,Texas,Hale County,48,189,528,"490–3,468"
+Chlamydia,2021,Texas,Hall County,48,191,457,306–489
+Chlamydia,2021,Texas,Hamilton County,48,193,158,1–208
+Chlamydia,2021,Texas,Hansford County,48,195,78,1–208
+Chlamydia,2021,Texas,Hardeman County,48,197,141,1–208
+Chlamydia,2021,Texas,Hardin County,48,199,179,1–208
+Chlamydia,2021,Texas,Harris County,48,201,620,"490–3,468"
+Chlamydia,2021,Texas,Harrison County,48,203,395,306–489
+Chlamydia,2021,Texas,Hartley County,48,205,37,1–208
+Chlamydia,2021,Texas,Haskell County,48,207,148,1–208
+Chlamydia,2021,Texas,Hays County,48,209,434,306–489
+Chlamydia,2021,Texas,Hemphill County,48,211,306,306–489
+Chlamydia,2021,Texas,Henderson County,48,213,329,306–489
+Chlamydia,2021,Texas,Hidalgo County,48,215,412,306–489
+Chlamydia,2021,Texas,Hill County,48,217,217,209–305
+Chlamydia,2021,Texas,Hockley County,48,219,515,"490–3,468"
+Chlamydia,2021,Texas,Hood County,48,221,171,1–208
+Chlamydia,2021,Texas,Hopkins County,48,223,390,306–489
+Chlamydia,2021,Texas,Houston County,48,225,373,306–489
+Chlamydia,2021,Texas,Howard County,48,227,343,306–489
+Chlamydia,2021,Texas,Hudspeth County,48,229,243,209–305
+Chlamydia,2021,Texas,Hunt County,48,231,309,306–489
+Chlamydia,2021,Texas,Hutchinson County,48,233,351,306–489
+Chlamydia,2021,Texas,Irion County,48,235,129,1–208
+Chlamydia,2021,Texas,Jack County,48,237,207,1–208
+Chlamydia,2021,Texas,Jackson County,48,239,284,209–305
+Chlamydia,2021,Texas,Jasper County,48,241,340,306–489
+Chlamydia,2021,Texas,Jeff Davis County,48,243,154,1–208
+Chlamydia,2021,Texas,Jefferson County,48,245,591,"490–3,468"
+Chlamydia,2021,Texas,Jim Hogg County,48,247,250,209–305
+Chlamydia,2021,Texas,Jim Wells County,48,249,515,"490–3,468"
+Chlamydia,2021,Texas,Johnson County,48,251,229,209–305
+Chlamydia,2021,Texas,Jones County,48,253,161,1–208
+Chlamydia,2021,Texas,Karnes County,48,255,400,306–489
+Chlamydia,2021,Texas,Kaufman County,48,257,375,306–489
+Chlamydia,2021,Texas,Kendall County,48,259,314,306–489
+Chlamydia,2021,Texas,Kenedy County,48,261,588,"490–3,468"
+Chlamydia,2021,Texas,Kent County,48,263,401,306–489
+Chlamydia,2021,Texas,Kerr County,48,265,205,1–208
+Chlamydia,2021,Texas,Kimble County,48,267,504,"490–3,468"
+Chlamydia,2021,Texas,King County,48,269,388,306–489
+Chlamydia,2021,Texas,Kinney County,48,271,192,1–208
+Chlamydia,2021,Texas,Kleberg County,48,273,881,"490–3,468"
+Chlamydia,2021,Texas,Knox County,48,275,239,209–305
+Chlamydia,2021,Texas,Lamar County,48,277,531,"490–3,468"
+Chlamydia,2021,Texas,Lamb County,48,279,341,306–489
+Chlamydia,2021,Texas,Lampasas County,48,281,315,306–489
+Chlamydia,2021,Texas,La Salle County,48,283,495,"490–3,468"
+Chlamydia,2021,Texas,Lavaca County,48,285,302,209–305
+Chlamydia,2021,Texas,Lee County,48,287,390,306–489
+Chlamydia,2021,Texas,Leon County,48,289,295,209–305
+Chlamydia,2021,Texas,Liberty County,48,291,380,306–489
+Chlamydia,2021,Texas,Limestone County,48,293,470,306–489
+Chlamydia,2021,Texas,Lipscomb County,48,295,68,1–208
+Chlamydia,2021,Texas,Live Oak County,48,297,202,1–208
+Chlamydia,2021,Texas,Llano County,48,299,196,1–208
+Chlamydia,2021,Texas,Loving County,48,301,"1,754","490–3,468"
+Chlamydia,2021,Texas,Lubbock County,48,303,780,"490–3,468"
+Chlamydia,2021,Texas,Lynn County,48,305,352,306–489
+Chlamydia,2021,Texas,McCulloch County,48,307,292,209–305
+Chlamydia,2021,Texas,McLennan County,48,309,633,"490–3,468"
+Chlamydia,2021,Texas,McMullen County,48,311,164,1–208
+Chlamydia,2021,Texas,Madison County,48,313,386,306–489
+Chlamydia,2021,Texas,Marion County,48,315,280,209–305
+Chlamydia,2021,Texas,Martin County,48,317,249,209–305
+Chlamydia,2021,Texas,Mason County,48,319,76,1–208
+Chlamydia,2021,Texas,Matagorda County,48,321,396,306–489
+Chlamydia,2021,Texas,Maverick County,48,323,355,306–489
+Chlamydia,2021,Texas,Medina County,48,325,187,1–208
+Chlamydia,2021,Texas,Menard County,48,327,303,209–305
+Chlamydia,2021,Texas,Midland County,48,329,505,"490–3,468"
+Chlamydia,2021,Texas,Milam County,48,331,303,209–305
+Chlamydia,2021,Texas,Mills County,48,333,223,209–305
+Chlamydia,2021,Texas,Mitchell County,48,335,276,209–305
+Chlamydia,2021,Texas,Montague County,48,337,220,209–305
+Chlamydia,2021,Texas,Montgomery County,48,339,221,209–305
+Chlamydia,2021,Texas,Moore County,48,341,521,"490–3,468"
+Chlamydia,2021,Texas,Morris County,48,343,524,"490–3,468"
+Chlamydia,2021,Texas,Motley County,48,345,94,1–208
+Chlamydia,2021,Texas,Nacogdoches County,48,347,668,"490–3,468"
+Chlamydia,2021,Texas,Navarro County,48,349,397,306–489
+Chlamydia,2021,Texas,Newton County,48,351,294,209–305
+Chlamydia,2021,Texas,Nolan County,48,353,596,"490–3,468"
+Chlamydia,2021,Texas,Nueces County,48,355,745,"490–3,468"
+Chlamydia,2021,Texas,Ochiltree County,48,357,256,209–305
+Chlamydia,2021,Texas,Oldham County,48,359,116,1–208
+Chlamydia,2021,Texas,Orange County,48,361,313,306–489
+Chlamydia,2021,Texas,Palo Pinto County,48,363,328,306–489
+Chlamydia,2021,Texas,Panola County,48,365,331,306–489
+Chlamydia,2021,Texas,Parker County,48,367,133,1–208
+Chlamydia,2021,Texas,Parmer County,48,369,245,209–305
+Chlamydia,2021,Texas,Pecos County,48,371,556,"490–3,468"
+Chlamydia,2021,Texas,Polk County,48,373,256,209–305
+Chlamydia,2021,Texas,Potter County,48,375,"1,227","490–3,468"
+Chlamydia,2021,Texas,Presidio County,48,377,326,306–489
+Chlamydia,2021,Texas,Rains County,48,379,144,1–208
+Chlamydia,2021,Texas,Randall County,48,381,111,1–208
+Chlamydia,2021,Texas,Reagan County,48,383,707,"490–3,468"
+Chlamydia,2021,Texas,Real County,48,385,35,1–208
+Chlamydia,2021,Texas,Red River County,48,387,286,209–305
+Chlamydia,2021,Texas,Reeves County,48,389,"1,029","490–3,468"
+Chlamydia,2021,Texas,Refugio County,48,391,355,306–489
+Chlamydia,2021,Texas,Roberts County,48,393,125,1–208
+Chlamydia,2021,Texas,Robertson County,48,395,584,"490–3,468"
+Chlamydia,2021,Texas,Rockwall County,48,397,244,209–305
+Chlamydia,2021,Texas,Runnels County,48,399,493,"490–3,468"
+Chlamydia,2021,Texas,Rusk County,48,401,368,306–489
+Chlamydia,2021,Texas,Sabine County,48,403,329,306–489
+Chlamydia,2021,Texas,San Augustine County,48,405,467,306–489
+Chlamydia,2021,Texas,San Jacinto County,48,407,154,1–208
+Chlamydia,2021,Texas,San Patricio County,48,409,521,"490–3,468"
+Chlamydia,2021,Texas,San Saba County,48,411,292,209–305
+Chlamydia,2021,Texas,Schleicher County,48,413,329,306–489
+Chlamydia,2021,Texas,Scurry County,48,415,428,306–489
+Chlamydia,2021,Texas,Shackelford County,48,417,342,306–489
+Chlamydia,2021,Texas,Shelby County,48,419,518,"490–3,468"
+Chlamydia,2021,Texas,Sherman County,48,421,143,1–208
+Chlamydia,2021,Texas,Smith County,48,423,541,"490–3,468"
+Chlamydia,2021,Texas,Somervell County,48,425,106,1–208
+Chlamydia,2021,Texas,Starr County,48,427,244,209–305
+Chlamydia,2021,Texas,Stephens County,48,429,273,209–305
+Chlamydia,2021,Texas,Sterling County,48,431,362,306–489
+Chlamydia,2021,Texas,Stonewall County,48,433,82,1–208
+Chlamydia,2021,Texas,Sutton County,48,435,331,306–489
+Chlamydia,2021,Texas,Swisher County,48,437,314,306–489
+Chlamydia,2021,Texas,Tarrant County,48,439,420,306–489
+Chlamydia,2021,Texas,Taylor County,48,441,497,"490–3,468"
+Chlamydia,2021,Texas,Terrell County,48,443,691,"490–3,468"
+Chlamydia,2021,Texas,Terry County,48,445,408,306–489
+Chlamydia,2021,Texas,Throckmorton County,48,447,134,1–208
+Chlamydia,2021,Texas,Titus County,48,449,507,"490–3,468"
+Chlamydia,2021,Texas,Tom Green County,48,451,556,"490–3,468"
+Chlamydia,2021,Texas,Travis County,48,453,662,"490–3,468"
+Chlamydia,2021,Texas,Trinity County,48,455,239,209–305
+Chlamydia,2021,Texas,Tyler County,48,457,209,209–305
+Chlamydia,2021,Texas,Upshur County,48,459,273,209–305
+Chlamydia,2021,Texas,Upton County,48,461,184,1–208
+Chlamydia,2021,Texas,Uvalde County,48,463,586,"490–3,468"
+Chlamydia,2021,Texas,Val Verde County,48,465,448,306–489
+Chlamydia,2021,Texas,Van Zandt County,48,467,225,209–305
+Chlamydia,2021,Texas,Victoria County,48,469,528,"490–3,468"
+Chlamydia,2021,Texas,Walker County,48,471,594,"490–3,468"
+Chlamydia,2021,Texas,Waller County,48,473,458,306–489
+Chlamydia,2021,Texas,Ward County,48,475,375,306–489
+Chlamydia,2021,Texas,Washington County,48,477,468,306–489
+Chlamydia,2021,Texas,Webb County,48,479,483,306–489
+Chlamydia,2021,Texas,Wharton County,48,481,386,306–489
+Chlamydia,2021,Texas,Wheeler County,48,483,183,1–208
+Chlamydia,2021,Texas,Wichita County,48,485,486,306–489
+Chlamydia,2021,Texas,Wilbarger County,48,487,401,306–489
+Chlamydia,2021,Texas,Willacy County,48,489,551,"490–3,468"
+Chlamydia,2021,Texas,Williamson County,48,491,265,209–305
+Chlamydia,2021,Texas,Wilson County,48,493,219,209–305
+Chlamydia,2021,Texas,Winkler County,48,495,351,306–489
+Chlamydia,2021,Texas,Wise County,48,497,169,1–208
+Chlamydia,2021,Texas,Wood County,48,499,264,209–305
+Chlamydia,2021,Texas,Yoakum County,48,501,302,209–305
+Chlamydia,2021,Texas,Young County,48,503,167,1–208
+Chlamydia,2021,Texas,Zapata County,48,505,324,306–489
+Chlamydia,2021,Texas,Zavala County,48,507,503,"490–3,468"
+Chlamydia,2021,Utah,Beaver County,49,001,97,1–208
+Chlamydia,2021,Utah,Box Elder County,49,003,189,1–208
+Chlamydia,2021,Utah,Cache County,49,005,227,209–305
+Chlamydia,2021,Utah,Carbon County,49,007,241,209–305
+Chlamydia,2021,Utah,Daggett County,49,009,0,0
+Chlamydia,2021,Utah,Davis County,49,011,262,209–305
+Chlamydia,2021,Utah,Duchesne County,49,013,263,209–305
+Chlamydia,2021,Utah,Emery County,49,015,140,1–208
+Chlamydia,2021,Utah,Garfield County,49,017,195,1–208
+Chlamydia,2021,Utah,Grand County,49,019,186,1–208
+Chlamydia,2021,Utah,Iron County,49,021,245,209–305
+Chlamydia,2021,Utah,Juab County,49,023,132,1–208
+Chlamydia,2021,Utah,Kane County,49,025,88,1–208
+Chlamydia,2021,Utah,Millard County,49,027,220,209–305
+Chlamydia,2021,Utah,Morgan County,49,029,79,1–208
+Chlamydia,2021,Utah,Piute County,49,031,0,0
+Chlamydia,2021,Utah,Rich County,49,033,39,1–208
+Chlamydia,2021,Utah,Salt Lake County,49,035,491,"490–3,468"
+Chlamydia,2021,Utah,San Juan County,49,037,290,209–305
+Chlamydia,2021,Utah,Sanpete County,49,039,172,1–208
+Chlamydia,2021,Utah,Sevier County,49,041,192,1–208
+Chlamydia,2021,Utah,Summit County,49,043,258,209–305
+Chlamydia,2021,Utah,Tooele County,49,045,257,209–305
+Chlamydia,2021,Utah,Uintah County,49,047,207,1–208
+Chlamydia,2021,Utah,Utah County,49,049,233,209–305
+Chlamydia,2021,Utah,Wasatch County,49,051,141,1–208
+Chlamydia,2021,Utah,Washington County,49,053,261,209–305
+Chlamydia,2021,Utah,Wayne County,49,055,352,306–489
+Chlamydia,2021,Utah,Weber County,49,057,360,306–489
+Chlamydia,2021,Vermont,Addison County,50,001,129,1–208
+Chlamydia,2021,Vermont,Bennington County,50,003,121,1–208
+Chlamydia,2021,Vermont,Caledonia County,50,005,89,1–208
+Chlamydia,2021,Vermont,Chittenden County,50,007,175,1–208
+Chlamydia,2021,Vermont,Essex County,50,009,84,1–208
+Chlamydia,2021,Vermont,Franklin County,50,011,117,1–208
+Chlamydia,2021,Vermont,Grand Isle County,50,013,175,1–208
+Chlamydia,2021,Vermont,Lamoille County,50,015,149,1–208
+Chlamydia,2021,Vermont,Orange County,50,017,98,1–208
+Chlamydia,2021,Vermont,Orleans County,50,019,142,1–208
+Chlamydia,2021,Vermont,Rutland County,50,021,127,1–208
+Chlamydia,2021,Vermont,Washington County,50,023,73,1–208
+Chlamydia,2021,Vermont,Windham County,50,025,50,1–208
+Chlamydia,2021,Vermont,Windsor County,50,027,88,1–208
+Chlamydia,2021,Virginia,Accomack County,51,001,538,"490–3,468"
+Chlamydia,2021,Virginia,Albemarle County,51,003,277,209–305
+Chlamydia,2021,Virginia,Alleghany County,51,005,220,209–305
+Chlamydia,2021,Virginia,Amelia County,51,007,264,209–305
+Chlamydia,2021,Virginia,Amherst County,51,009,288,209–305
+Chlamydia,2021,Virginia,Appomattox County,51,011,355,306–489
+Chlamydia,2021,Virginia,Arlington County,51,013,390,306–489
+Chlamydia,2021,Virginia,Augusta County,51,015,255,209–305
+Chlamydia,2021,Virginia,Bath County,51,017,243,209–305
+Chlamydia,2021,Virginia,Bedford County,51,019,207,1–208
+Chlamydia,2021,Virginia,Bland County,51,021,113,1–208
+Chlamydia,2021,Virginia,Botetourt County,51,023,210,209–305
+Chlamydia,2021,Virginia,Brunswick County,51,025,571,"490–3,468"
+Chlamydia,2021,Virginia,Buchanan County,51,027,161,1–208
+Chlamydia,2021,Virginia,Buckingham County,51,029,401,306–489
+Chlamydia,2021,Virginia,Campbell County,51,031,314,306–489
+Chlamydia,2021,Virginia,Caroline County,51,033,389,306–489
+Chlamydia,2021,Virginia,Carroll County,51,035,124,1–208
+Chlamydia,2021,Virginia,Charles City County,51,036,288,209–305
+Chlamydia,2021,Virginia,Charlotte County,51,037,419,306–489
+Chlamydia,2021,Virginia,Chesterfield County,51,041,430,306–489
+Chlamydia,2021,Virginia,Clarke County,51,043,148,1–208
+Chlamydia,2021,Virginia,Craig County,51,045,247,209–305
+Chlamydia,2021,Virginia,Culpeper County,51,047,371,306–489
+Chlamydia,2021,Virginia,Cumberland County,51,049,496,"490–3,468"
+Chlamydia,2021,Virginia,Dickenson County,51,051,218,209–305
+Chlamydia,2021,Virginia,Dinwiddie County,51,053,434,306–489
+Chlamydia,2021,Virginia,Essex County,51,057,577,"490–3,468"
+Chlamydia,2021,Virginia,Fairfax County,51,059,281,209–305
+Chlamydia,2021,Virginia,Fauquier County,51,061,215,209–305
+Chlamydia,2021,Virginia,Floyd County,51,063,109,1–208
+Chlamydia,2021,Virginia,Fluvanna County,51,065,242,209–305
+Chlamydia,2021,Virginia,Franklin County,51,067,269,209–305
+Chlamydia,2021,Virginia,Frederick County,51,069,243,209–305
+Chlamydia,2021,Virginia,Giles County,51,071,181,1–208
+Chlamydia,2021,Virginia,Gloucester County,51,073,256,209–305
+Chlamydia,2021,Virginia,Goochland County,51,075,196,1–208
+Chlamydia,2021,Virginia,Grayson County,51,077,137,1–208
+Chlamydia,2021,Virginia,Greene County,51,079,262,209–305
+Chlamydia,2021,Virginia,Greensville County,51,081,463,306–489
+Chlamydia,2021,Virginia,Halifax County,51,083,376,306–489
+Chlamydia,2021,Virginia,Hanover County,51,085,249,209–305
+Chlamydia,2021,Virginia,Henrico County,51,087,564,"490–3,468"
+Chlamydia,2021,Virginia,Henry County,51,089,340,306–489
+Chlamydia,2021,Virginia,Highland County,51,091,0,0
+Chlamydia,2021,Virginia,Isle of Wight County,51,093,382,306–489
+Chlamydia,2021,Virginia,James City County,51,095,319,306–489
+Chlamydia,2021,Virginia,King and Queen County,51,097,255,209–305
+Chlamydia,2021,Virginia,King George County,51,099,313,306–489
+Chlamydia,2021,Virginia,King William County,51,101,303,209–305
+Chlamydia,2021,Virginia,Lancaster County,51,103,384,306–489
+Chlamydia,2021,Virginia,Lee County,51,105,155,1–208
+Chlamydia,2021,Virginia,Loudoun County,51,107,201,1–208
+Chlamydia,2021,Virginia,Louisa County,51,109,306,306–489
+Chlamydia,2021,Virginia,Lunenburg County,51,111,377,306–489
+Chlamydia,2021,Virginia,Madison County,51,113,230,209–305
+Chlamydia,2021,Virginia,Mathews County,51,115,164,1–208
+Chlamydia,2021,Virginia,Mecklenburg County,51,117,509,"490–3,468"
+Chlamydia,2021,Virginia,Middlesex County,51,119,260,209–305
+Chlamydia,2021,Virginia,Montgomery County,51,121,366,306–489
+Chlamydia,2021,Virginia,Nelson County,51,125,216,209–305
+Chlamydia,2021,Virginia,New Kent County,51,127,226,209–305
+Chlamydia,2021,Virginia,Northampton County,51,131,579,"490–3,468"
+Chlamydia,2021,Virginia,Northumberland County,51,133,432,306–489
+Chlamydia,2021,Virginia,Nottoway County,51,135,712,"490–3,468"
+Chlamydia,2021,Virginia,Orange County,51,137,264,209–305
+Chlamydia,2021,Virginia,Page County,51,139,269,209–305
+Chlamydia,2021,Virginia,Patrick County,51,141,148,1–208
+Chlamydia,2021,Virginia,Pittsylvania County,51,143,350,306–489
+Chlamydia,2021,Virginia,Powhatan County,51,145,196,1–208
+Chlamydia,2021,Virginia,Prince Edward County,51,147,620,"490–3,468"
+Chlamydia,2021,Virginia,Prince George County,51,149,464,306–489
+Chlamydia,2021,Virginia,Prince William County,51,153,413,306–489
+Chlamydia,2021,Virginia,Pulaski County,51,155,240,209–305
+Chlamydia,2021,Virginia,Rappahannock County,51,157,216,209–305
+Chlamydia,2021,Virginia,Richmond County,51,159,366,306–489
+Chlamydia,2021,Virginia,Roanoke County,51,161,295,209–305
+Chlamydia,2021,Virginia,Rockbridge County,51,163,141,1–208
+Chlamydia,2021,Virginia,Rockingham County,51,165,286,209–305
+Chlamydia,2021,Virginia,Russell County,51,167,184,1–208
+Chlamydia,2021,Virginia,Scott County,51,169,145,1–208
+Chlamydia,2021,Virginia,Shenandoah County,51,171,241,209–305
+Chlamydia,2021,Virginia,Smyth County,51,173,173,1–208
+Chlamydia,2021,Virginia,Southampton County,51,175,422,306–489
+Chlamydia,2021,Virginia,Spotsylvania County,51,177,324,306–489
+Chlamydia,2021,Virginia,Stafford County,51,179,377,306–489
+Chlamydia,2021,Virginia,Surry County,51,181,413,306–489
+Chlamydia,2021,Virginia,Sussex County,51,183,595,"490–3,468"
+Chlamydia,2021,Virginia,Tazewell County,51,185,175,1–208
+Chlamydia,2021,Virginia,Warren County,51,187,230,209–305
+Chlamydia,2021,Virginia,Washington County,51,191,190,1–208
+Chlamydia,2021,Virginia,Westmoreland County,51,193,475,306–489
+Chlamydia,2021,Virginia,Wise County,51,195,230,209–305
+Chlamydia,2021,Virginia,Wythe County,51,197,170,1–208
+Chlamydia,2021,Virginia,York County,51,199,276,209–305
+Chlamydia,2021,Virginia,Alexandria city,51,510,471,306–489
+Chlamydia,2021,Virginia,Bristol city,51,520,293,209–305
+Chlamydia,2021,Virginia,Buena Vista city,51,530,364,306–489
+Chlamydia,2021,Virginia,Charlottesville city,51,540,442,306–489
+Chlamydia,2021,Virginia,Chesapeake city,51,550,655,"490–3,468"
+Chlamydia,2021,Virginia,Colonial Heights city,51,570,498,"490–3,468"
+Chlamydia,2021,Virginia,Covington city,51,580,350,306–489
+Chlamydia,2021,Virginia,Danville city,51,590,751,"490–3,468"
+Chlamydia,2021,Virginia,Emporia city,51,595,723,"490–3,468"
+Chlamydia,2021,Virginia,Fairfax city,51,600,313,306–489
+Chlamydia,2021,Virginia,Falls Church city,51,610,207,1–208
+Chlamydia,2021,Virginia,Franklin city,51,620,888,"490–3,468"
+Chlamydia,2021,Virginia,Fredericksburg city,51,630,546,"490–3,468"
+Chlamydia,2021,Virginia,Galax city,51,640,345,306–489
+Chlamydia,2021,Virginia,Hampton city,51,650,"1,074","490–3,468"
+Chlamydia,2021,Virginia,Harrisonburg city,51,660,992,"490–3,468"
+Chlamydia,2021,Virginia,Hopewell city,51,670,912,"490–3,468"
+Chlamydia,2021,Virginia,Lexington city,51,678,362,306–489
+Chlamydia,2021,Virginia,Lynchburg city,51,680,625,"490–3,468"
+Chlamydia,2021,Virginia,Manassas city,51,683,527,"490–3,468"
+Chlamydia,2021,Virginia,Manassas Park city,51,685,629,"490–3,468"
+Chlamydia,2021,Virginia,Martinsville city,51,690,651,"490–3,468"
+Chlamydia,2021,Virginia,Newport News city,51,700,"1,042","490–3,468"
+Chlamydia,2021,Virginia,Norfolk city,51,710,"1,289","490–3,468"
+Chlamydia,2021,Virginia,Norton city,51,720,327,306–489
+Chlamydia,2021,Virginia,Petersburg city,51,730,"1,295","490–3,468"
+Chlamydia,2021,Virginia,Poquoson city,51,735,207,1–208
+Chlamydia,2021,Virginia,Portsmouth city,51,740,"1,336","490–3,468"
+Chlamydia,2021,Virginia,Radford city,51,750,982,"490–3,468"
+Chlamydia,2021,Virginia,Richmond city,51,760,"1,105","490–3,468"
+Chlamydia,2021,Virginia,Roanoke city,51,770,767,"490–3,468"
+Chlamydia,2021,Virginia,Salem city,51,775,382,306–489
+Chlamydia,2021,Virginia,Staunton city,51,790,386,306–489
+Chlamydia,2021,Virginia,Suffolk city,51,800,726,"490–3,468"
+Chlamydia,2021,Virginia,Virginia Beach city,51,810,632,"490–3,468"
+Chlamydia,2021,Virginia,Waynesboro city,51,820,457,306–489
+Chlamydia,2021,Virginia,Williamsburg city,51,830,404,306–489
+Chlamydia,2021,Virginia,Winchester city,51,840,501,"490–3,468"
+Chlamydia,2021,Washington,Adams County,53,001,451,306–489
+Chlamydia,2021,Washington,Asotin County,53,003,205,1–208
+Chlamydia,2021,Washington,Benton County,53,005,472,306–489
+Chlamydia,2021,Washington,Chelan County,53,007,345,306–489
+Chlamydia,2021,Washington,Clallam County,53,009,198,1–208
+Chlamydia,2021,Washington,Clark County,53,011,377,306–489
+Chlamydia,2021,Washington,Columbia County,53,013,124,1–208
+Chlamydia,2021,Washington,Cowlitz County,53,015,327,306–489
+Chlamydia,2021,Washington,Douglas County,53,017,419,306–489
+Chlamydia,2021,Washington,Ferry County,53,019,165,1–208
+Chlamydia,2021,Washington,Franklin County,53,021,668,"490–3,468"
+Chlamydia,2021,Washington,Garfield County,53,023,85,1–208
+Chlamydia,2021,Washington,Grant County,53,025,442,306–489
+Chlamydia,2021,Washington,Grays Harbor County,53,027,312,306–489
+Chlamydia,2021,Washington,Island County,53,029,214,209–305
+Chlamydia,2021,Washington,Jefferson County,53,031,122,1–208
+Chlamydia,2021,Washington,King County,53,033,332,306–489
+Chlamydia,2021,Washington,Kitsap County,53,035,389,306–489
+Chlamydia,2021,Washington,Kittitas County,53,037,369,306–489
+Chlamydia,2021,Washington,Klickitat County,53,039,242,209–305
+Chlamydia,2021,Washington,Lewis County,53,041,256,209–305
+Chlamydia,2021,Washington,Lincoln County,53,043,116,1–208
+Chlamydia,2021,Washington,Mason County,53,045,336,306–489
+Chlamydia,2021,Washington,Okanogan County,53,047,246,209–305
+Chlamydia,2021,Washington,Pacific County,53,049,121,1–208
+Chlamydia,2021,Washington,Pend Oreille County,53,051,158,1–208
+Chlamydia,2021,Washington,Pierce County,53,053,556,"490–3,468"
+Chlamydia,2021,Washington,San Juan County,53,055,5,1–208
+Chlamydia,2021,Washington,Skagit County,53,057,295,209–305
+Chlamydia,2021,Washington,Skamania County,53,059,156,1–208
+Chlamydia,2021,Washington,Snohomish County,53,061,286,209–305
+Chlamydia,2021,Washington,Spokane County,53,063,460,306–489
+Chlamydia,2021,Washington,Stevens County,53,065,190,1–208
+Chlamydia,2021,Washington,Thurston County,53,067,321,306–489
+Chlamydia,2021,Washington,Wahkiakum County,53,069,87,1–208
+Chlamydia,2021,Washington,Walla Walla County,53,071,407,306–489
+Chlamydia,2021,Washington,Whatcom County,53,073,326,306–489
+Chlamydia,2021,Washington,Whitman County,53,075,742,"490–3,468"
+Chlamydia,2021,Washington,Yakima County,53,077,687,"490–3,468"
+Chlamydia,2021,West Virginia,Barbour County,54,001,246,209–305
+Chlamydia,2021,West Virginia,Berkeley County,54,003,278,209–305
+Chlamydia,2021,West Virginia,Boone County,54,005,277,209–305
+Chlamydia,2021,West Virginia,Braxton County,54,007,253,209–305
+Chlamydia,2021,West Virginia,Brooke County,54,009,285,209–305
+Chlamydia,2021,West Virginia,Cabell County,54,011,538,"490–3,468"
+Chlamydia,2021,West Virginia,Calhoun County,54,013,65,1–208
+Chlamydia,2021,West Virginia,Clay County,54,015,139,1–208
+Chlamydia,2021,West Virginia,Doddridge County,54,017,271,209–305
+Chlamydia,2021,West Virginia,Fayette County,54,019,296,209–305
+Chlamydia,2021,West Virginia,Gilmer County,54,021,136,1–208
+Chlamydia,2021,West Virginia,Grant County,54,023,164,1–208
+Chlamydia,2021,West Virginia,Greenbrier County,54,025,227,209–305
+Chlamydia,2021,West Virginia,Hampshire County,54,027,137,1–208
+Chlamydia,2021,West Virginia,Hancock County,54,029,161,1–208
+Chlamydia,2021,West Virginia,Hardy County,54,031,177,1–208
+Chlamydia,2021,West Virginia,Harrison County,54,033,216,209–305
+Chlamydia,2021,West Virginia,Jackson County,54,035,224,209–305
+Chlamydia,2021,West Virginia,Jefferson County,54,037,183,1–208
+Chlamydia,2021,West Virginia,Kanawha County,54,039,447,306–489
+Chlamydia,2021,West Virginia,Lewis County,54,041,184,1–208
+Chlamydia,2021,West Virginia,Lincoln County,54,043,174,1–208
+Chlamydia,2021,West Virginia,Logan County,54,045,266,209–305
+Chlamydia,2021,West Virginia,McDowell County,54,047,207,1–208
+Chlamydia,2021,West Virginia,Marion County,54,049,316,306–489
+Chlamydia,2021,West Virginia,Marshall County,54,051,193,1–208
+Chlamydia,2021,West Virginia,Mason County,54,053,242,209–305
+Chlamydia,2021,West Virginia,Mercer County,54,055,300,209–305
+Chlamydia,2021,West Virginia,Mineral County,54,057,201,1–208
+Chlamydia,2021,West Virginia,Mingo County,54,059,152,1–208
+Chlamydia,2021,West Virginia,Monongalia County,54,061,503,"490–3,468"
+Chlamydia,2021,West Virginia,Monroe County,54,063,259,209–305
+Chlamydia,2021,West Virginia,Morgan County,54,065,116,1–208
+Chlamydia,2021,West Virginia,Nicholas County,54,067,235,209–305
+Chlamydia,2021,West Virginia,Ohio County,54,069,318,306–489
+Chlamydia,2021,West Virginia,Pendleton County,54,071,163,1–208
+Chlamydia,2021,West Virginia,Pleasants County,54,073,145,1–208
+Chlamydia,2021,West Virginia,Pocahontas County,54,075,153,1–208
+Chlamydia,2021,West Virginia,Preston County,54,077,143,1–208
+Chlamydia,2021,West Virginia,Putnam County,54,079,201,1–208
+Chlamydia,2021,West Virginia,Raleigh County,54,081,388,306–489
+Chlamydia,2021,West Virginia,Randolph County,54,083,381,306–489
+Chlamydia,2021,West Virginia,Ritchie County,54,085,262,209–305
+Chlamydia,2021,West Virginia,Roane County,54,087,151,1–208
+Chlamydia,2021,West Virginia,Summers County,54,089,210,209–305
+Chlamydia,2021,West Virginia,Taylor County,54,091,218,209–305
+Chlamydia,2021,West Virginia,Tucker County,54,093,165,1–208
+Chlamydia,2021,West Virginia,Tyler County,54,095,135,1–208
+Chlamydia,2021,West Virginia,Upshur County,54,097,286,209–305
+Chlamydia,2021,West Virginia,Wayne County,54,099,265,209–305
+Chlamydia,2021,West Virginia,Webster County,54,101,255,209–305
+Chlamydia,2021,West Virginia,Wetzel County,54,103,183,1–208
+Chlamydia,2021,West Virginia,Wirt County,54,105,237,209–305
+Chlamydia,2021,West Virginia,Wood County,54,107,256,209–305
+Chlamydia,2021,West Virginia,Wyoming County,54,109,143,1–208
+Chlamydia,2021,Wisconsin,Adams County,55,001,129,1–208
+Chlamydia,2021,Wisconsin,Ashland County,55,003,292,209–305
+Chlamydia,2021,Wisconsin,Barron County,55,005,250,209–305
+Chlamydia,2021,Wisconsin,Bayfield County,55,007,129,1–208
+Chlamydia,2021,Wisconsin,Brown County,55,009,476,306–489
+Chlamydia,2021,Wisconsin,Buffalo County,55,011,188,1–208
+Chlamydia,2021,Wisconsin,Burnett County,55,013,209,209–305
+Chlamydia,2021,Wisconsin,Calumet County,55,015,228,209–305
+Chlamydia,2021,Wisconsin,Chippewa County,55,017,215,209–305
+Chlamydia,2021,Wisconsin,Clark County,55,019,161,1–208
+Chlamydia,2021,Wisconsin,Columbia County,55,021,246,209–305
+Chlamydia,2021,Wisconsin,Crawford County,55,023,168,1–208
+Chlamydia,2021,Wisconsin,Dane County,55,025,512,"490–3,468"
+Chlamydia,2021,Wisconsin,Dodge County,55,027,357,306–489
+Chlamydia,2021,Wisconsin,Door County,55,029,191,1–208
+Chlamydia,2021,Wisconsin,Douglas County,55,031,348,306–489
+Chlamydia,2021,Wisconsin,Dunn County,55,033,312,306–489
+Chlamydia,2021,Wisconsin,Eau Claire County,55,035,379,306–489
+Chlamydia,2021,Wisconsin,Florence County,55,037,65,1–208
+Chlamydia,2021,Wisconsin,Fond du Lac County,55,039,352,306–489
+Chlamydia,2021,Wisconsin,Forest County,55,041,151,1–208
+Chlamydia,2021,Wisconsin,Grant County,55,043,261,209–305
+Chlamydia,2021,Wisconsin,Green County,55,045,197,1–208
+Chlamydia,2021,Wisconsin,Green Lake County,55,047,187,1–208
+Chlamydia,2021,Wisconsin,Iowa County,55,049,173,1–208
+Chlamydia,2021,Wisconsin,Iron County,55,051,259,209–305
+Chlamydia,2021,Wisconsin,Jackson County,55,053,204,1–208
+Chlamydia,2021,Wisconsin,Jefferson County,55,055,260,209–305
+Chlamydia,2021,Wisconsin,Juneau County,55,057,366,306–489
+Chlamydia,2021,Wisconsin,Kenosha County,55,059,467,306–489
+Chlamydia,2021,Wisconsin,Kewaunee County,55,061,209,209–305
+Chlamydia,2021,Wisconsin,La Crosse County,55,063,532,"490–3,468"
+Chlamydia,2021,Wisconsin,Lafayette County,55,065,197,1–208
+Chlamydia,2021,Wisconsin,Langlade County,55,067,231,209–305
+Chlamydia,2021,Wisconsin,Lincoln County,55,069,238,209–305
+Chlamydia,2021,Wisconsin,Manitowoc County,55,071,290,209–305
+Chlamydia,2021,Wisconsin,Marathon County,55,073,257,209–305
+Chlamydia,2021,Wisconsin,Marinette County,55,075,318,306–489
+Chlamydia,2021,Wisconsin,Marquette County,55,077,114,1–208
+Chlamydia,2021,Wisconsin,Menominee County,55,078,979,"490–3,468"
+Chlamydia,2021,Wisconsin,Milwaukee County,55,079,"1,176","490–3,468"
+Chlamydia,2021,Wisconsin,Monroe County,55,081,338,306–489
+Chlamydia,2021,Wisconsin,Oconto County,55,083,213,209–305
+Chlamydia,2021,Wisconsin,Oneida County,55,085,139,1–208
+Chlamydia,2021,Wisconsin,Outagamie County,55,087,318,306–489
+Chlamydia,2021,Wisconsin,Ozaukee County,55,089,141,1–208
+Chlamydia,2021,Wisconsin,Pepin County,55,091,68,1–208
+Chlamydia,2021,Wisconsin,Pierce County,55,093,216,209–305
+Chlamydia,2021,Wisconsin,Polk County,55,095,185,1–208
+Chlamydia,2021,Wisconsin,Portage County,55,097,414,306–489
+Chlamydia,2021,Wisconsin,Price County,55,099,149,1–208
+Chlamydia,2021,Wisconsin,Racine County,55,101,632,"490–3,468"
+Chlamydia,2021,Wisconsin,Richland County,55,103,267,209–305
+Chlamydia,2021,Wisconsin,Rock County,55,105,520,"490–3,468"
+Chlamydia,2021,Wisconsin,Rusk County,55,107,248,209–305
+Chlamydia,2021,Wisconsin,St. Croix County,55,109,137,1–208
+Chlamydia,2021,Wisconsin,Sauk County,55,111,393,306–489
+Chlamydia,2021,Wisconsin,Sawyer County,55,113,191,1–208
+Chlamydia,2021,Wisconsin,Shawano County,55,115,264,209–305
+Chlamydia,2021,Wisconsin,Sheboygan County,55,117,294,209–305
+Chlamydia,2021,Wisconsin,Taylor County,55,119,95,1–208
+Chlamydia,2021,Wisconsin,Trempealeau County,55,121,231,209–305
+Chlamydia,2021,Wisconsin,Vernon County,55,123,133,1–208
+Chlamydia,2021,Wisconsin,Vilas County,55,125,55,1–208
+Chlamydia,2021,Wisconsin,Walworth County,55,127,289,209–305
+Chlamydia,2021,Wisconsin,Washburn County,55,129,131,1–208
+Chlamydia,2021,Wisconsin,Washington County,55,131,178,1–208
+Chlamydia,2021,Wisconsin,Waukesha County,55,133,186,1–208
+Chlamydia,2021,Wisconsin,Waupaca County,55,135,242,209–305
+Chlamydia,2021,Wisconsin,Waushara County,55,137,165,1–208
+Chlamydia,2021,Wisconsin,Winnebago County,55,139,429,306–489
+Chlamydia,2021,Wisconsin,Wood County,55,141,240,209–305
+Chlamydia,2021,Wyoming,Albany County,56,001,399,306–489
+Chlamydia,2021,Wyoming,Big Horn County,56,003,172,1–208
+Chlamydia,2021,Wyoming,Campbell County,56,005,345,306–489
+Chlamydia,2021,Wyoming,Carbon County,56,007,157,1–208
+Chlamydia,2021,Wyoming,Converse County,56,009,490,"490–3,468"
+Chlamydia,2021,Wyoming,Crook County,56,011,137,1–208
+Chlamydia,2021,Wyoming,Fremont County,56,013,511,"490–3,468"
+Chlamydia,2021,Wyoming,Goshen County,56,015,375,306–489
+Chlamydia,2021,Wyoming,Hot Springs County,56,017,174,1–208
+Chlamydia,2021,Wyoming,Johnson County,56,019,255,209–305
+Chlamydia,2021,Wyoming,Laramie County,56,021,414,306–489
+Chlamydia,2021,Wyoming,Lincoln County,56,023,104,1–208
+Chlamydia,2021,Wyoming,Natrona County,56,025,597,"490–3,468"
+Chlamydia,2021,Wyoming,Niobrara County,56,027,0,0
+Chlamydia,2021,Wyoming,Park County,56,029,236,209–305
+Chlamydia,2021,Wyoming,Platte County,56,031,138,1–208
+Chlamydia,2021,Wyoming,Sheridan County,56,033,281,209–305
+Chlamydia,2021,Wyoming,Sublette County,56,035,184,1–208
+Chlamydia,2021,Wyoming,Sweetwater County,56,037,310,306–489
+Chlamydia,2021,Wyoming,Teton County,56,039,344,306–489
+Chlamydia,2021,Wyoming,Uinta County,56,041,170,1–208
+Chlamydia,2021,Wyoming,Washakie County,56,043,208,1–208
+Chlamydia,2021,Wyoming,Weston County,56,045,104,1–208
