@@ -49,9 +49,9 @@ library(ggiraph)
 data <- read.csv("Chlamydia - Rates of Reported Cases by County United States 2021 .csv", header = TRUE)
 data$Rate <- as.numeric(data$Rate)
 
-invisible({
+invisible(suppressWarnings({
   us_counties <- tigris::counties(cb = TRUE, resolution = "20m", year = 2020, class = "sf", progress = FALSE)
-})
+}))
 
 
 
@@ -95,9 +95,9 @@ library(ggiraph)
 data2 <- read.csv("Gonorrhea - Rates of Reported Cases by County United States 2021 .csv", header = TRUE)
 data2$Rate <- as.numeric(data2$Rate)
 
-invisible({
+invisible(suppressWarnings({
   us_counties <- tigris::counties(cb = TRUE, resolution = "20m", year = 2020, class = "sf", progress = FALSE)
-})
+}))
 
 
 us_counties_contiguous <- us_counties %>% 
@@ -142,9 +142,9 @@ library(ggiraph)
 data3 <- read.csv("Primary and Secondary Syphilis - Rates of Reported Cases by County United States 2021 .csv", header = TRUE)
 data3$Rate <- as.numeric(data3$Rate)
 
-invisible({
+invisible(suppressWarnings({
   us_counties <- tigris::counties(cb = TRUE, resolution = "20m", year = 2020, class = "sf", progress = FALSE)
-})
+}))
 
 
 us_counties_contiguous <- us_counties %>% 
