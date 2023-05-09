@@ -32,8 +32,8 @@ library(tigris)
 
 suppressPackageStartupMessages(library(tigris))
 
-#STIDictionary<-read_excel("STISheet.xlsx")
-#knitr::kable(STIDictionary)
+STIDictionary<-read_excel("STISheet.xlsx")
+knitr::kable(STIDictionary)
 ```
 
 ```{r}
@@ -51,7 +51,7 @@ library(dplyr)
 library(ggiraph)
 
 data <- read.csv("Chlamydia - Rates of Reported Cases by County United States 2021 .csv", header = TRUE)
-data$Rate <- as.numeric(gsub(",", "", data$Rate), na.rm = TRUE)
+data$Rate <- as.numeric(gsub(",", "", data$Rate))
 
 invisible(suppressWarnings({
   us_counties <- tigris::counties(cb = TRUE, resolution = "20m", year = 2020, class = "sf", progress = FALSE)
@@ -64,7 +64,7 @@ us_counties_contiguous <- us_counties %>%
     !(STATEFP %in% c("02", "15", "60", "66", "69", "72", "78"))
   )
 
-us_counties_data <- left_join(us_counties, data, by = c("NAMELSAD" = "County"), relationship = "many-to-many")
+us_counties_data <- left_join(us_counties, data, by = c("NAMELSAD" = "County", "STATE_NAME" = "State"))
 us_counties_data$Rate <- as.numeric(us_counties_data$Rate)
 
 us_counties_data_contiguous <- us_counties_data %>% 
@@ -109,7 +109,7 @@ us_counties_contiguous <- us_counties %>%
     !(STATEFP %in% c("02", "15", "60", "66", "69", "72", "78"))
   )
 
-us_counties_data <- left_join(us_counties, data2, by = c("NAMELSAD" = "County"), relationship = "many-to-many")
+us_counties_data <- left_join(us_counties, data2, by = c("NAMELSAD" = "County", "STATE_NAME" = "State"))
 us_counties_data$Rate <- as.numeric(us_counties_data$Rate)
 
 us_counties_data_contiguous <- us_counties_data %>% 
@@ -156,7 +156,7 @@ us_counties_contiguous <- us_counties %>%
     !(STATEFP %in% c("02", "15", "60", "66", "69", "72", "78"))
   )
 
-us_counties_data <- left_join(us_counties, data3, by = c("NAMELSAD" = "County"), relationship = "many-to-many")
+us_counties_data <- left_join(us_counties, data3, by = c("NAMELSAD" = "County", "STATE_NAME" = "State"))
 us_counties_data$Rate <- as.numeric(us_counties_data$Rate)
 
 us_counties_data_contiguous <- us_counties_data %>% 
