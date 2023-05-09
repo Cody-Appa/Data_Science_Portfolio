@@ -171,7 +171,7 @@ my_colors <- c('blue', 'red', 'orange', 'yellow')
 
 
 gg <- ggplot() +
-  geom_sf_interactive(data = us_counties_data_contiguous, aes(fill = Rate, tooltip = paste(NAMELSAD, "<br>", STATE_NAME, "<br>", "Rate:", Rate)), color = "grey", size = 0.1) +
+geom_sf_interactive(data = us_counties_data_contiguous, aes(fill = Rate, tooltip = paste(NAMELSAD, "<br>", STATE_NAME, "<br>", "Rate:", Rate)), color = "grey", size = 0.1) +
   scale_fill_gradientn(colors = my_colors, na.value = "grey70", name = "Rate") + 
   labs(title = "Primary and Secondary Syphilis Infection Rate by County 2021", caption = "Figure 3: Total infection rate of primary and secondary Syphilis by county") +
   theme_minimal() +
